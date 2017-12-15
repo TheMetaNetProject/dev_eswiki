@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=diagnosis of affliction physical
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aflicción física
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Tratar una aflicción física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diseccionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diagnosticar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diagnóstico.n
+}}
+|LinkEnglish=Diagnosis of affliction
+}}

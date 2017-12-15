@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Computer
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=computadora_en_conjunto
+|Role.Name gloss=computer_whole
+}}{{Role
+|Role.Name=función_de_computadora
+|Role.Name gloss=computer_function
+}}{{Role
+|Role.Name=partes_de_computadora
+|Role.Name gloss=computer_parts
+}}{{Role
+|Role.Name=propósito_de_computadora
+|Role.Name gloss=computer_purpose
+}}{{Role
+|Role.Name=proceso_computacional
+|Role.Name gloss=computational_process
+}}{{Role
+|Role.Name=hardware
+|Role.Name gloss=hardware
+}}{{Role
+|Role.Name=software
+|Role.Name gloss=software
+}}{{Role
+|Role.Name=usuario_de_computadora
+|Role.Name gloss=computer_user
+}}{{Role
+|Role.Name=fuente_de_alimentación
+|Role.Name gloss=power_source
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Máquina
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=computadora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=laptop.n
+}}
+|LinkEnglish=Computer
+|Applicability=Spanish
+}}

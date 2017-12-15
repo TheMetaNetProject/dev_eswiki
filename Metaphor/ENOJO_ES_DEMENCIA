@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=anger is insanity
+|Aliases=
+|Family=Metáforas de Enojo,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Demencia
+|Target frame=Enojo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=EMOCIONES SON FUERZAS
+|Related metaphor.Description=Demencia de este tipo es perder control porque la fuerza del enojo roba control
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=¡Le da una rabia pagar tanto!
+|Example.Gloss=3s.dat give.prs.3s indef rage pay.inf so.much
+|Example.English translation=It pisses him/her/you off to pay so much!
+}}
+|Entered by=M.E.,
+|Status=in development
+|Investigated for=Spanish
+}}

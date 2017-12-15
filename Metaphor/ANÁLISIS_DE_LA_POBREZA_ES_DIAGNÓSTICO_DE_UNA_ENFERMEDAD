@@ -1,0 +1,45 @@
+{{Metaphor
+|Name gloss=analysis of the poverty is diagnosis of a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANÁLISIS DE LA POBREZA ES DIAGNÓSTICO DE UNA ENFERMEDAD
+}}
+|Description=e.g. las síntomas de la pobreza
+|Family=Metáforas de Pobreza, Metáforas de pobreza como problema social, Metáforas de aflicciones físicas,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ANÁLISIS DE PROBLEMAS SOCIALES ES DIAGNÓSTICO DE UNA ENFERMEDAD
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=POBREZA ES UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El diagnóstico fenoménico atiende a los síntomas de la pobreza, que son básicamente carencias: de alimentación, salud, educación, entre muchas otras.
+|Example.Gloss=the diagnosis phenomenic attends to the symptoms of the poverty that are basically shortages of food health education among many others
+|Example.English translation=The phenomenic diagnosis attends to the symptoms of poverty, which are basically shortages: of food, health, education, among many others.
+|Example.Provenance=http://www.observacoop.org.mx/docs/Dec2009/Dec2009-0022.pdf
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Ofrece la CONEVAL un diagnóstico de la pobreza en México
+|Example.Gloss=offers the CONEVAL a diagnosis of the poverty in Mexico
+|Example.English translation=CONEVAL offers a diagnosis of poverty in Mexico.
+|Example.Provenance=http://www.itesm.mx/cronicaintercampus/no_122/academica_sec_3.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Se analizan los antecedentes centrados en el diagnóstico de la pobreza en México, así como las diversas fuentes de información y la descripción de los indicadores de pobreza.
+|Example.Gloss=refl analyze the antecedents centered in the diagnosis of the poverty in Mexico like-this as the diverse sources of information and the description of the indicators of poverty
+|Example.English translation=The precedents are analyzed, centered in the diagnosis of poverty in Mexico, using the various sources of information and descriptions of the indicators of poverty.
+|Example.Provenance=http://coepo.app.jalisco.gob.mx/PDF/LibroDiezproblemas/Capitulo7.pdf
+|Example.Comments=diagnóstico de la pobreza
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

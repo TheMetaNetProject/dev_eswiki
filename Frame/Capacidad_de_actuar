@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=ability to act
+|Family=Esquemas de Acción, 
+|Type=Cog
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=capacidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=capaz.a
+}}
+|LinkEnglish=Ability to act
+|Applicability=Spanish
+}}

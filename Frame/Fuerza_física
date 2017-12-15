@@ -1,0 +1,89 @@
+{{Frame
+|Name gloss=force/strength physical
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Poder
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuerza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortalecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vigorizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tonificar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resistencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=potencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortaleza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=solidez.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corpulencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=firmeza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contrarrestar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atornillar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extraer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortísimo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuerte.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=musculoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=robustecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=robustecer.v a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=músculo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fornido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resistente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vitalidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poderío.n
+}}
+|LinkEnglish=Physical strength
+|Applicability=Spanish
+}}

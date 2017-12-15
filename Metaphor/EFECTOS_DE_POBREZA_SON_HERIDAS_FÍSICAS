@@ -1,0 +1,50 @@
+{{Metaphor
+|Name gloss=effects of poverty are wounds physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EFECTOS DE POBREZA SON HERIDAS FÍSICAS
+}}
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Daño físico
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ADVERSIDAD ECONÓMICA ES DAÑO FÍSICO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El accidente del jueves por la tarde vuelve a abrir las viejas heridas de la pobreza extrema y la marginación que surcan al estado de Guerrero, reabre la indignación, pero también adelanta un pronóstico inicuo: no pasará nada.
+|Example.Gloss=the accident of-the Thursday for the afternoon turns to open the old wounds of the poverty extreme and the marginalization that cross the state of Guerrero reopens the indignation but also advances a prognosis cruel not will-pass nothing
+|Example.English translation=Thursday afternoon's accident reopened the old wounds of extreme poverty and marginalization that mark the state of Guerrero, reopens the indignation, but also suggests a cruel prognosis: nothing will happen.
+|Example.Provenance=http://www.lajornadaguerrero.com.mx/2012/07/07/index.php?section=opinion&article=002o1soc
+|Example.Comments=vuelve a abrir las viejas heridas de la pobreza extrema
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Hoy, dijo Rossi, casi todos los países latinoamericanos han vuelto a la democracia con imperfecciones, con problemas, con dolores y turbulencias; pero también es cierto que las heridas de la pobreza siguen abiertas en la mayoría de estas naciones como 30 años atrás o aun peor, como Argentina, en espera de ver quién la salva.
+|Example.Gloss=today said Rossi almost all the countries Latin-American have turned to the democracy with imperfections with problems with pains and turmoils but also is true that the wounds of the poverty continue open in the majority of these nations like 30 years before or even worse like Argentina in wait of see who it saves
+|Example.English translation=Today, said Rossi, almost all of the Latin American nations have turned to democracy with imperfections, problems, pains and turmoils. But it's also true that in most of these nations, the wounds of poverty remain open just like 30 years ago or even worse, like Argentina, waiting to see who will save them.
+|Example.Provenance=http://www.jornada.unam.mx/2004/09/01/04an1cul.php?origen=index.html&fly=1
+|Example.Comments=las heridas de la pobreza siguen abiertas
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Ideologías, movimientos bélicos y pacíficos, iniciativas y acuerdos multinacionales y más, mucho más, se ha pretendido estructurar para paliar necesidades, sin duda mucho se ha logrado, otro tanto evitado, pero la realidad nos dice que la gran mayoría de los pueblos viven agobiados por los dolores de la pobreza.
+|Example.Gloss=ideologies movements warlike and peaceful initiatives and agreements multinational and more much more refl has claimed structure to palliate needs without doubt much refl has achieved other some avoided but the reality us tells that the great majority of the communities live crushed by the pains of the poverty
+|Example.English translation=Ideologies, militant and peaceful movements, multinational initiatives and agreements and more, much more, has been claimed to provide the structure to alleviate needs. Without doubt much has been achieved, while much has not, but reality tells us that the great majority of communities live crushed by the pains of poverty.
+|Example.Provenance=http://www.oem.com.mx/eloccidental/notas/n2020416.htm
+|Example.Comments=los pueblos viven agobiados por los dolores de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=En forma subrepticia, la cadena televisiva introdujo a sus modelos, las más parecidas a nuestras indígenas de la sierra Tarahumara, que son morenas, ajadas de cara, con las cicatrices de la pobreza en el rostro, serias (modestas, sería lo correcto), llevando con orgullo su vestimenta clásica, con la que han transitado las mujeres serranas durante generaciones enteras.
+|Example.Gloss=in form surreptitious the channel television introduced to its models those most similar-in-appearance to our indigenous of the mountain-range Tarahumara that are dark-skinned haggard of face with the scars of the poverty on the face serious modest would-be the correct carrying with pride their garments classic with which that have move the women of-the-Sierra during generations entire
+|Example.English translation=Surreptitiously, the television channel introduced their models, those that look most similar to the indigenous people of the Tarahumara mountains, who are dark-skinned, with haggard faces, bearing the scars of poverty, stern ("modest" would be more appropriate), proudly wearing the traditional garments that women of the Sierra have worn for generations.
+|Example.Provenance=http://www.oem.com.mx/elmexicano/notas/n2020923.htm
+|Example.Comments=cicatrices de la pobreza
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

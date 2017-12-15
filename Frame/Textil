@@ -1,0 +1,65 @@
+{{Frame
+|Name gloss=textile
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estructura física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=textil.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tejido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hilo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fibra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remendar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coser.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enhebrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rasgar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=roto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desgarre
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desgarrón
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atorar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enganchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enganchón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sarga.n
+}}
+|LinkEnglish=Textile
+|Applicability=Spanish
+}}

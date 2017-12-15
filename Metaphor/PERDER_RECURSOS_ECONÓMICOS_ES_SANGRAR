@@ -1,0 +1,20 @@
+{{Metaphor
+|Name gloss=lose resources economic is bleeding
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PERDER RECURSOS ECONÓMICOS ES SANGRAR
+}}
+|Tags=Program sources
+|Family=Metáforas de Riqueza
+|Metaphor Level=Specific
+|Source frame=Circulación sanguínea
+|Target frame=Recursos económicos
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ECONOMÍA ES CUERPO
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development, auto imported
+}}

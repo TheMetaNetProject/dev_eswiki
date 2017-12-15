@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=education public is a pillar
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN PÚBLICA ES UN PILAR
+}}
+|Tags=Program sources
+|Family=Metáforas de Educación
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Estructura de soporte
+|Target frame=Educación pública
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=EDUCACIÓN ES UN ESTRUCTURA FÍSICA
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe
+|Status=in development, auto imported
+}}

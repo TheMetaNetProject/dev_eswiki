@@ -1,0 +1,63 @@
+{{Metaphor
+|Name gloss=wealth is up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RIQUEZA ES ARRIBA
+}}
+|Source frame=Verticalidad
+|Target frame=Riqueza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ESTADOS SON LUGARES
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MÁS ES ARRIBA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Que los de arriba paguen, pero se van a negar
+|Example.Gloss=That those of above pay but refl go to deny
+|Example.English translation=Those at the top need to pay, but they will deny it.
+|Example.Provenance=http://www.jornada.unam.mx/2012/06/02/politica/009n1pol
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Porque eso signiﬁca que uno está convencido de que los que están en el fondo de la sociedad merecen su fracaso y los que están arriba merecen su éxito.
+|Example.Gloss=because that signifies that one is convinced of that those that are in the bottom of the society deserve their failure and those that are above deserve their success
+|Example.English translation=Because that means that one is convinced that those at the bottom of society deserve their failure and those that are on top deserve their success.
+|Example.Provenance=http://portal.iteso.mx/portal/page/portal/Sinectica/Historico/Numeros_anteriores06/029/libros.pdf
+|Example.Comments="los que están arriba"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Una cosa es que los ricos se estuvieran haciendo más ricos y a los de en medio y a los de abajo también les fuera mejor, sobre todo si los esfuerzos de los de arriba fueran cruciales para los éxitos de los demás. En ese caso podríamos celebrar los éxitos de los de arriba, y estarles agradecidos por su contribución. Pero eso no es lo que ha venido ocurriendo.
+|Example.Gloss=one thing is that the rich refl were making more rich and to those of in middle and to those of above also to-them it-went better above all if the efforts of those of above were crucial for the successes of the rest. In that case we-could celebrate the successes of those of above and be-to-them grateful for their contribution but that not is what that has come occurring
+|Example.English translation=One thing would be for the rich to get richer while those in the middle class and at the bottom also improve, above all if the efforts of those on top were crucial for the successes of everyone else. In that case we could celebrate the successes of those on top and be grateful to them for their contribution. But this is not what has been happening.
+|Example.Provenance=http://www.razon.com.mx/spip.php?page=columnista&id_article=156698
+|Example.Annotation="los de arriba"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Las personas de clase alta son más propensas a violar las leyes de tránsito, a comer un caramelo destinado a otros o a mentir para enriquecerse aún más, según un estudio realizado en Estados Unidos y Canadá.
+|Example.Gloss=The people of class high are more inclined to violate the laws of transit to eat a candy destined to others or to lie in-order-to enrich-themselves even more, according-to a study realized in States United and Canada.
+|Example.English translation=People in the high class are more likely to violate traffic laws, eat a candy meant for someone else, or lie in order to enrich themselves even more, according to a study carried out in the U.S. and Canada.
+|Example.Provenance=http://www.jornada.unam.mx/2012/02/28/ciencias/a02n1cie
+|Example.Comments="clase alta"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La probabilidad de que su familia logre avanzar en la escalera socioeconómica, y sobre todo que llegue a los peldaños más altos, es sumamente baja.
+|Example.Gloss=The probability of that their family achieves advance in the ladder socioeconomic and above all that arrives to the rungs most high es extremely low
+|Example.English translation=The chance that one's family manages to advance in the socioeconomic ladder, and above all to make it to the highest rungs, is extremely low.
+|Example.Provenance=http://www.oportunidadesdenegocios.mx/genericas/textoON.asp?id_noticia=6092875
+|Example.Comments=los peldaños más altos
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Nos sumerge en el abismo de la pobreza que vive en el olvido, con los desgarradores contrastes entre el México de arriba y sus sueños de desarrollo y el México de abajo y su lucha cotidiana por sobrevivir.
+|Example.Gloss=Us submerge in the abyss of the poverty that lives in the forgetting with the heartbreaking contrasts between the Mexico of above and their dreams of development and the Mexico of below and their struggle daily to survive.
+|Example.English translation=We are submerged in the abyss of poverty that lives forgotten, with the heartbreaking contrasts between the Mexico on top and their dreams of development and the Mexico at the bottom and their daily struggle to survive.
+|Example.Provenance=http://ladobe.com.mx/2012/03/mexico-rebelde-de-john-gibler/
+|Example.Comments=el México de arriba
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

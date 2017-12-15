@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=Action
+|FrameNet frame=Intentionally_act
+|Family=Esquemas de Acción, Esquemas excluidos
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Roles={{Role
+|Role.Name=actor
+|Role.Name gloss=actor
+|Role.Type=entidad
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=acción
+|Role.Name gloss=action
+|Role.Type=x-schema
+|Role.FrameNet role=Activity
+}}{{Role
+|Role.Name=efector
+|Role.Name gloss=effector
+|Role.Definition=body part or instrument used to perform action
+}}{{Role
+|Role.Name=esfuerzo
+|Role.Name gloss=effort
+|Role.Definition=effort expended by actor to perform action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Proceso
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Proceso.protagonista
+}}{{Binding
+|Binding.Local role=acción
+|Binding.Bound role=Proceso.proceso
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acción.n
+}}
+|LinkEnglish=Action
+|Applicability=Spanish
+}}

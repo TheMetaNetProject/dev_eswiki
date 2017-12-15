@@ -1,0 +1,93 @@
+{{Frame
+|Name gloss=change of state
+|Family=Esquemas que se relacionan con estados, Esquemas que se relacionan con propiedades, Esquemas asociados al cambio, Esquemas excluidos,
+|Tags=Program sources
+|Type=Cog
+|Status=auto imported
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=experimentador
+|Role.Name gloss=experiencer
+|Role.Type=entidad
+}}{{Role
+|Role.Name=estado_inicial
+|Role.Name gloss=initial_state
+}}{{Role
+|Role.Name=transición
+|Role.Name gloss=transition
+}}{{Role
+|Role.Name=estado_final
+}}{{Role
+|Role.Name=todo_processo_de_cambio_de_estado
+|Role.Name gloss=state_change_process_whole
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Experimentar un estado
+}}
+|Bindings={{Binding
+|Binding.Local role=experimentador
+|Binding.Bound role=Experimentar un estado.experimentador
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transformar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortalecer
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortificar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reforzar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortalecimiento
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debilitación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debilitar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ruptura
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decaer
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desmoronarse
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pudrir
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pudrirse
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deteriorar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cariarse
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desmigar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desmigajar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=romperse
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=descomponerse
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transformación
+}}
+|LinkEnglish=Change of state
+}}
+convertir, convertirse en - taken out on Oct 21 2014 - KMM

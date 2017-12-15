@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=aids to movement toward down
+|Family=Esquemas de movimiento, 
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ayudas al movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento hacia abajo
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tobogán.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trampilla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escotillón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rampa.n
+}}
+|LinkEnglish=Aids to downward motion
+|Applicability=Spanish
+}}

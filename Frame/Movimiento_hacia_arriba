@@ -1,0 +1,99 @@
+{{Frame
+|Name gloss=motion toward up
+|Family=Esquemas de movimiento,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Verticalidad
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Movimiento hacia abajo
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ascenso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elevar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elevarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=levantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llegar a la cima
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=levantarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escalada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encima.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arriba.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ascender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alcanzar a la cima
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=surgir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trepar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escalar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alzarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=saltar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brincar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remontar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ascensión.n
+}}
+|LinkEnglish=Upward motion
+|Applicability=Spanish
+}}

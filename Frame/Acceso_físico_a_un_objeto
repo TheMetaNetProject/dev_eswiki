@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=access physical to an object
+|Tags=Program sources
+|Type=Cog, Composed
+|Status=auto imported
+|Entered by=x
+|Last reviewed by=Karie, 
+|Roles={{Role
+|Role.Name=accesor
+|Role.Name gloss=accessor
+}}{{Role
+|Role.Name=objeto_accedido
+|Role.Name gloss=accessed_object
+}}{{Role
+|Role.Name=barrera_al_acceso
+|Role.Name gloss=barrier_to_access
+}}{{Role
+|Role.Name=camino_de_acceso
+|Role.Name gloss=path_of_access
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acceso
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acceso
+}}
+|LinkEnglish=Access to an object
+}}

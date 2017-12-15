@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=manipulation of an object
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=objeto
+}}{{Role
+|Role.Name=actor
+}}{{Role
+|Role.Name=parte_del_cuerpo
+|Role.Name gloss=body part (effector)
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=distorsionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deformar.v
+}}
+|LinkEnglish=Object manipulation
+|Applicability=Spanish
+}}

@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=functioning bodily
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+}}{{Role
+|Role.Name=parte_corporal
+|Role.Name gloss=body_part
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Todo-parte
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Cuerpo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Funcionalidad
+}}
+|Bindings={{Binding
+|Binding.Local role=cuerpo
+|Binding.Bound role=Todo-parte.todo
+}}{{Binding
+|Binding.Local role=parte_corporal
+|Binding.Bound role=Todo-parte.parte
+}}
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Bodily functioning
+|Applicability=Spanish
+}}

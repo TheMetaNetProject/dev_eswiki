@@ -1,0 +1,46 @@
+{{Metaphor
+|Name gloss=difficulties are burdens
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Carga
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+|Related metaphor.Description=Cargas son un tipo de impedimento al movimiento.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La culpa no es lo mismo que la responsabilidad la culpa pesa sobre aquellos que no cumplieron su cometido e incluso sobre los que no tienen que ver con ello, pero no resuelve nada ...
+|Example.Gloss=the guilt not is the same as the responsibility the guilt weighs over those that not completed their task and including over those that not have to see with it but not resolves nothing
+|Example.English translation=Guilt is not the same as responsibility; guilt weighs on those that fail to complete their tasks, and even on those that have nothing to do with it, but it doesn't solve anything ...
+|Example.Provenance=http://www.up.edu.mx/files_HTMLObject/file/Empresariales%20UP%20(Cd_%20de%20M%C3%A9xico)/Revista%20Vision%20Empresarial/ECEE_30_2010.pdf
+|Example.Comments="la culpa pesa" (note original text has semicolon after "responsabilidad" but this seems to cause it to display incorrectly on master list)
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Hoy el alumno tiene una carga pesada de materias, lo que provoca su dispersión en un mar de conocimientos
+|Example.Gloss=today the student has a load heavy of subjects that which provokes their dispersion in a sea of knowledge
+|Example.English translation=Today, students carry a heavy load of subject matter, which stimulates their immersion in a sea of knowledge.
+|Example.Provenance=http://gaceta.udg.mx/Hemeroteca/paginas/125/10-125.pdf
+|Example.Comments="una carga pesada de materias"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La vida es toda ella explosión; hay alegría pero también, lo sabemos, lleva consigo una carga pesada de dolor.
+|Example.Gloss=the life is all 3sg.f explosion there-is happiness but also it we-know brings with-it a burden heavy of pain
+|Example.English translation=Life is an explosion; there's happiness but also, we know, it carries with it a heavy load of pain.
+|Example.Provenance=http://www.vanguardia.com.mx/xstatic/vanguardia/mobile/template/vmobiledetalle.aspx?intId=624611
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=... les pesan los dolores que la vida tiene reservados.
+|Example.Gloss=... 3pl.IO weigh the pains that the life has reserved
+|Example.English translation=... the pains that life has stored weigh on them.
+|Example.Provenance=http://www.vanguardia.com.mx/xstatic/vanguardia/mobile/template/vmobiledetalle.aspx?intId=624611
+}}
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=DIFFICULTIES ARE BURDENS
+|Investigated for=Spanish
+}}

@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=combat
+|Comments=This will be renamed to reflect that its general Physical combat. It will have a subcase, called One-on-one combat (currently Lucha fisica).
+|Family=Esquemas de conflicto físico
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=combatir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=batir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=combate.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=combate
+}}
+|LinkEnglish=Physical combat
+|Applicability=Spanish
+}}

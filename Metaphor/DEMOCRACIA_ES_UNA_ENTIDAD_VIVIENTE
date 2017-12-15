@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=democracy is an entity living
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DEMOCRACY ES UNA PERSONA
+}}
+|Family=Metáforas de Democracia, 
+|Source frame=Persona
+|Target frame=Democracia
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=De ser cierta la teoría, 1950 hubiera sido idóneo para el nacimiento de la democracia.
+|Example.Gloss=of to.be certain the theory 1950 it.would.have been ideal for the birth of the democracy 
+|Example.English translation="If true the theory, 1950 would have been ideal for the birth of democracy."
+|Example.Provenance=http://istmo.mx/2001/07/mexico_democracia_y_crecimiento_economico_de_la_mano/
+|Example.Annotation="nacimiento de la democracia"
+}}
+|Entered by=Karie, 
+|Status=in development
+|Investigated for=Spanish
+}}

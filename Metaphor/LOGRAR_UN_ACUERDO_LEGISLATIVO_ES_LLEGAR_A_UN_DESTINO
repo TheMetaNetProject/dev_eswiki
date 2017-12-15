@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=achieving an agreement legislative is arriving at a destination
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LOGRAR UN ACUERDO LEGISLATIVO ES LLEGAR A UN DESTINO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=LOGRAR UN PROPÓSITO ES LLEGAR A UN DESTINO
+}}
+|Family=Gobernación
+|Source frame=Movimiento
+|Target frame=Acción gobernante
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=LOGRAR UN PROPÓSITO ES LLEGAR A UN DESTINO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Claramente, el crecimiento ha sido decepcionante desde el año pasado, donde las dificultades de los legisladores para arribar a un acuerdo en materia presupuestaria, se han convertido en un lastre para la recuperación económica, aunque el ritmo de las contrataciones se mantuvo prácticamente inalterado.
+|Example.Gloss=clearly, the growth has been disappointing since the year past, where the difficulties of the legislators to arrive at an agreement on matter budgetary, itself has turned into a ballast to the recovery economic, although the rhythm of the hirings itself remained practically unaltered
+|Example.English translation="Clearly, growth has been disappointing since last year, where the difficulties of legislators to arrive at an agreement on budgetary matters, has become a drag on the economic recovery, even though the pace of hiring remained virtually unchanged."
+|Example.Provenance=http://eleconomista.com.mx/adp/2013/08/01/que-mirando-fed
+|Example.Annotation="dificultades de los legisladores para arribar a un acuerdo en materia presupuestaria"
+}}
+|Entered by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

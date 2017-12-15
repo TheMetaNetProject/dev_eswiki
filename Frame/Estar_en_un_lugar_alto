@@ -1,0 +1,80 @@
+{{Frame
+|Name gloss=being in a place high
+|Comments=We also used to have Punto más alto en una escala vertical. Now deleted.
+|Family=Esquemas de ubicación, Esquemas de Verticalidad,
+|Tags=Program sources
+|Status=auto imported
+|Last reviewed by=Karie, Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estar en una ubicación
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Estar en un lugar bajo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Punto en una escala vertical
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cima.n de la pirámide
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arriba.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cima.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cumbre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=altura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cúspide.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arriba.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elevación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encima.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encima.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cumbre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=altura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tejado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=techo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=copa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alto.a nivel.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nivel.n alto.a
+}}
+|LinkEnglish=Being at a High Location
+}}

@@ -1,0 +1,27 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Grupos de naciones; Agrupación geopolítica; Campaña electoral; Nación; Acción inmoral; Ciudadanos; Economía; País; Acción moral; Política laboral; Promulgación de legislación; Subsidio; Votación; Ley; Política; Acción legislativa; Redacción de legislación; Líder; Sanción; Institución; Organización; Autoridad; País; Acción legislativa
+|ConceptFrames={{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Reglamentos gubernamentales
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=casa.n
+}}
+}}

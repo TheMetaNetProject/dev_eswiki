@@ -1,0 +1,55 @@
+{{Frame
+|Name gloss=cycle of life
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=comienzo_de_la_vida
+|Role.Name gloss=beginning_of_life
+}}{{Role
+|Role.Name=etapas_de_desarrollo
+|Role.Name gloss=stages_of_development
+}}{{Role
+|Role.Name=final_de_vida
+|Role.Name gloss=end_of_life
+}}{{Role
+|Role.Name=la_cosa_viviente
+|Role.Name gloss=life_liver
+|Role.Definition=la protagonista y el organismo
+}}{{Role
+|Role.Name=ciclo_de_vida_completo
+|Role.Name gloss=complete_life_cycle
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ciclo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=X-esquema
+}}
+|Bindings={{Binding
+|Binding.Local role=ciclo_de_vida_completo
+|Binding.Bound role=X-esquema.todo_de_x-esquema
+}}{{Binding
+|Binding.Local role=comienzo_de_la_vida
+|Binding.Bound role=X-esquema.comienzo
+}}{{Binding
+|Binding.Local role=final_de_vida
+|Binding.Bound role=X-esquema.final
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jóven.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=viejo.a
+}}{{LUs
+|LUs.Language=Spanish
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nacer.v
+}}
+|LinkEnglish=Life cycle
+|Applicability=Spanish
+}}

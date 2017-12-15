@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=relationship of members of the group
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aliado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amigo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuate
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camarada
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=compañero
+}}
+|LinkEnglish=Group member relationship
+|Applicability=Spanish
+}}

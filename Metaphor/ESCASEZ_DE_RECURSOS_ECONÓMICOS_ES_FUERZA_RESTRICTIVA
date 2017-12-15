@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=scarcity of resources is force restrictive
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ESCASEZ DE RECURSOS ECONÓMICOS ES FUERZA RESTRICTIVA
+}}
+|Tags=Program sources
+|Family=Metáforas de Pobreza
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Fuerza restrictiva
+|Target frame=Adversidad económica
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON FUERZAS
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe, Karie
+|Status=in development, auto imported
+}}

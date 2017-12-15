@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=features geographic
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=terremoto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seísmo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corrimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avalancha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alud.n
+}}
+|LinkEnglish=Geographic feature
+|Applicability=Spanish
+}}

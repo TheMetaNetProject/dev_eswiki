@@ -1,0 +1,80 @@
+{{Frame
+|Name gloss=obstructions to vision
+|Family=Esquemas de Percepción, Esquemas de visión, Esquemas de proteger, 
+|Type=Frame
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Enscenario de ver
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cubrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disimular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esconder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camuflar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tapizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tapar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encubrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ocultar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esconderse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esconder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tapadera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cubierto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sepultarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fachada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camuflaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camuflado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enmascarar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camuflada.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cortina de humo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=máscara.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=antifaz.n
+}}
+|LinkEnglish=Visual obstruction
+|Applicability=Spanish
+}}

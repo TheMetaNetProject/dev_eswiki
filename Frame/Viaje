@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=Journey
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=viaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=viajar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=travesía.n
+}}
+|LinkEnglish=Journey
+|Applicability=Spanish
+}}

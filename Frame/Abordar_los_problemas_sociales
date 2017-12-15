@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=addressing social probems
+|Family=Esquemas de Desigualdad Económica, Esquemas de Gobierno,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Problemas sociales
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción gobernante
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Addressing social problems
+|Applicability=Spanish
+}}

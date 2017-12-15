@@ -1,0 +1,60 @@
+{{Metaphor
+|Name gloss=impoverishment caused is movement forced toward down
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMPOBRECIMIENTO CAUSADO ES MOVIMIENTO FORZADO HACIA ABAJO
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Movimiento hacia abajo
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=EMPOBRECIMIENTO ES MOVIMIENTO HACIA ABAJO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAMBIO CAUSADO ES MOVIMIENTO FORZADO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los géneros creados por la televisión en México, musicales o de humor, dramáticos o noticiosos, parecerían, para alimentar teorías conspirativas, diseñados, creados e implementados desde hace mucho con el propósito de idiotizar al grueso de una población a la que paulatinamente se ha ido orillando al peldaño siguiente en una siempre descendiente escalera socioeconómica: la clase alta se volvió media, la media popular, la popular simplemente pobre y la inmensa mayoría de gente pobre se volvió miserable por millones.
+|Example.Gloss=The genres created by the television in Mexico musical or of humor drama or news appears to feed theories conspiratorial designed created and implemented since ago much with the goal of make-idiots to-the thick of a population to which that slowly refl has been forcing to-the rung next in an always descending ladder socioeconomic the class high refl turns middle the middle popular the popular simply poor and the immense majority of people poor refl turn miserable by millions.
+|Example.English translation=The genres of Mexican television, musical or comedy, drama or news, seems--to feed conspiracy theories--designed, created, and implemented since long ago with the goal of making idiots out of the bulk of a population that has been slowly forced down to the next rung in an always-descending socioeconomic ladder: the upper class becomes middle, the middle becomes working class, the working class simply poor, and the vast majority of poor people become miserable by the millions.
+|Example.Provenance=http://www.jornada.unam.mx/2012/11/18/sem-moch.html
+|Example.Comments=orillando al peldaño siguiente en una siempre descendiente escalera socioeconómica
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Alimentos caros hunden en la pobreza a 44 millones de personas
+|Example.Gloss=Food expensive sinks in the poverty to 44 millions of people
+|Example.English translation=Expensive food sinks 44 million people into poverty.
+|Example.Provenance=http://www.jornada.unam.mx/2011/02/16/economia/028n1eco
+|Example.Comments=hunden en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Los embarazos y la violencia doméstica, sexual y en la escuela son barreras que hunden en la pobreza e impiden el desarrollo pleno de millones de niñas y adolescentes en América Latina y el Caribe, alertó un estudio divulgado hoy por Plan Internacional.
+|Example.Gloss=the pregnancies and the violence domestic sexual and in the school are barriers that sink in the poverty and impede the development  full of millions of girls and adolescents in America Latin and the Caribbean alerted a study released today by Plan International
+|Example.English translation=Pregnancy and domestic, sexual, and school violence are barriers that impede full development and sink millions of girl children and adolescentes in poverty in Latin America and the Caribbean, a study released today by Plan International warned.
+|Example.Provenance=http://periodicodigital.com.mx/notas/ninas_y_adolescentes_enfrentan_barreras_que_las_hunden_en_la_pobreza
+|Example.Comments=hunden en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Nos sumerge en el abismo de la pobreza que vive en el olvido, con los desgarradores contrastes entre el México de arriba y sus sueños de desarrollo y el México de abajo y su lucha cotidiana por sobrevivir.
+|Example.Gloss=Us submerge in the abyss of the poverty that lives in the forgetting with the heartbreaking contrasts between the Mexico of above and their dreams of development and the Mexico of below and their struggle daily to survive.
+|Example.English translation=We are submerged in the abyss of poverty that lives forgotten, with the heartbreaking contrasts between the Mexico on top and their dreams of development and the Mexico at the bottom and their daily struggle to survive.
+|Example.Provenance=http://ladobe.com.mx/2012/03/mexico-rebelde-de-john-gibler/
+|Example.Comments=Nos sumerge en el abismo de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El aumento desmedido en los precios de los productos básicos no ha hecho más que hundir a más familias mexicanas en el abismo de la pobreza y la carencia de beneficios.
+|Example.Gloss=the augment disproportionate in the prices of the products basic not has done more than sink to more families Mexican in the abyss of the poverty and the lack of benefits
+|Example.English translation=The disproportionate increase in the prices of basic products has done nothing more than sink more Mexican families into the abyss of poverty and the lack of benefits.
+|Example.Provenance=http://www.ptdiputados.org.mx/intervencion.php?id=3
+|Example.Comments=el abismo de la pobreza
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

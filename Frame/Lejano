@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=distant
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lejano.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=distante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remoto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lejos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alejado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=periférico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apartado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cercanía.n
+}}
+|LinkEnglish=Distant
+|Applicability=Spanish
+}}

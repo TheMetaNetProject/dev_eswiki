@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-verb_T-noun
+|CxnMPDescription=Verb-Object constructions
+|Comments=abatir la pobreza
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=(?:V)&#91;^=&#93;*=(?P<sidx>\d+) &#91;^=&#93;+=&#91;^=&#93;+=ART=\d+ &#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=N&#91;^=&#93;*=(?P<tidx>\d+)\b
+}}

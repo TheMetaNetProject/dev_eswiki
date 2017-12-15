@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=vision directed
+|Family=Esquemas de visión,
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ver
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Visión
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Percepción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfrentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mirar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encarar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afrontar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfrente de.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frente a.
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfrentarse.v
+}}
+|LinkEnglish=Directed vision
+|Applicability=Spanish
+}}

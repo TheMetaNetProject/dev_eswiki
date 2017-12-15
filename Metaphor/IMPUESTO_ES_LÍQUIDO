@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=tax is liquid
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPUESTO ES LÍQUIDO
+}}
+|Tags=Program sources
+|Family=Metáforas de Impuestos
+|Metaphor Level=Specific
+|Source frame=Líquido
+|Target frame=Impuesto
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=IMPUESTOS SON SUSTANCIAS
+}}
+|Entailments=
+|Examples=
+|Entered by=x
+|Last reviewed by=Karie, Joe
+|Status=in development, auto imported
+}}

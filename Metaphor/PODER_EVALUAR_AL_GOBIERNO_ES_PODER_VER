@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=ability to.evaluate the government is ability to see
+|Aliases=
+|Tags=tentative
+|Family=Metáforas de Gobierno, 
+|Metaphor Type=Composed/complex
+|Source frame=Poder ver
+|Target frame=Gobierno 
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=SABER ES VER
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Hay que crear una cultura de legalidad en el país, insistir en la transparencia y rendición de cuentas...
+|Example.Gloss=It-is-necessary to create a culture of legality in the nation, insisting in the transparency and release of accounts...
+|Example.English translation=We need to create a culture of legality in this country and insist on transparency and access to public records...
+|Example.Provenance=http://www.elperiodicodemexico.com/nota.php?id=656414&sec=Nacional-Politica
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|Investigated for=Spanish
+|Relevant LUs=
+}}

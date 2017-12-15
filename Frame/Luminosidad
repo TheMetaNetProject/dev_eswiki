@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=degree.of.light
+|Family=Esquemas de Luz,
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=iluminación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brillantez.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resplandor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deslumbramiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lustre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aclarar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brillar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=iluminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reflejar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reflexión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soleado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brillante.a
+}}
+|LinkEnglish=Luminosity
+|Applicability=Spanish
+}}

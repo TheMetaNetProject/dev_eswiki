@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=inability to face problems social is inability to treat a disease
+|Aliases=
+|Description=e.g.
+|Family=Metáforas de aflicciones físicas, Metáforas de Pobreza, Metáforas de pobreza como problema social,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Institución
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ENFRENTAR PROBLEMAS SOCIALES ES TRATAR UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La corrupción y su correlato, la impunidad, hacen imposible el proyecto nacional y hunden al país de modo progresivo en una especie de enfermedad crónica e incurable.
+|Example.Gloss=the corruption and its correlate the impunity make impossible the project national and submerge the country of mode gradual in a kind of disease chronic and incurable
+|Example.English translation=Corruption, and its correlate, impunity, are making the national project impossible and gradually submerging the nation into a sort of chronic and incurable disease.
+|Example.Provenance=http://www.jornada.unam.mx/2013/02/24/opinion/014o1pol
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=INABILITY TO ADDRESS SOCIAL PROBLEMS IS INABILITY TO TREAT A DISEASE
+|Investigated for=Spanish
+}}

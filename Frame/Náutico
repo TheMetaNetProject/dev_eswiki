@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=nautical
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Fuerzas naturales
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cuerpo de agua
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ola.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oleada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=náutico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=océano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pleamar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=onda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oleaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajamar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reflujo.n
+}}
+|Applicability=Spanish
+}}

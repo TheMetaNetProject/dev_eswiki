@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=absorption
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Líquido
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=absorción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=absorber.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esponja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=embeber.v
+}}
+|LinkEnglish=Absorption
+|Applicability=Spanish
+}}

@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=proximal distal
+|Type=Cog, Composed
+|Roles={{Role
+|Role.Name=centro
+|Role.Name gloss=center
+}}{{Role
+|Role.Name=región proximal
+|Role.Name gloss=proximal region
+}}{{Role
+|Role.Name=región lejana
+|Role.Name gloss=distal region
+}}{{Role
+|Role.Name=límite
+|Role.Name gloss=boundary
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proximidad
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Región delimitada
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=The proximal and distal regions are defined in terms of relative proximity to the center. The boundary is the furthest extent of what is considered proximal to the center.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lejos_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=al_lado_de.prep
+}}
+|LinkEnglish=Proximal distal
+|Applicability=Spanish
+}}

@@ -1,0 +1,61 @@
+{{Frame
+|Name gloss=overweight bodily
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Peso corporal
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Alimento
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Comida
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Aumento de tamaño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engordarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engordar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sobrepeso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encharcarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abotagado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abotagarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grasa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gordo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gordo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=insaciabilidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obeso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obesidad.n
+}}
+|LinkEnglish=Excess body weight
+}}

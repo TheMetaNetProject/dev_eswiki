@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=seeing
+|FrameNet frame=Perception_experience
+|Other aliases=Visión
+|Family=Esquemas de Percepción, Esquemas de visión,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Percepción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ver.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=percepción.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reconocer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=búsqueda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vislumbrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revelar.v
+}}
+|LinkEnglish=Seeing
+|Applicability=Spanish
+}}

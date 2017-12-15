@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=relations international are relations interpersonal
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RELACIONES INTERNACIONALES SON RELACIONES INTERPERSONALES
+}}
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Relación interpersonal
+|Target frame=Relación internacional
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=En su pragmatismo esquizofrénico Washington es enemigo de Al Quaeda en Pakistán y Yemen ... pero se va a la cama de nuevo con la red terrorista en Libia y ahora en Siria ...
+|Example.Gloss=in its pragmatism schizophrenic Washington is enemy of Al Qaeda in Pakistan and Yemen ... but it goes to the bed of new with the network terrorist in Libya and now in Syria ...
+|Example.English translation=In its schizophrenic pragmatism, Washington is the enemy of Al Qaeda in Pakistan and Yemen ... but gets back in bed with the terrorist network in Libya and now in Syria ...
+|Example.Provenance=http://www.revistarepublica.com.mx/pragmatismo-esquizofrenico/
+|Example.Comments="Washington ... se va a la cama ... con [Al Qaeda]".
+}}{{Example
+|Example.Language=Spanish
+|Example.Text="Bolivia necesita socios, y no dueños (...) Vengo a saludar a las empresas extranjeras que son socios del Estado", dijo Morales.
+|Example.Gloss=Bolivia needs partners and not owners (...)  I.come to welcome to the companies foreign that are partners of State said Morales
+|Example.English translation="Bolivia needs partners and not owners (...) I come to say hello to the foreign companies that are partners of the State," said Morales.
+|Example.Provenance=http://eleconomista.com.mx/industria-global/2012/05/08/empresas-espanolas-son-conscientes-riesgos
+}}
+|Entered by=Oana, Joe, Karie,
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+|Relevant LUs=
+}}

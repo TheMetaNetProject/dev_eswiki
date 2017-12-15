@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=more is up
+|Aliases=
+|Tags=orientational
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticalidad
+|Target frame=Cantidad
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CANTIDAD ES VERTICALIDAD
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=increases in quantity
+|Entailment.Source inference=motion toward higher end of verticality scale
+}}
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Uno de cada tres niños vive en la pobreza en Nueva York, un porcentaje que se eleva al 39.4% cuando se trata de latinos . . . .
+|Example.Gloss=One of each three children live in the poverty in New York, a percentage that itself elevates to 39.4% when one deals of latinos
+|Example.English translation=One out of three children live in poverty in New York City, a figure that rises to 39.4% among Latinos.
+|Example.Provenance=http://www.jornada.unam.mx/ultimas/2013/02/13/131654106-el-39-4-de-los-ninos-latinos-de-ny-vive-en-la-pobreza-estudio/
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=No cabe duda de que la principal causa que la pobreza no haya bajado es por la falta de crecimiento económico alto y sostenido.
+|Example.Gloss=no possible doubt of that the principal cause that the poverty no have lowered is by the lack of growth economic high and sustained
+|Example.English translation=There is no doubt that the main cause that poverty has not declined is due to the lack of high and sustained economic growth.
+|Example.Provenance=http://eleconomista.com.mx/foro-economico/2012/11/25/combate-pobreza
+}}{{Example
+|Example.Language=Spanish
+}}
+|Entered by=Oana, Joe, Karie
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=MORE IS UP
+|Investigated for=Spanish
+}}

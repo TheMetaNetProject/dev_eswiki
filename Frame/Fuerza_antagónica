@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=force antagonistic
+|Comments=need more LUs
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aplicación-fuerza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subordinar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=someter.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=antagonista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abrumar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coger.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cachar.v
+}}
+|LinkEnglish=Antagonistic force
+}}

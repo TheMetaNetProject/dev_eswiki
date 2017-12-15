@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=reaching a destination
+|Family=Esquemas de movimiento,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento a lo largo de un camino
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alcanzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llegada
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arribo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=destino.n
+}}
+|LinkEnglish=Reaching a destination
+}}

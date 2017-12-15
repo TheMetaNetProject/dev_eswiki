@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=competition in the business is competition in sports
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=COMPETENCIA EN LOS NEGOCIOS ES COMPETENCIA EN LOS DEPORTES
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=COMPETENCIA ES DEPORTE
+}}
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Juego
+|Target frame=Empresa
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=COMPETENCIA ES DEPORTE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los goles que le metieron a Apple: cinco productos pirateados
+|Example.Gloss=the goals that to-them put-in to Apple five products pirated
+|Example.English translation=The Goals Scored on Apple: Five Pirated Products
+|Example.Provenance=http://www.colombiadigital.net/aprenda-tic/top-5/item/3882-los-goles-que-le-metieron-a-apple-cinco-productos-pirateados.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Habrá máxima competencia en telecomunicaciones
+|Example.Gloss=there.will.be maximal competition in telecommunications
+|Example.English translation=There will be much competition in telecommunications
+|Example.Provenance=http://eleconomista.com.mx/sociedad/2013/03/12/habra-maxima-competencia-telecomunicaciones-pena-nieto
+}}
+|Entered by=Oana, Joe, Karie,
+|Status=in development
+|LinkEnglish=BUSINESS COMPETITION IS COMPETITIVE SPORTS
+|Investigated for=Spanish
+|Relevant LUs=
+}}

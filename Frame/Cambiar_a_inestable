@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=changing to unstable
+|Family=Esquemas de estabilidad, Esquemas asociados al cambio, 
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Inestable
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estabilidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bambolear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bambolearse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tambalear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tambalearse.v
+}}
+|Applicability=Spanish
+}}

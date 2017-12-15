@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=belief is a possession
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CREENCIA ES UNA POSESIÓN
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Posesión
+|Target frame=Entender
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Con el tiempo, tanto el pueblo como la élite gobernante comenzaron a perder su fe en el sistema y buscaron alternativas.
+|Example.Gloss=with the time as-much the people as the elite governing began to lose their faith in the system and they-sought alternatives.
+|Example.English translation=With time, the people just as much as the governing elite began to lose their faith in the system and sought alternatives.
+|Example.Provenance=http://www.eluniversal.com.mx/internacional/74011.html
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=BELIEFS ARE POSSESSIONS
+|Investigated for=Spanish
+}}

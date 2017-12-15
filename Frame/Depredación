@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=predation
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=depredador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=depredación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=depredar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=depredador.a
+}}
+}}

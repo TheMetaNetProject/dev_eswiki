@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=medium of communication
+|Other aliases=Prensa
+|Comments=This refers to the Media, or the Press, rather than to a 'medium of communication.'
+|Family=Esquemas de Democracia,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Comunicación
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Institución democrática
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prensa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=periódico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=boletín.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=periodismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=publicación.n
+}}
+|LinkEnglish=Media
+|Applicability=Spanish
+}}

@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=game
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=juego.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jugar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=partida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=árbitro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arbitrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jugador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fútbol.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deporte.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pelea de box
+}}
+|LinkEnglish=Game
+|Applicability=Spanish
+}}

@@ -1,0 +1,141 @@
+{{Frame
+|Name gloss=Structure physical
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=estructura_entera
+}}{{Role
+|Role.Name=armazón_de_soporte
+}}{{Role
+|Role.Name=partes_de_la_estructura
+}}{{Role
+|Role.Name=estabilidad_estructural
+}}{{Role
+|Role.Name=integridad_estructural
+}}{{Role
+|Role.Name=constructor(es)
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Funcionalidad
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estructura compleja
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estructura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=construir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erigir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=base.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pilar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infraestructura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asimetría estructural
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fundación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arquitectura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortalecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=edificio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cimentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=casa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=piso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=edificar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=construcción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puerta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=techo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tejado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caballete.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=muralla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erigir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortalecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reforzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reconstruir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=restauración.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apoyar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cúpula.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apuntalar.v
+}}
+|LinkEnglish=Building
+|Applicability=Spanish
+}}

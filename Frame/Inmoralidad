@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=inmorality
+|Family=Esquemas de moralidad, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Moralidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inmoralidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inmoral.a
+}}
+|LinkEnglish=Immorality
+|Applicability=Spanish
+}}

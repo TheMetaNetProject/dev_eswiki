@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=acquire resources is consume food
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADQUIRIR RECURSOS ES CONSUMIR COMIDA
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Consumir alimento excesivo
+|Target frame=Recurso
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=RECURSOS SON COMIDA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Ya basta de mentir para defender al indefendible que se asentó ilegítimamente en la presidencia y basta también de sus esbirros que se atracan de dinero gubernamental para escribir mierda.
+|Example.Gloss=already enough of lie to defend to-the indefensible that refl established illegitimately in the presidency and enough also of his thugs that refl gorge of money governmental to write shit
+|Example.English translation=Enough already of the lies to defend the indefensible that established himself illegitimately in the Presidency, and also enough already with his thugs that gorge themselves on government money to write shit.
+|Example.Provenance=http://blogs.eluniversal.com.mx/wweblogs_detalle.php?p_fecha=2008-09-11&p_id_blog=48&p_id_tema=5568
+|Example.Comments=se atracan de dinero
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Monopolios chupan dinero.
+|Example.Gloss=monopolies suck money
+|Example.English translation=Monopolies guzzle money.
+|Example.Provenance=http://www.publimetro.com.mx/noticias/monopolios-chupan-dinero/pjdh!Hv4GJdNb@Bf3PEMpJ1DQ/
+}}
+|Entered by=Joe
+|Last reviewed by=Karie, Oana
+|Status=in development
+|LinkEnglish=ACQUIRING RESOURCE IS CONSUMING FOOD
+|Investigated for=Spanish
+}}

@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=slavery
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Impedimentos al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esclavitud.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esclavo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esclavizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=negrero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tratente de esclavos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amo de esclavos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dueño de esclavos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sirviente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=servitud.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=siervo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emancipación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esclavizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oprimir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pisar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=servil.a
+}}
+|LinkEnglish=Servitude
+}}

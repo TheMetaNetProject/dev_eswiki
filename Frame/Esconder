@@ -1,0 +1,62 @@
+{{Frame
+|Name gloss=hiding
+|Family=Esquemas de proteger, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camuflage.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camuflar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=velo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escondido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=velado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mortaja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sudario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tapadera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=capa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sarape.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jorongo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cobija.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poncho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esconder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=máscara.n
+}}
+|LinkEnglish=Hiding
+|Applicability=Spanish
+}}

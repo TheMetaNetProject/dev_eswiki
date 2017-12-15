@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=lubrication
+|Type=Frame
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lubricación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lubricante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aceite.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=petróleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grasa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engrasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lubricar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aceitar.v
+}}
+|Applicability=Spanish
+}}

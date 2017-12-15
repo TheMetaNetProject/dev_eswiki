@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=Relationship
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=entidad_1
+|Role.Name gloss=entity_1
+}}{{Role
+|Role.Name=entidad_2
+|Role.Name gloss=entity_2
+}}{{Role
+|Role.Name=relación
+|Role.Name gloss=relation
+|Role.Definition=la relación entre entidad_1 y entidad_1
+}}{{Role
+|Role.Name=tipo_de_relación
+|Role.Name gloss=relation_type
+|Role.Definition=la naturaleza de la relación, e.g. parentesco
+}}{{Role
+|Role.Name=valor_de_relación
+|Role.Definition=el valor sociocultural, e.g. hermano
+}}{{Role
+|Role.Name=relación_x-esquema
+|Role.Name gloss=relation_x-schema
+|Role.Type=x-schema
+|Role.Definition=relación puede ser conceptualizado como un estado de asuntos que potencialmente podrían cambiar con el tiempo, e.g. comienzo, en curso, y el fin
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proceso
+}}
+|Bindings={{Binding
+|Binding.Local role=relación
+|Binding.Bound role=Proceso.protagonista
+}}{{Binding
+|Binding.Local role=relación
+|Binding.Bound role=Proceso.proceso
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=relación.n
+}}
+|LinkEnglish=Relation
+|Applicability=Spanish
+}}

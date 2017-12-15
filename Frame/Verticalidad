@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Verticality
+|FrameNet frame=Position_on_a_scale,  Change_position_on_a_scale
+|Other aliases=Arriba, Abajo, Orientación vertical
+|Comments=ubicación en una escala vertical
+|Family=Esquemas de escala, Esquemas de Verticalidad,
+|Type=Cog
+|Status=in development
+|Entered by=Oana, Karie
+|Last reviewed by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=verticalidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vertical.a
+}}
+|LinkEnglish=Verticality
+|Applicability=Spanish
+}}

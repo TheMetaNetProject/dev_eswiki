@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=connection physical
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conectar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=unir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conexión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vínculo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cadena.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amarrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amarre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=correa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tira.n
+}}
+|LinkEnglish=Physical connection
+|Applicability=Spanish
+}}

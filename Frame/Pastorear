@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=shepherding
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pastor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pastorear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dirigir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oveja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rebaño.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guía.n
+}}
+|LinkEnglish=Shepherding
+|Applicability=Spanish
+}}

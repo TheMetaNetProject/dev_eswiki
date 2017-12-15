@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=confronting problems social is waging the war
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENFRENTAR PROBLEMAS SOCIALES ES HACER LA GUERRA
+}}
+|Family=Gobernación,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Guerra
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Ante la inclusión del combate al hambre como uno de los asuntos prioritarios en la agenda gubernamental, ...
+|Example.Gloss=before the inclusion of-the combat against hunger as one of the issues prioritized in the agenda governmental ...
+|Example.English translation=In light of the inclusion of combatting hunger as a priority in the government agenda, ...
+|Example.Provenance=http://www.jornada.unam.mx/2013/02/20/opinion/002a1edi
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Cruzada Nacional contra el Hambre
+|Example.Gloss=crusade national against the hunger
+|Example.English translation=National Crusade Against Hunger
+|Example.Provenance=http://www.presidencia.gob.mx/cruzada-nacional-contra-el-hambre/
+|Example.Comments=Name of a Mexican government initiative.
+}}
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=ADDRESSING SOCIAL PROBLEMS IS WAGING WAR
+|Investigated for=Spanish
+}}

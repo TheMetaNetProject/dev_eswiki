@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=propagation of disease
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Enfermedad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contagiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contagio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contagioso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infectar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plaga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=epidemia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=propagación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contaminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inficionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dado.n de cultivo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dado de cultivo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caldo.n de cultivo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caldo de cultivo
+}}
+|LinkEnglish=Disease spread
+|Applicability=Spanish
+}}

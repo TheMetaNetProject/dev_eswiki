@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=affection
+|FrameNet frame=Experiencer_focus
+|Type=Primary
+|Status=in development
+|Entered by=M.E.
+|Roles={{Role
+|Role.Name=experimentador
+|Role.Name gloss=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=contenido
+|Role.Name gloss=content
+|Role.FrameNet role=Content
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emoción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cariño.n
+}}
+|LinkEnglish=Affection
+|Applicability=Spanish
+}}

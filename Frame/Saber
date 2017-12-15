@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=knowing
+|Family=Esquemas de Cognición, Esquemas excluidos, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=el_que_sabe
+|Role.Name gloss=knower
+|Role.Type=entidad
+}}{{Role
+|Role.Name=conocimiento
+|Role.Name gloss=knowledge
+|Role.Type=entidad
+}}{{Role
+|Role.Name=saber_x-esquema
+|Role.Name gloss=knowing_x-schema
+|Role.Type=x-esquema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Comprender
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=saber.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conocer.v
+}}
+|LinkEnglish=Knowing
+|Applicability=Spanish
+}}

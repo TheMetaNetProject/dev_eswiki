@@ -1,0 +1,99 @@
+{{Frame
+|Name gloss=release liquid
+|Type=Frame
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento de fluidos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vaciar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escurrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=drenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fugarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rezumar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=supurar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rebosar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flitrarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gotera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gotear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=garúa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=garuar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lloviznar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=succionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escurrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=filtrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=goteo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lixiviar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chorrear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bombear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=exprimir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extraer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evaporar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liquidación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liquidar.v
+}}
+|LinkEnglish=Release liquid
+|Applicability=Spanish
+}}

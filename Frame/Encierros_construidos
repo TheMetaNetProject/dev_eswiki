@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=enclosures constructed
+|Family=Esquemas de ubicación,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Lugar
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ubicación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Barreras
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cerco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=red.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prisión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jaula.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cárcel.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=neto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mazmorra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=muralla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=penitenciario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calabozo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cercar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cercos
+}}
+|LinkEnglish=Constructed confinement
+}}

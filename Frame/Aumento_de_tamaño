@@ -1,0 +1,106 @@
+{{Frame
+|Name gloss=increase of size
+|Comments=There used to be an Aumentar de tamano frame, now deleted.
+
+This is a perspective on Tamano, a perspective from growth as opposed to reduction.
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tamaño
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cambiar de tamaño
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Disminución de tamaño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aumentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aumento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ampliar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ampliación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agrandar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agrandarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desarrolar.v
+}}{{LUs
+|LUs.Language=Spanish
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agregar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engrandecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agigantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alargar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extenderse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=expansión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=expandir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=expandirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ensanchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acrecentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acrecentarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=creciente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dilatar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=henchir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ensanchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estirar.v
+}}
+|LinkEnglish=Increase size
+|Applicability=Spanish
+}}
+engrosar.v, hinchazón.n, and hinchar.v taken out - Oct 21 2014 KMM

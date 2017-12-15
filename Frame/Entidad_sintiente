@@ -1,0 +1,73 @@
+{{Frame
+|Name gloss=entity sentient
+|FrameNet frame=Awareness
+|Family=Esquemas de entidades,
+|Type=Frame
+|Roles={{Role
+|Role.Name=entidad_sintiente
+|Role.Name gloss=sentient_entity
+}}{{Role
+|Role.Name=estado_de_consciencia
+|Role.Name gloss=state_of_consciousness
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Consciencia
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Conocimiento
+}}
+|Bindings={{Binding
+|Binding.Local role=entidad_sintiente
+|Binding.Bound role=Entidad.entidad
+}}{{Binding
+|Binding.Local role=entidad_sintiente
+|Binding.Bound role=Consciencia.entidad_consciente
+}}{{Binding
+|Binding.Local role=estado_de_consciencia
+|Binding.Bound role=Consciencia.estado_de_consciencia
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sentir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sintiente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pensar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=creer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esperar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enojarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=triste.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfadarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alterado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=molesto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disgustado.a
+}}
+|LinkEnglish=Sentient entity
+|Applicability=Spanish
+}}

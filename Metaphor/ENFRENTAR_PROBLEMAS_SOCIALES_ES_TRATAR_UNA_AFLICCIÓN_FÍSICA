@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=address problems social is treat an affliction physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENFRENTAR PROBLEMAS SOCIALES ES TRATAR UNA AFLICCIÓN FÍSICA
+}}
+|Description=e.g. curar la pobreza
+|Tags=Program sources
+|Family=Metáforas de Pobreza, Metáforas de pobreza como problema social, Metáforas de aflicciones físicas
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Tratar una aflicción física
+|Target frame=Abordar los problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROBLEMAS SOCIALES ES AFLICCIÓN FÍSICA
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe, Karie
+|Status=in development, auto imported
+}}

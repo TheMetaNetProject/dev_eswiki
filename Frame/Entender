@@ -1,0 +1,22 @@
+{{Frame
+|Name gloss=understanding
+|FrameNet frame=Grasp
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=entender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=interpretar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=creer.v
+}}
+|LinkEnglish=Understanding
+|Applicability=Spanish
+}}

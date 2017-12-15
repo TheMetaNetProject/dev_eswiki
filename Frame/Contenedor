@@ -1,0 +1,80 @@
+{{Frame
+|Name gloss=Container
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Barreras
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bolsillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cartera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=monedero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barril.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barcada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mochila.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alforja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cofre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ataúd.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=féretro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cajuela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=canasta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cesta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cesto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=espuerta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=basurero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=saco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=costal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bolsa.n
+}}
+|LinkEnglish=Resource container
+|Applicability=Spanish
+}}

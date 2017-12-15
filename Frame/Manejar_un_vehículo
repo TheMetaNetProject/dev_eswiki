@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=drive a vehicle
+|Comments=Some of the LUs below are specifically for Driving_a_land_vehicle. The latter needs to be created, as a separate frame, as different from Driving_a_vehicle, which needs to be kept general. (Oana)
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Vehículo
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manejar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conducir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=girar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conductor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vehículo.n
+}}
+|LinkEnglish=Driving a vehicle
+|Applicability=Spanish
+}}

@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=change to liquid
+|Description=intended to contain change of state to liquid from either a beginning solid state or gaseous state
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cambio de estado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=licuar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derretir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deshielo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derretimiento.n
+}}
+|Applicability=Spanish
+}}

@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=economic adversity/hardship
+|Family=Esquemas de Desigualdad Económica, Esquemas de Pobreza, 
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Problemas sociales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adversidad económica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dificultad económica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bancarrota.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=insolvencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indigencia.n
+}}
+|LinkEnglish=Economic difficulty
+}}

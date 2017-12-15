@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=access
+|Type=Cog
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=accesor
+|Role.Name gloss=accessor
+}}{{Role
+|Role.Name=entidad_accedido
+|Role.Name gloss=accessed_entity
+}}{{Role
+|Role.Name=barrera_al_acceso
+|Role.Name gloss=barrer_to_access
+}}{{Role
+|Role.Name=camino_de_acceso
+|Role.Name gloss=path_of_access
+|Role.Definition=camino entre Accesor y Entidad_accedido
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Barreras
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Posesión
+}}
+|Bindings={{Binding
+|Binding.Local role=camino_de_acceso
+|Binding.Bound role=Barreras.camino
+}}{{Binding
+|Binding.Local role=barrera_al_acceso
+|Binding.Bound role=Barreras.objeto_de_barrera
+}}
+|Inferences={{Inference
+|Inference.Description=If barrier is present, accessor cannot access the accessed_entity
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acceso
+}}
+|LinkEnglish=Access
+|Applicability=Spanish
+}}

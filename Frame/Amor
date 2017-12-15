@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=love
+|Family=Esquemas de Emoción, 
+|Status=proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cariño.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flechazo.n
+}}
+|Applicability=Spanish
+}}

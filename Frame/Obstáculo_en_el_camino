@@ -1,0 +1,65 @@
+{{Frame
+|Name gloss=obstacle in the path
+|Comments=We have to figure out the difference between Obstaculo en el camino and Obstaculos al movimiento para adelante. DO THIS SOON! They are left apart, as far as LUs are concerned, for the Nov. 2013 tests.
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstáculo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impedimento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstrucción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estanca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estancar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barrera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrastra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impidir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bloquear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrapa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstáculo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tope.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bloque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estorbo.n
+}}
+|LinkEnglish=Obstacles to accessing a location
+|Applicability=Spanish
+}}

@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=reducing corruption is treating disease
+|Aliases=
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Enfermedad
+|Target frame=Corrupción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CORRUPCIÓN ES UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Vega Casillas fue presa de la enfermedad que vino a curar, la corrupción.
+|Example.Gloss=Vega Casillas was prisoner of the disease that came to cure the corruption
+|Example.English translation=Vega Casillas was prisoner of the disease that she came to cure, corruption.
+|Example.Provenance=http://impacto.mx/opinion/6UX/temple-ciudadano
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=CORRECTING CORRUPTION IS TREATING DISEASE
+|Investigated for=Spanish
+|Relevant LUs=
+}}

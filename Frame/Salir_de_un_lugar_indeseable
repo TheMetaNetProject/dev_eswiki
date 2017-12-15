@@ -1,0 +1,89 @@
+{{Frame
+|Name gloss=go-out of a place undesireable
+|Family=Esquemas de movimiento, Esquemas de ubicación
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana, Joe, Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Lugar
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de ubicación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escapar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salir.v de
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abandonar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desertar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fugar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fugarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=volar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vuelo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evadirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evadir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liberarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esquivar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rehuir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desatar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desatarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desamarrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soltar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desuncir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alejar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rescatar.v
+}}
+}}

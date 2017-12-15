@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=cycle of life of the plants
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=beginning_of_life_stage
+|Role.Definition=e.g. 'blossom' 'sprout'
+}}{{Role
+|Role.Name=beginning_of_life_state
+|Role.Definition=e.g. 'bud' 'germ'
+}}{{Role
+|Role.Name=maturation_stage
+}}{{Role
+|Role.Name=maturation_state
+}}{{Role
+|Role.Name=end_of_life_stage
+|Role.Definition=e.g. 'wither'
+}}{{Role
+|Role.Name=end_of_life_state
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Planta
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ciclo de vida
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brote.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retoño.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brotar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=germinar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=florecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=germinal.a
+}}
+|LinkEnglish=Plant life cycle
+|Applicability=Spanish
+}}

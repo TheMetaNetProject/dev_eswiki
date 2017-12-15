@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=action legislative
+|Family=Esquemas de legislación,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción gobernante
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=proyecto de ley
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=legislatura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=legislativo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=legislación.n
+}}
+|LinkEnglish=Legislative action
+|Applicability=Spanish
+}}

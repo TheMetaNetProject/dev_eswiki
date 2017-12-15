@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=taxes are burdens physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPUESTOS SON CARGAS FÍSICAS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=IMPUESTOS SON CARGAS
+}}
+|Tags=Program sources
+|Family=Metáforas de Impuestos
+|Metaphor Level=Specific
+|Source frame=Carga
+|Target frame=Impuesto
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=IMPUESTOS SON  IMPEDIMENTOS AL MOVIMIENTO
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe, Karie
+|Status=in development, auto imported
+}}

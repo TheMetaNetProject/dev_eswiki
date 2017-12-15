@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=change of possession
+|Family=Esquemas de posesión, Esquemas asociados al cambio, 
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Posesión
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Conseguir un objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Possession change
+|Applicability=Spanish
+}}
+figure out how this links up to change  via object exchange

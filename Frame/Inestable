@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=unstable
+|Family=Esquemas de estabilidad,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Estabilidad
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Estable
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tambaleante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inestable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bamboleante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desequilibrado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tembleque.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=movedizo.a
+}}
+|LinkEnglish=Unstable
+|Applicability=Spanish
+}}

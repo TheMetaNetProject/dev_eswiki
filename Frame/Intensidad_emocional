@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=intensity emotional
+|Family=Esquemas de Emoción, 
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=intensidad_emocional_x-esquema
+|Role.Name gloss=emotional_intensity_x-schema
+}}{{Role
+|Role.Name=escala_de_intensidad_emocional
+|Role.Name gloss=emotional_intensity_scale 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emoción
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Emotional intensity
+|Applicability=Spanish
+}}

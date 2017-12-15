@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=lowering taxes is cutting an object
+|Aliases=
+|Tags=Program sources
+|Family=Metáforas de Impuestos
+|Metaphor Level=Specific
+|Source frame=Cortar un objeto
+|Target frame=Tributación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=IMPUESTOS SON OBJETOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MENOS ES PEQUEÑO
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development, auto imported
+}}

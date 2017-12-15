@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=less is small
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MENOS ES PEQUEÑO
+}}
+|Metaphor Type=Entailed
+|Source frame=Tamaño
+|Target frame=Cantidad
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CANTIDAD ES TAMAÑO
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=decreases in quantity
+|Entailment.Source inference=decreases in size
+|Entailment.Type=aligned scales
+}}
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El gobierno de Mahmoud Ahmadinejad asegura que las sanciones internacionales han tenido poco impacto en el país e insiste en que su programa nuclear debe continuar.
+|Example.Gloss=the government of Mahmoud Ahmadinejad assure that the sanctions international have had little impact in the country and insists in that itself program nuclear should continue
+|Example.English translation=The government of Mahmoud Ahmadinejad said that international sanctions have had little impact on the country and insists that its nuclear program should continue.
+|Example.Provenance=http://eleconomista.com.mx/internacional/2012/09/04/enfermos-iran-afectados-sanciones
+}}
+|Entered by=Karie
+|Status=in development
+|LinkEnglish=LESS IS DOWN
+|Investigated for=Spanish
+}}

@@ -1,0 +1,17 @@
+{{Frame
+|Name gloss=entity destructive
+|Family=Esquemas de entidades,
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=lax
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Firmeza
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Firme
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dúctil.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=laxo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flojo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flexible.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plegable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maleable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=blando.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elástico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flácido.a
+}}
+|LinkEnglish=Lax
+|Applicability=Spanish
+}}

@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=firm
+|Family=Esquemas de escala, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Firmeza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=firme.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inflexible.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=duro.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tieso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=compacto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rígido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=firmemente
+}}
+|LinkEnglish=Firm
+|Applicability=Spanish
+}}

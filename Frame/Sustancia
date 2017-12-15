@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Substance
+|FrameNet frame=Substance
+|Other aliases=Sustancias físicas
+|Comments=Sustancias_fisicas also existed, but now deleted. Substances are understood as physical.
+|Family=Esquemas de entidades,
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sustancia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=volumen.n
+}}
+|LinkEnglish=Substance
+|Applicability=Spanish
+}}

@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=not paying taxes is escaping
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NO PAGAR IMPUESTOS ES ESCAPAR
+}}
+|Tags=Program sources
+|Family=Metáforas de Impuestos, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Escapar
+|Target frame=Tributación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=OBLIGACIONES SON IMPEDIMENTOS AL MOVIMIENTO
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe
+|Status=in development, auto imported
+}}

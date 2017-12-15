@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=wind
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Fuerzas naturales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=viento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brisa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ráfaga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=racha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rachear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soplar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vendaval.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ventarrón.n
+}}
+|Applicability=Spanish
+}}

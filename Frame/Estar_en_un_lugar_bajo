@@ -1,0 +1,82 @@
+{{Frame
+|Name gloss=being in a place low
+|Comments=We also used to have Punto más bajo en una escala vertical. Deleted.
+|Family=Esquemas de ubicación, Esquemas de Verticalidad,
+|Tags=Program sources
+|Type=Cog
+|Status=auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana, Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estar en una ubicación
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Estar en un lugar alto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abajo.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abajo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hoyo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=base.n de la pirámide
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fondo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajada.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=baja.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caída.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v por los suelos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ubicar.v bajo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v bajo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vivir.v bajo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vivir.v por debajo de
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vivir.v debajo de
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debajo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debajo.a de
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debajo de
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nivel.n bajo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajo.a nivel.n
+}}
+|LinkEnglish=Being at a low location
+}}

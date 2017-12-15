@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=business
+|Tags=Program sources
+|Status=auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=negocios.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=industria.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manufactura.n
+}}
+|LinkEnglish=Business
+}}

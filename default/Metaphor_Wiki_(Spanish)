@@ -1,0 +1,61 @@
+==Guía de datos de metáforas==
+Para modificar una metáfora o crear una metáfora nueva, poner el nombre en el espacio abajo. Si ya existe la metáfora, aparecerá su página de edición. Si no existe, aparecerá su página sin informaciones.
+* Los nombres de metáforas deben ser escritos en mayúsculas
+
+<br>
+{{#forminput:form=Metaphor|link text= New Metaphor|button text=Create/Edit Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+Lista de todas metáforas: [[List of all Metaphors|Metáforas]].
+
+Lista de metáforas lingüísticas: [[:Category:Linguistic metaphor|Metáforas Lingüísticas]]
+
+Lista de metáforas agrupadas por familia: [[Metaphor Families|Familias de Metáforas]]
+
+Lista de metáforas agrupadas por tipo: [[Metaphors by Type|Tipos de Metáforas]]
+
+Lista de esquemas: [[List of all Frames|Esquemas]].
+
+Lista de familias de esquemas: [[Frame Families|Familias de Esquemas]] ([[Detailed Frame Families|con las unidades léxicas]]).
+
+Lista de esquemas agrupadas por los categorios de "Cogs" y "Frames": [[Cogs and Frames|Cogs y Frames]]
+
+Haz clic aquí para exportar metáforas y esquemas a RDF/OWL: [[Export Metaphors and Frames|Exportar Metáforas y Esquemas]]
+
+Un gráfico de relaciones entre todas metáforas actuales está aquí: [[Map of all metaphors|Mapa de Metáforas]]
+
+==Páginas de resumen de metáforas==
+Estas son páginas construidas para ayudar la navegación de metáforas agrupadas en categorios útiles.
+
+* [[List of primary metaphors|Metáforas primarias]]
+* [[Metaphors that participate in transitive chains|Metáforas que participa en cadenas transitivas]]
+* [[Metaphors listed by status|Situación de metáforas]]
+* [[Metaphors with missing fields|Metáforas que faltan datos]]
+* [[Metaphors indexed by aliases|Metáforas listadas por alias]]
+* [[Frames listed by status|Situación de esquemas]]
+* [[Frames with missing fields|Esquemas que faltan datos]]
+* [[Metaphors that need fixing|Metáforas para arreglar]]
+* [[Frames that need fixing|Esquemas para arreglar]]
+* [[Metaphor Lists for Status Reports|Metáforas listadas de informes de estado]]
+* [[CMs with LMs|CMs con todos los ejemplos LM]]
+
+==Glosario de metáforas y guía de campos de datos==
+
+El glosario, que tiene definiciones de términos normales de la teoría de metáfora conceptual y/o de este wiki, está aquí: [http://metaphor.icsi.berkeley.edu/metaphor/index.php/Glossary Glossario].
+
+Estas son las propiedades que se utiliza en describir una metáfora. Se puede hacer clic en cualquiera propiedad para ver una descripción detallada del uso previsto. <br>
+
+[[Property:Related metaphor| Relaciones de metáfora]] <br>
+[[Property:Metaphor.Experiential basis | Base experimental de metáfora]] <br>
+[[Property:Metaphor.Level | Nivel de metáfora]] <br>
+[[Property:Metaphor.Type | Tipo de metáfora]] <br>
+[[Property:Inference | Inferencias de metáfora]] <br>
+[[Property:Metaphor.Source frame | Source Domain]] <br>
+[[Property:Metaphor.Target frame | Target Domain]] <br>
+[[Property:Metaphor.Alias.Provenance | Procedencia]] <br>
+[[Property:Status | Situación]] <br>
+[[Property:Entered by | Introducido por]] <br>
+[[Property:Last reviewed by | Última revista]] <br>
+[[Property:Mapping | Mappings]] <br>
+
+==Estándares de metafora==
+Vea a la [http://metaphor.icsi.berkeley.edu/metaphor/index.php/Standards Página de Estándares] para la guía de estilo para el uso de mayúsculas, citas, etc.

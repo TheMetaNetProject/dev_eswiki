@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=economic resources
+|Comments=old frame families: Esquemas de Riqueza, Educación,Esquemas de Riqueza,Esquemas de Riqueza/Pobreza
+
+Needs to be broken up to accommodate 'salario, ingreso' etc. into a Wages or Income frame. English has an Income frame for these, as well as as an Economic resources frame.
+
+Add 'capital.n' back in later.
+|Family=Esquemas de Riqueza y clase social, Esquemas de Clase Social, Esquemas de Desigualdad Económica, Esquemas económicos,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Karie, (Dario)
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recurso
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Dinero
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crédito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recaudación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inversión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingreso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subsidio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subvencionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingreso.n fiscal
+}}
+|LinkEnglish=Economic resource
+}}
+ fondo.n

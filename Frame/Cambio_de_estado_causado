@@ -1,0 +1,62 @@
+{{Frame
+|Name gloss=change of state caused
+|Family=Esquemas que se relacionan con estados, Esquemas que se relacionan con propiedades, Esquemas asociados al cambio, 
+|Roles={{Role
+|Role.Name=agente
+|Role.Name gloss=agent
+}}{{Role
+|Role.Name=afectado
+|Role.Name gloss=affected
+}}{{Role
+|Role.Name=causa
+|Role.Name gloss=cause
+}}{{Role
+|Role.Name=cambio_de_estado
+}}{{Role
+|Role.Name=estado_inicial
+|Role.Name gloss=initial_state
+}}{{Role
+|Role.Name=transición
+|Role.Name gloss=transition
+}}{{Role
+|Role.Name=estado_final
+|Role.Name gloss=final_state
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de estado
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causación
+}}
+|Bindings={{Binding
+|Binding.Local role=agente
+|Binding.Bound role=Causación.agente
+}}{{Binding
+|Binding.Local role=afectado
+|Binding.Bound role=Cambio de estado.experimentador
+}}{{Binding
+|Binding.Local role=afectado
+|Binding.Bound role=Causación.afectado
+}}{{Binding
+|Binding.Local role=cambio_de_estado
+|Binding.Bound role=Cambio de estado.todo_processo_de_cambio_de_estado
+}}{{Binding
+|Binding.Local role=estado_inicial
+|Binding.Bound role=Cambio de estado.estado_inicial
+}}{{Binding
+|Binding.Local role=transición
+|Binding.Bound role=Cambio de estado.transición
+}}{{Binding
+|Binding.Local role=estado_final
+|Binding.Bound role=Cambio de estado.estado_final
+}}
+|Inferences={{Inference
+|Inference.Description=El cambio de estado debe tener una causa.
+}}{{Inference
+|Inference.Description=La ocurrencia de la causa puede preceder o acompañar el cambio de estado.
+}}
+|Relevant LUs=
+|LinkEnglish=Caused change of state
+|Applicability=Spanish
+}}

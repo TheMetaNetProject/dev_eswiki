@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=assistance governmental is a structure physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ASISTENCIA GUBERNAMENTAL ES UNA ESTRUCTURA FÍSICA
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PROGRAMAS PÚBLICOS SON ESTRUCTURAS FÍSICAS
+}}
+|Family=Gobernación,
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Asistencia gubernamental
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=“Tenemos cierto que se necesita fortalecer los programas de infraestructura y de servicios para el Puerto de Acapulco…”
+|Example.Gloss=we've truly that it.is needed to.strengthen the programs of infrastructure and of services for the Port of Acapulco
+|Example.English translation="We certainly need to strengthen programs and services infrastructure for the Port of Acapulco..”
+|Example.Provenance=http://www.zocalo.com.mx/seccion/articulo/pide-aguirre-castigar-a-ex-ediles-por-malas-finanzas-en-guerrero-1358366274
+|Example.Annotation="fortalecer los programas de infraestructura"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

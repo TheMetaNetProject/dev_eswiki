@@ -1,0 +1,131 @@
+{{Frame
+|Name gloss=motion
+|FrameNet frame=Motion
+|Family=Esquemas de movimiento,
+|Type=Cog
+|Status=in development
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Roles={{Role
+|Role.Name=entidad_que_se_mueve
+|Role.Name gloss=mover
+|Role.Type=entidad
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=movimiento_x-esquema
+|Role.Name gloss=motion_x-schema
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=velocidad
+|Role.Name gloss=speed
+|Role.FrameNet role=Speed
+}}{{Role
+|Role.Name=dirección
+|Role.Name gloss=direction
+|Role.FrameNet role=Direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Proceso
+}}
+|Bindings={{Binding
+|Binding.Local role=entidad_que_se_mueve
+|Binding.Bound role=Proceso.protagonista
+}}{{Binding
+|Binding.Local role=movimiento
+|Binding.Bound role=Proceso.proceso
+}}
+|Inferences={{Inference}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avanzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impulsar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impulso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avance.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emprender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=movimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rebasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rezagar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrasarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rezagarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mover.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bailar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=venir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gatear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rondar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=merodear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vagar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=correr.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lentitud.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marcha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lenta.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rápido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=veloz.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=altibajos.n
+}}
+|LinkEnglish=Motion
+|Applicability=Spanish
+}}
+make sure we work out placement of LUs after 9-16-2013
+
+'hacer cabriolas'
+'moverse sigilosamente'
+'salir enfadado'

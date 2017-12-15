@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=conditions social is barriers
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PROBLEMAS SOCIALES SON BARRERAS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CONDICIONES SOCIALES SON BARRERAS
+}}
+|Tags=Program sources
+|Family=Metáforas Económicas, Metáforas de Acción, Metáforas de Riqueza y Clase Social
+|Metaphor Level=Specific
+|Source frame=Barreras
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}
+|Entailments=
+|Examples=
+|Entered by=X,
+|Last reviewed by=Karie
+|Status=auto imported
+}}

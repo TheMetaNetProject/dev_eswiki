@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=burial
+|Family=Esquemas de ocultación, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Obstáculo físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enterrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sepultar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esconder.v
+}}
+|LinkEnglish=Burial
+|Applicability=Spanish
+}}
+montón
+pila

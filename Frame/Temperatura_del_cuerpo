@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=temperature of.the body
+|FrameNet frame=Subjective_temperature
+|Type=Primary
+|Status=in development
+|Entered by=M.E.
+|Roles={{Role
+|Role.Name=experimentador
+|Role.Name gloss=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=temperatura
+|Role.Name gloss=temperature
+|Role.FrameNet role=Temperature
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Sensación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Temperatura
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calor
+}}
+|Applicability=Spanish
+}}

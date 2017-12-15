@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=forced movement along a vertical scale
+|Type=Cog, Composed
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento forzado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala vertical
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento a lo largo de una escala vertical
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sacar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empujar
+}}
+|Applicability=Spanish
+}}

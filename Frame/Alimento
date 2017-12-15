@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=nourishment
+|Family=Esquemas de Comida
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Sustancia
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Comida
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=consumir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alimento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=migaja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alimentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=canasta alimentario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tragar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golosina.n
+}}
+|LinkEnglish=Food
+}}

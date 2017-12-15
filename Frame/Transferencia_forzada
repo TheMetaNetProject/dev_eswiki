@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=transfer force
+|Family=Esquemas de Acción,
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=fuerza_originador
+|Role.Name gloss=force_originator
+|Role.Type=Entidad
+}}{{Role
+|Role.Name=receptor_de_fuerza
+|Role.Name gloss=receiver_of_force
+|Role.Type=Entidad
+}}{{Role
+|Role.Name=fuerza
+|Role.Name gloss=force
+|Role.Type=Fuerza
+|Role.Definition=poderío/energía
+}}{{Role
+|Role.Name=cantidad_de_fuerza
+|Role.Name gloss=amount_of_force
+|Role.Type=Cantidad
+|Role.Definition=la cantidad de fuerza que se transfiere desde la fuente a el receptor
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Fuerza
+}}
+|Bindings={{Binding
+|Binding.Local role=fuerza
+|Binding.Bound role=Fuerza.fuerza
+}}
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Force transfer
+|Applicability=Spanish
+}}

@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=TIME IS SPACE
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIEMPO ES ESPACIO
+}}
+|Family=Metáforas del Tiempo, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Espacio
+|Target frame=Tiempo
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=... el candidato del PRI, Enrique Peña Nieto, reconoció aquí que su campaña se encuentra en un momento decisivo.
+|Example.Gloss=... the candidate of-the PRI Enrique Peña Nieto acknowledged here that his campaign refl finds in a moment decisive.
+|Example.English translation=... the PRI candidate, Enrique Peña Nieto, acknowledged here that his campaign finds itself in a decisive moment.
+|Example.Provenance=http://www.jornada.unam.mx/2012/06/02/politica/008n1pol
+|Example.Comments="se encuentra en un momento decisivo"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Estamos muy cerca de la elección.
+|Example.Gloss=We-are very close to the election.
+|Example.English translation=We are very close to the election.
+|Example.Provenance=http://www.jornada.unam.mx/2012/06/02/politica/008n1pol
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

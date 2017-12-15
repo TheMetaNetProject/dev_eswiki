@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=poverty is a schism
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES UNA BRECHA
+}}
+|Family=Metáforas de Pobreza,
+|Source frame=Cisma
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ESTADOS ECONÓMICOS SON CARACTERÍSTICAS GEOGRÁFICAS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES UNA CARACTERÍSTICA GEOGRÁFICA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La brecha de pobreza se ha duplicado entre las CCAA en cinco años
+|Example.Provenance=http://www.elmundo.es/elmundo/2013/05/15/espana/1368619662.html
+|Example.Annotation="brecha de pobreza"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

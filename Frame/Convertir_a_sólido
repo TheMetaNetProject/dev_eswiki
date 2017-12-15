@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=change to solid
+|Description=supposed to represent change of state to solid, whether that be via freezing, coagulating, curdling, etc.  These of course need to be separated further into more specific sub-frames  
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cambio de estado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=congelar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=solidificar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=helar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coagular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuajar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cristalizar.v
+}}
+|Applicability=Spanish
+}}

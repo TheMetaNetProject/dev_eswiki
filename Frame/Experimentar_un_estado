@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=experiencing a state
+|Family=Esquemas que se relacionan con estados, Esquemas que se relacionan con propiedades
+|Type=Cog
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=experimentador
+|Role.Name gloss=experiencer
+|Role.Type=entidad
+}}{{Role
+|Role.Name=estado
+|Role.Name gloss=state
+|Role.Definition=dominio de experiencia
+}}{{Role
+|Role.Name=valor_experimentado_de_estado
+|Role.Name gloss=experienced_state_value
+|Role.Definition=un valor particular de estado experimentado por experimentador en algún punto en el tiempo
+}}{{Role
+|Role.Name=posibles_valores_de_estado
+|Role.Name gloss=possible_state_values
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estado
+}}
+|Bindings={{Binding
+|Binding.Local role=experimentador
+|Binding.Bound role=Estado.entidad
+}}{{Binding
+|Binding.Local role=estado
+|Binding.Bound role=Estado.estado
+}}{{Binding
+|Binding.Local role=posibles_valores_de_estado
+|Binding.Bound role=Estado.posibles_valores_de_estado
+}}{{Binding
+|Binding.Local role=valor_experimentado_de_estado
+|Binding.Bound role=Estado.valor_perfilado_de_estado
+}}
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Experiencing a state
+|Applicability=Spanish
+}}

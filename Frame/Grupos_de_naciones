@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=groups of nations
+|Comments=this frame is in place to contain both geographic nation groupings as well as socially motivated nation groupings.  at some point in the future, these two groups will need to be separated and assigned their own sub-frames
+|Family=Esquemas de Gobernación,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Nación
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Agrupación geopolítica
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=UE.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Unión Europea
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=América Latina
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Reino Unido
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Europa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Asia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=América del Sur
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Sudamérica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Centroamérica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=América Central
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=U.E.n
+}}
+|Applicability=Spanish
+}}

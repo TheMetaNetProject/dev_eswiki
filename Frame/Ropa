@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=clothing
+|Comments=made for IARPA concepts july 2014
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ropa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vestir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prenda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bata.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camisa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pantalones.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calcetín.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sombrero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abrigo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chamarra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vestido.n
+}}
+|Applicability=Spanish
+}}

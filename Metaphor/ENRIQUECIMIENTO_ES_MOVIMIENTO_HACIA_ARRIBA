@@ -1,0 +1,59 @@
+{{Metaphor
+|Name gloss=enrichment is movement toward up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENRIQUECIMIENTO ES MOVIMIENTO HACIA ARRIBA
+}}
+|Family=Metáforas de Pobreza, Metáforas de Riqueza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Movimiento hacia arriba
+|Target frame=Riqueza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ACTIVIDADES CON PROPÓSITO SON DESPLAZAMIENTO HACIA UNA META
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=RIQUEZA ES ARRIBA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La probabilidad de que su familia logre avanzar en la escalera socioeconómica, y sobre todo que llegue a los peldaños más altos, es sumamente baja.
+|Example.Gloss=the probability of that one's family achieves advance in the ladder socioeconomic and above all that arrives to the rungs most high es highly low
+|Example.English translation=The chance that one's family manages to advance on the socioeconomic ladder, and, above all, make it to the highest rungs, is very low.
+|Example.Provenance=http://www.oportunidadesdenegocios.mx/genericas/textoON.asp?id_noticia=6092875
+|Example.Comments=los peldaños más altos
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Se entiende por movilidad social la facilidad con la que una persona puede subir o bajar en la escalera socioeconómica.
+|Example.Gloss=one understands by mobility social the ease with which that a person can ascend or descend in the ladder socioeconomic
+|Example.English translation=What is understand by social mobility is the ease with which one can ascend or descend the socioeconomic ladder.
+|Example.Provenance=http://elsemanario.com.mx/revista_semanal/401_1_7_sep/nelly/
+|Example.Comments=subir
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Que insensibilidad! A una mujer que ha perdido el fruto de su esfuerzo de muchos años y que esta desesperada por su situación y que en su mentalidad en lugar de pedir una limosna del gobierno pide trabajo para nuevamente levantarse, se le conteste con frases de este tipo.
+|Example.Gloss=what insensitivity to a woman that has lost the fruit of her effort of many years and that is desperate for her situation and that in her mentality in place of request a hand-out of-the government requests job for again stand-up one her answers with phrases of this type
+|Example.English translation=How insensitive! To a woman who has lost the fruit of her labor of many years and that is desperate over her situation and that, in her mentality, instead of asking for a government handout, asks for a job in order to pick herself up again, and they respond to her with phrases like this.
+|Example.Provenance=http://www.eluniversal.com.mx/notas/659000.html
+|Example.Comments="levantarse"  User comment, edited for orthography.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Eruviel, el gran desconocido, es hoy “el hijo portento que logró levantarse de la pobreza y amasar una enorme fortuna gracias a su trabajo y esfuerzo
+|Example.Gloss=Eruviel the great unknown is today the son prodigious that achieved stand-up from the poverty and amass an enormous fortune thanks to his work and effort
+|Example.English translation=Eruviel, the great unknown, is today "the prodigious son that managed to rise up from poverty and amass an enormous fortune thanks to his work and effort."
+|Example.Provenance=http://www.ciudadcapital.com.mx/archives/14090
+|Example.Comments=levantarse de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Vida y acciones de Bernabé Macías Navarro; un personaje con atributos y características que lo distinguieron de los demás como un líder, cacique y político que logró ascender de la pobreza y marginalidad de la esfera política a la cúspide del poder.
+|Example.Gloss=Life and actions of Bernabé Macías Navarro a person with attributes and characteristics that him distinguished from the rest as a leader boss and politician that achieved ascend from the poverty and marginalization of the sphere political to the cusp of power
+|Example.English translation=Life and deeds of Bernabé Macías Navarro, a person with attributes and characteristics that distinguished him from the rest as a leader, boss and politician that managed to rise out of the poverty and marginalization of the political sphere to the cusp of power.
+|Example.Provenance=http://etzakutarakua.colmich.edu.mx/relaciones/indices/documentos/documentosDetalle.asp?id=546
+|Example.Comments=ascender de la pobreza
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

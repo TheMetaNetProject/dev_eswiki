@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=place
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lugar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=centro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mitad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sitio.n
+}}
+|LinkEnglish=Location
+}}

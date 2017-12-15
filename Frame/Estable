@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=stable
+|Family=Esquemas de estabilidad, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Estabilidad
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Inestable
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=durable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=duradero.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perdurable.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recio.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fornido.a
+}}
+|LinkEnglish=Stable
+|Applicability=Spanish
+}}
+recio.a - strong, sturdy, hardy, vigorous; fierce, intense

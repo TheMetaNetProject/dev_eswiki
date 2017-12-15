@@ -1,0 +1,118 @@
+{{Frame
+|Name gloss=Competition
+|FrameNet frame=Competition
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=evento
+|Role.Name gloss=event
+}}{{Role
+|Role.Name=premio
+|Role.Name gloss=prize
+}}{{Role
+|Role.Name=ganador
+|Role.Name gloss=winner
+}}{{Role
+|Role.Name=perdedor
+|Role.Name gloss=loser
+}}{{Role
+|Role.Name=compeditor
+|Role.Name gloss=competitor
+}}{{Role
+|Role.Name=comienzo
+|Role.Name gloss=start
+}}{{Role
+|Role.Name=resultado
+|Role.Name gloss=outcome
+}}{{Role
+|Role.Name=propósito
+|Role.Name gloss=purpose
+}}{{Role
+|Role.Name=x-schema_competencia
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=competición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=premio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concurso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=competir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rivalizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=competir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rival.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=competidor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perdedor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engañar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tramposo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engaño.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=partido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concurso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concursar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=torneo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=campeón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=campeonato.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paladín.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desafío.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derrota.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derrotar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adversario.n
+}}
+|LinkEnglish=Competition
+|Applicability=Spanish
+}}

@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=change towards more dark
+|Family=Esquemas de Luz, 
+|Status=in development, proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tinieblas
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de estado
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Cambio hacia más luminoso
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oscurecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=anochecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oscurecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ennegrecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nublar.v
+}}
+|Applicability=Spanish
+}}
+'nublar' may be different from the others, because it means to block out/obscure or to make dark, not just to become darker

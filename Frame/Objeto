@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Object
+|FrameNet frame=Entity
+|Other aliases=Objeto físico
+|Family=Esquemas de entidades, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie, 
+|Roles={{Role
+|Role.Name=objeto_de_entidad
+|Role.Name gloss=object_of_entity
+}}{{Role
+|Role.Name=tamaño
+|Role.Name gloss=size
+}}{{Role
+|Role.Name=forma
+|Role.Name gloss=shape
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad física
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad limitada
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Object
+|Applicability=Spanish
+}}

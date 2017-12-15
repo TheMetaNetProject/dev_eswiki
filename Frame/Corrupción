@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=Corruption
+|Family=Esquemas de Desigualdad Económica
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=agente_corrupto
+}}{{Role
+|Role.Name=actividades_corruptas
+}}{{Role
+|Role.Name=entidad_perjudicada
+}}{{Role
+|Role.Name=persona_afectada_por_la_corrupción
+}}{{Role
+|Role.Name=effecto_de_la_corrupción
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Institución gubernamental
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Crimen
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Problemas sociales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corrupción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corrupto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corromper.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pervertir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soborno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cohecho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mordida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coima.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sobornar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=defraudar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fraude.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malversación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desfalcar.v
+}}
+|LinkEnglish=Corruption
+|Applicability=Spanish
+}}

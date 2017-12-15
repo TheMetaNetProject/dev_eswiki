@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Well-being
+|Type=Frame
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=estado_de_bienestar
+|Role.Name gloss=state_of_well-being
+}}{{Role
+|Role.Name=grado_de_bienestar
+|Role.Name gloss=degree_of_well-being
+}}{{Role
+|Role.Name=entidad_que_posee_bienestar
+|Role.Name gloss=entity_posessing_well-being
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Riqueza
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Salud
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bienestar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salud
+}}
+|LinkEnglish=Well-being
+|Applicability=Spanish
+}}

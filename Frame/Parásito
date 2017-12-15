@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=parasite
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad destructiva
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sanguijuela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vampiro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parásito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chupar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desangrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=succionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=drenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desangra.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parásito.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parásita.a
+}}
+|LinkEnglish=Parasite
+}}
+added chupar.v [24nov2013] to test GMR spreadsheet - kmm

@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=banks are machines
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BANCOS SON MÁQUINAS
+}}
+|Family=Metáforas Económicas
+|Source frame=Máquina
+|Target frame=Banco
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Un problema fundamental del BCE es que su conformación implicó la eliminación de dos variables de ajuste importantes: el mecanismo de tasas de interés de cada país y el del tipo de cambio, sin sustituirlos por nada; por lo que, cuando un país en lo individual enfrenta una crisis, no tiene forma de adaptarse a través de políticas monetarias o de tipo de cambio.
+|Example.Gloss=a problem fundamental of.the EBC is that its configuration involved the elimination of two variables of adjustment important: the mechanism of rate of interest of each country and that of.the type of exchange, without replacing.them by nothing; by it that, when a country in it individual faces a crisis, not it.has way of adapting.itself through policies monetary or of type of exchange
+|Example.English translation="A fundamental problem of the EBC is that its configuration involved the elimination of two important adjustment variables: the interest rate mechanism for each country and that of the exchange rate, without replacing them with anything; so that, when an individual country faces a crisis, it has no way of adapting itself via monetary policies or exchange rates."
+|Example.Provenance=http://eleconomista.com.mx/mercados-estadisticas/2013/04/02/otra-realidad
+|Example.Annotation="BCE ... su conformación .. variables de ajuste .. mecanismo[s]"
+}}
+|Entered by=Karie, 
+|Status=proposed
+|Investigated for=Spanish
+}}

@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=action is motion
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACCIÓN ES MOVIMIENTO
+}}
+|Comments=Chose the exact name on the basis of articles like the one below.
+
+http://www.affective-sciences.org/system/files/biblio/2877/Soriano_2012_La%20metafora%20conceptual_LingCog.pdf
+|Family=Metáforas de la Estructura del Evento, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Movimiento
+|Target frame=Acción
+|Mappings={{Mapping
+|Target=actor
+|Source=entidad_que_se_mueve
+}}{{Mapping
+|Target=acción
+|Source=movimiento
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=ACTION IS MOTION
+|Investigated for=Spanish
+}}

@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=action governing is movement
+|Aliases=
+|Family=Gobernación,
+|Metaphor Type=Composed/complex
+|Source frame=Movimiento
+|Target frame=Acción gobernante
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Gobierno se dirigió hacia una solución rápida.
+|Example.Gloss=Government moved towards a speedy resolution.
+|Example.English translation=Government moved towards a speedy resolution.
+|Example.Provenance=OAD
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El papel de Morena, amplió, permitirá que decisiones como la de reducir los salarios de los altos funcionarios públicos no sean frenadas
+|Example.Gloss=the role of Morena he-expanded will-permit that decisions like that to reduce the salaries of the high functionaries public not be braked
+|Example.English translation=The role of Morena, he explained, will allow decisions like the reduction of salaries of high public officials to proceed without putting the brakes on.
+|Example.Provenance=http://www.jornada.unam.mx/2012/06/02/politica/009n1pol
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|Investigated for=Spanish
+}}

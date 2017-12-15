@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions via POS tags
+|Comments=flagelo de la pobreza
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=(?:N&#124;VLfin)&#91;^=&#93;*=(?P<sidx>\d+) &#91;^=&#93;+=(?:de&#124;del)=&#91;^=&#93;+=\d+ &#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=N&#91;^=&#93;*=(?P<tidx>\d+)\b
+}}

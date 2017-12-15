@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=power
+|Family=Esquemas de Riqueza y clase social,
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poderoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poder.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poderoso.n
+}}
+|LinkEnglish=Power
+}}

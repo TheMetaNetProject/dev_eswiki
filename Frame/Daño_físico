@@ -1,0 +1,141 @@
+{{Frame
+|Name gloss=damage physical
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=laceración.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dolor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lacerar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastimar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=doler.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastime.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aplastar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cicatriz.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=machacar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=machacado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cicatriz.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dolencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paliza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpear.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastimoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=doloroso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dañino.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pulverizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dañar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mutilar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=machacar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lisiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amputar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hacer.v daño
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hace daño
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hacen daño
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastiman
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impedir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=azote.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herida.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=latigazo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=duelan.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sangriento.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=veneno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=venenoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=envenenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tóxico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=toxina.n
+}}
+|LinkEnglish=Physical harm
+|Applicability=Spanish
+}}

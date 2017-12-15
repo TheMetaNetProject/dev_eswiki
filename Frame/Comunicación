@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=communication
+|Family=Esquemas de Comunicación, Esquemas excluidos,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=comunicador_1
+|Role.Name gloss=communicator_1
+}}{{Role
+|Role.Name=mensaje
+|Role.Name gloss=message
+}}{{Role
+|Role.Name=tema
+|Role.Name gloss=topic
+}}{{Role
+|Role.Name=medio
+|Role.Name gloss=medium
+}}{{Role
+|Role.Name=comunicador_2
+|Role.Name gloss=communicator_2
+|Role.Definition=addressee
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicatividad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunicativo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=informar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mensaje.n
+}}
+|LinkEnglish=Communication
+|Applicability=Spanish
+}}

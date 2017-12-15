@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=inequality economic
+|Comments=old frames: Esquemas de Pobreza,Esquemas de Riqueza/Pobreza
+
+No English equivalient.
+|Family=Esquemas de Desigualdad Económica
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estado de economía
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estado económico
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Economía
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desigualdad.n económica
+}}
+}}

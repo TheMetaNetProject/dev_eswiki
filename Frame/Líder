@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=leader
+|Family=Esquemas de líderes,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Liderazgo
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Pastorear
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=líder.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caudillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jefe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estadista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=presidente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gerente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=administrador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=director.n
+}}
+|LinkEnglish=Leadership
+|Applicability=Spanish
+}}

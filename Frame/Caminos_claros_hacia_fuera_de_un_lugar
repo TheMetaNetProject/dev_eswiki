@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=clear paths out of a place
+|Family=Esquemas de ubicación, Esquemas Camino,
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Camino
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acceso a un lugar
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=despejado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abierto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=expedito.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=destapado.a
+}}
+|LinkEnglish=Clear paths to access a location
+}}

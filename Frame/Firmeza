@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=firmness
+|Family=Esquemas de escala, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Condición del objeto físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=firmeza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dureza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=solidez.n
+}}
+|LinkEnglish=Firmness
+|Applicability=Spanish
+}}

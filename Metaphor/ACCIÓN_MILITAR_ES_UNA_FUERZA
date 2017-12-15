@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=action military is a force
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACCIÓN MILITAR ES UNA FUERZA
+}}
+|Source frame=Fuerza
+|Target frame=Causar
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los manifestantes consideran que cualquier acción militar de estados unidos y de la otan contra terceros países generaría una escalada de violencia a nivel internacional y provocaría más víctimas inocentes entre la población civil.
+|Example.Gloss=The protestors believe that any action military of states united and of the NATO against third countries would.generate an escalation of violence of level international and would.cause more victims innocent among the population civilian
+|Example.English translation=The protesters believe that any military action in the United States and NATO against third countries would generate an escalation of violence at the international level and result in more innocent victims among the civilian population.
+|Example.Comments=acción militar de estados unidos y de la otan contra terceros países generaría una escalada de violencia
+}}
+|Entered by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

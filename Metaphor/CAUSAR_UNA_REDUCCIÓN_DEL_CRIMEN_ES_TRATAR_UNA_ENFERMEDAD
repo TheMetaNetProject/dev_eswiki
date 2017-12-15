@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=cause a reduction of-the crime es treating a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSAR UNA REDUCCIÓN DEL CRIMEN ES TRATAR UNA ENFERMEDAD
+}}
+|Tags=tentative
+|Family=Gobernación
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Crimen
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CRIMEN ES ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Se necesita autoridad frente al crimen organizado, derrotarlo con toda la severidad de autoridad y se necesita cultura ciudadana para inocular en la sociedad principios, valores que rechacen al crimen organizado.
+|Example.Gloss=one needs authority front to-the crime organized vanquish-it with all the severity of authority and one needs culture citizen for inoculate in the society principals values that reject to-the crime organized
+|Example.English translation=We need authority in the face of organized crime, to vanquish it with full severity of authority and we need a citizen culture to inoculate society with principals, values, that reject organized crime.
+|Example.Provenance=http://www.sep.gob.mx/es/sep1/Version_estenografica_de_la_Conferencia_Magistral_Educacion_y_valores_para_la_Convivencia_que_dicto_el_senor_Alvaro_Uribe#.UUo4hlvwJSY
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|Investigated for=Spanish
+|Relevant LUs=
+}}

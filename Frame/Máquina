@@ -1,0 +1,124 @@
+{{Frame
+|Name gloss=machine
+|FrameNet frame=Gizmo
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie,
+|Last reviewed by=Karie, Oana
+|Roles={{Role
+|Role.Name=entidad_de_máquina
+|Role.Name gloss=machine_entity
+|Role.Type=Estructura fisica
+}}{{Role
+|Role.Name=propósito
+|Role.Name gloss=purpose
+|Role.Definition=the purpose the machine is designed to accomplish
+|Role.FrameNet role=Use
+}}{{Role
+|Role.Name=estado_funcional
+|Role.Name gloss=functional_status
+|Role.Type=Estado
+}}{{Role
+|Role.Name=partes
+|Role.Name gloss=parts
+}}{{Role
+|Role.Name=diseño_de_máquina
+|Role.Name gloss=machine_design
+}}{{Role
+|Role.Name=operador_de_máquina
+|Role.Name gloss=machine_operator
+|Role.Type=Persona
+}}{{Role
+|Role.Name=funcionando_x-schema
+|Role.Name gloss=operating_x-schema
+|Role.Type=Proceso
+}}{{Role
+|Role.Name=fuente_de_alimentación
+|Role.Name gloss=power_source
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Estructura física
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Reparar
+}}
+|Bindings={{Binding
+|Binding.Local role=entidad_de_máquina
+|Binding.Bound role=Control.entidad_dependente
+}}{{Binding
+|Binding.Local role=operador_de_máquina
+|Binding.Bound role=Control.entidad_que_controla
+}}{{Binding
+|Binding.Local role=entidad_de_máquina
+|Binding.Bound role=Estructura física
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=máquina.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mecanismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=motor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engrane.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engranaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=girar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=operar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=excavadora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apisonadora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grúa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manivela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tuerca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tornillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aparato.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=artilugio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=biela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=funcionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maquinaria.n
+}}
+|LinkEnglish=Machine
+|Applicability=Spanish
+}}

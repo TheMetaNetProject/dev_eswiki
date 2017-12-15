@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=agreement political is being in the same army
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACUERDO POLÍTICO ES ESTAR EN EL MISMO EJÉRCITO
+}}
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Ejército
+|Target frame=Política
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El ejército priísta se alista para la batalla electoral.
+|Example.Gloss=The army PRI-ist refl ready for the battle electoral
+|Example.English translation=The PRI army readies itself for the electoral battle.
+|Example.Provenance=http://www.cambiodemichoacan.com.mx/vernota.php?id=97297
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=POLITICAL AGREEMENT IS BEING IN THE SAME ARMY
+|Investigated for=Spanish
+|Relevant LUs=
+}}

@@ -1,0 +1,70 @@
+{{Frame
+|Name gloss=application-force
+|Family=Esquemas de Acción, Esquemas de dinámica de fuerzas
+|Type=Cog
+|Status=in development
+|Entered by=Karie
+|Roles={{Role
+|Role.Name=actor
+|Role.Name gloss=actor
+|Role.Type=Entidad
+}}{{Role
+|Role.Name=actuado_sobre
+|Role.Name gloss=acted_upon
+|Role.Type=Entidad
+|Role.Definition=el entidad que el actor se aplica la fuerza para
+}}{{Role
+|Role.Name=fuerza
+|Role.Name gloss=force
+|Role.Type=Fuerza
+}}{{Role
+|Role.Name=efector
+|Role.Name gloss=effector
+|Role.Type=Entidad
+}}{{Role
+|Role.Name=x-esquema
+|Role.Name gloss=x-schema
+|Role.Type=Proceso
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contacto
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Transferencia forzada
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Acción.actor
+}}{{Binding
+|Binding.Local role=efector
+|Binding.Bound role=Acción.efector
+}}{{Binding
+|Binding.Local role=fuerza
+|Binding.Bound role=Acción.esfuerzo
+}}{{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Transferencia forzada.fuerza_originador
+}}{{Binding
+|Binding.Local role=actuado_sobre
+|Binding.Bound role=Transferencia forzada.receptor_de_fuerza
+}}
+|Inferences={{Inference
+|Inference.Description=La cantidad de fuerza aplicada al actuado_sobre está estrechamente correlacionada con la cantidad de esfuerzo que el actor ejerce.
+}}{{Inference
+|Inference.Description=Para aplicar la fuerza, el actor debe estar en contacto con actuado_sobre.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empujar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prensar.v
+}}
+|LinkEnglish=Force-application
+|Applicability=Spanish
+}}
+jalar.v

@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=relations human are locations
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Región delimitada
+|Target frame=Relación humana
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Identifica si caes en una relación de maltrato ...
+|Example.Gloss=identify if you-fall in a relationship of abuse ...
+|Example.English translation=Identify if you fall into an abusive relationship ...
+|Example.Provenance=http://www.elmanana.com.mx/notas.asp?id=251501
+|Example.Comments="caer en una relación"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El trauma no termina al salir de la relación, normalmente pasa por un luto por la pérdida de la relación.
+|Example.Gloss=the trauma not end at-the go-out of the relationship normally passes for a mourning-period for the loss of the relationship
+|Example.English translation=The trauma does not end upon leaving the relationship. Normally she passes through a period of mourning the loss of the relationship.
+|Example.Provenance=http://cedoc.inmujeres.gob.mx/insp/dx_politicas.pdf
+|Example.Comments="salir de la relación"
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=Spanish
+}}

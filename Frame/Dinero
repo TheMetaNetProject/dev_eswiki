@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=money
+|Family=Esquemas de Dinero
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Riqueza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dinero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=moneda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=billete.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dólar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=botín.n
+}}
+|LinkEnglish=Money
+|Applicability=Spanish
+}}
+capital.n
+peso.n

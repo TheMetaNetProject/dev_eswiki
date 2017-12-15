@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=sadness
+|Family=Esquemas de Emoción,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=experimentador
+|Role.Name gloss=experiencer
+}}{{Role
+|Role.Name=tristeza
+|Role.Name gloss=sadness
+}}{{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+}}{{Role
+|Role.Name=causa_de_tristeza
+|Role.Name gloss=cause_of_sadness
+}}{{Role
+|Role.Name=efecto_corporal
+|Role.Name gloss=bodily_effect
+}}{{Role
+|Role.Name=nivel_de_emoción
+|Role.Name gloss=emotion_level
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emoción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=triste.adj
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tristeza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ánimo.n
+}}
+|LinkEnglish=Sadness
+|Applicability=Spanish
+}}

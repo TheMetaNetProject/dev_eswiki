@@ -1,0 +1,66 @@
+{{Frame
+|Name gloss=Emotion
+|Family=Esquemas de Emoción,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=M.E., Karie
+|Roles={{Role
+|Role.Name=experimentador
+|Role.Name gloss=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=emoción
+|Role.Name gloss=emotion
+}}{{Role
+|Role.Name=causa_de_emoción
+|Role.Name gloss=cause_of_emotion
+}}{{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+|Role.Definition=el cuerpo del experimentador de la emoción
+}}{{Role
+|Role.Name=efecto_corporal
+|Role.Name gloss=bodily_effect
+|Role.Definition=el efecto de la emoción en el cuerpo
+}}{{Role
+|Role.Name=nivel_de_emoción
+|Role.Name gloss=emotion_level
+}}{{Role
+|Role.Name=mente
+|Role.Name gloss=mind
+|Role.Definition=la mente del experimentador de la emoción
+}}{{Role
+|Role.Name=límite_de_emoción
+|Role.Name gloss=emotion_limit
+}}{{Role
+|Role.Name=acción_emocional
+|Role.Name gloss=emotional_action
+}}{{Role
+|Role.Name=apariencia_de_cara
+|Role.Name gloss=face_appearance
+|Role.Definition=la cara del experimentador de la emoción
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Funcionamiento corporal
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=La persona que siente una cosa, percibe una cosa, a lo menos en la mente. Normalmente existe en realidad el tema de la emoción.
+}}{{Inference
+|Inference.Description=La ocurrencia de la emoción y del cambio en el nivel_de_emoción se debe a una causa de algún tipo.
+}}{{Inference
+|Inference.Description=Un cambio en el nivel_de_emoción se acompaña a menudo por un cambio en efecto_corporal y apariencia_de_cara.
+}}{{Inference
+|Inference.Description=Cuando el nivel_de_emoción de la emoción llega a un límite_de_emoción, la mente ya no es capaz de controlar la emoción, lo que resulta en acción_emocional.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sentir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emoción.n
+}}
+|LinkEnglish=Emotion
+|Applicability=Spanish
+}}

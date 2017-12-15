@@ -1,0 +1,88 @@
+{{Frame
+|Name gloss=restraints constructed
+|Comments=this I am guessing is meant to handle restraints that have been constructed, so not naturally occurring restraints like moats or rivers or oceans or mountains, etc.  this could change later. [kmm 9-27-13]
+|Tags=Program sources
+|Status=proposed, auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Objeto
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrapar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trampa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cadena.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cepo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aprisionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encarcelar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manilla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estorbar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grillete.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bola y cadena.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=confinar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encerrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=entrapar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cazar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maniatar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esposar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esposas.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esposa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=yugo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lazo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=domar.v
+}}
+|LinkEnglish=Constructed Restraints
+}}

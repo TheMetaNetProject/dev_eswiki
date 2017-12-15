@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=condition of physical object
+|Family=Esquemas de escala,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Objeto físico complejo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ruinoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=raído.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=destartalado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=en ruinas
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desvencijado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deforme.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gastado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deteriorarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=raer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deformar.v
+}}
+|LinkEnglish=Condition of physical object
+|Applicability=Spanish
+}}
+desgastar.v, gastar.v, gastarse.v

@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=time is the passage of objects towards ego
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIEMPO ES UN OBJETO QUE SE MUEVE
+|Metaphor.Alias.Provenance=Angeles Moreno Lara, PhD dissertation, Univ. de la Rioja
+}}
+|Family=Metáforas del Tiempo
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Movimiento
+|Target frame=Tiempo
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=No voy a hacer nada hasta que pasen unos días.
+|Example.Gloss=NEG FUT-Aux to do nothing until that pass-SUBJU some days
+|Example.English translation=I won't do anything until a few days go by.
+|Example.Provenance=Alarcon p. 286
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El tiempo pasa, nos vamos poniendo viejos.
+|Example.Gloss=the time passes us-Cl FUT-Aux putting old
+|Example.English translation=Time goes by; we get older.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Para éstos, la vida va, transcurre, corre.
+|Example.Gloss=For these the life goes passes runs
+|Example.English translation=For people like these, life goes on, passes by, hurries along.
+|Example.Provenance=http://www.vanguardia.com.mx/xstatic/vanguardia/mobile/template/vmobiledetalle.aspx?intId=624611
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=TIME IS A MOVING OBJECT
+|Investigated for=Spanish
+}}

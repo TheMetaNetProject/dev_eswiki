@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=freedom
+|Family=Esquemas de Democracia,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Derechos
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=libertad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=libre.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liberar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liberación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emancipación.n
+}}
+|LinkEnglish=Freedom
+|Applicability=Spanish
+}}

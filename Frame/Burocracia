@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=bureaucracy
+|Family=Esquemas de burocracia
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=burocracia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=burócrata.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=funcionario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oficial.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=burocrático.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=administración.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=administración pública.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=funcionariado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=funcionario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=funcionario público.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=servidor público.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=burocrático.a
+}}
+|LinkEnglish=Bureaucracy
+|Applicability=Spanish
+}}

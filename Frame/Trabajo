@@ -1,0 +1,68 @@
+{{Frame
+|Name gloss=work
+|Family=Esquemas de Riqueza y clase social,
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Pobreza
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Riqueza
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Clase social
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción propositiva
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Empleo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Recursos económicos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trabajo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trabajar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patrón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trabajador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empresa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empresario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jornal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jornada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jornalero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asalariado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jornada.n laboral
+}}
+|LinkEnglish=Work scenario
+|Applicability=Spanish
+}}

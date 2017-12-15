@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=ability to.see
+|Family=Esquemas de visión,
+|Tags=Program sources
+|Status=auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Visión
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ver
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=opaco.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transparencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oscuro.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transparente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oscuridad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=opacidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mirar.v
+}}
+|LinkEnglish=Visual obstruction
+}}

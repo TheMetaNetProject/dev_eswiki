@@ -1,0 +1,22 @@
+{{Frame
+|Name gloss=change of size
+|Comments=ATTENTION!!
+Please do not add perspectivized LUs here, add them in their respective frames (so, expandir, crecer, etc. in Aumento de tamano, and diminuir, contraer, etc in Diminuacion de tamano). Same for English.
+
+This is a high level shared frame. There will probably not be any LUs here.
+
+desarollo.n may not belong here.
+|Family=Esquemas asociados al cambio, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tamaño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=Spanish
+}}

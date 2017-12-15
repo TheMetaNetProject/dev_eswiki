@@ -1,0 +1,22 @@
+{{Frame
+|Name gloss=access to a place
+|Comments=need to sort this out; how is it located to Desplazamiento en un nuevo lugar? (look on proposal of subdimensions spreadsheet)
+|Family=Esquemas de ubicación,
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Desplazamiento en un nuevo lugar
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acceso
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Lugar
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Access to a location
+}}

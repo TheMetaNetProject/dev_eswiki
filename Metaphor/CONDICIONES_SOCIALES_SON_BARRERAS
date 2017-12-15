@@ -1,0 +1,34 @@
+{{Metaphor
+|Name gloss=conditions social are barriers
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONDICIONES SOCIALES SON BARRERAS
+}}
+|Family=Educación, Sociedad,
+|Metaphor Level=General
+|Source frame=Obstáculo en el camino
+|Target frame=Estados sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON OBSTÁCULOS EN EL CAMINO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Difíciles condiciones sociales estorban la educación superior
+|Example.Gloss=Difficult conditions social hinder the education higher
+|Example.English translation=Difficult social conditions hinder higher education
+|Example.Provenance=http://www.jornada.unam.mx/2012/05/27/sociedad/033n1soc
+|Example.Comments="condiciones sociales estorban la educación"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La combinación de altos niveles de pobreza y desigualdad es un obstáculo para la expansión de la cobertura educativa. 
+|Example.Gloss=The combination of high levels of poverty and inequality is an obstacle for the expansion of the coverage educational
+|Example.English translation=The combination of high levels of poverty and inequality is an obstacle to the expansion of educational coverage.
+|Example.Provenance=http://educacionadebate.org/40135/pobreza-y-desigualdad-desafios-para-una-cobertura-educativa-con-equidad/
+|Example.Comments="altos niveles de pobreza y desigualdad es un obstáculo"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

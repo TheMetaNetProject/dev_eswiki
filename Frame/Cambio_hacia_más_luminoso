@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=change towards more bright
+|Family=Esquemas de Luz, 
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de estado
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Cambio hacia más oscuro
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Claridad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aclararse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aclarar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=iluminarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=iluminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alumbrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amanecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clarear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esclarecer.v
+}}
+|Applicability=Spanish
+}}
+amanecer 'sunrise' belongs in a frame with anochecer 'nightfall'; also need to separate LUs meaning 'become light' (iluminarse, aclararse) from LUs meaning 'make light' (luminar, aclarar)

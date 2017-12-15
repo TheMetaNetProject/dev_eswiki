@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=election is a race
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ELECCIÓN ES UNA CARRERA
+}}
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Carrera
+|Target frame=Campaña electoral
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ELECCIÓN ES UN PARTIDO DEPORTIVO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Empieza la carrera presidencial
+|Example.Gloss=begins the race presidential
+|Example.English translation=The Presidential Race Begins
+|Example.Provenance=http://www.cronica.com.mx/notas/2012/673838.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Zapatero queda rezagado en la carrera a la candidatura socialista.
+|Example.English translation=Zapatero is lagging behind in the race for the Socialist candidacy.
+|Example.Provenance=http://www.minutodigital.com/2011/03/14/zapatero-a-la-cola-de-los-candidatos-preferidos-en-el-psoe/
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=ELECTION IS A RACE
+|Investigated for=Spanish
+|Relevant LUs=
+}}

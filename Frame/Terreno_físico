@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=terrain physical
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Características geográficas
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=precipicio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrato.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=precario.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deteriorar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rocoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pedregoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guijarroso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ciénaga.n
+}}
+|LinkEnglish=Quality of landscape
+}}

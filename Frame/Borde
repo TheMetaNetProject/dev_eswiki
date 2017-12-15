@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=edge
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Región delimitada
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=borde.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=orilla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuneta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=filo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=margen.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=límite.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frontera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=franja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perímetro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=valla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paso.n
+}}
+|LinkEnglish=Edge
+|Applicability=Spanish
+}}

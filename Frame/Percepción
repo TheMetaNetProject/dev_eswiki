@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=perception
+|Family=Esquemas de Percepción,
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=perceptor
+|Role.Name gloss=perceiver
+|Role.Type=entidad_animado
+}}{{Role
+|Role.Name=entidad_percibido
+|Role.Name gloss=perceived_thing
+|Role.Definition=el fenómeno
+}}{{Role
+|Role.Name=facultdad
+|Role.Name gloss=faculty
+|Role.Definition=el parte del cuerpo que se para percibir la entidad_percibida
+}}{{Role
+|Role.Name=percepción_x-esquema
+|Role.Name gloss=perception_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Entidad animado
+}}
+|Bindings={{Binding
+|Binding.Local role=perceptor
+|Binding.Bound role=Entidad.animado_entidad
+}}{{Binding
+|Binding.Local role=facultad
+|Binding.Bound role=Entidad.animado_partes_especializadas
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=percibir.v
+}}
+|LinkEnglish=Perception
+|Applicability=Spanish
+}}

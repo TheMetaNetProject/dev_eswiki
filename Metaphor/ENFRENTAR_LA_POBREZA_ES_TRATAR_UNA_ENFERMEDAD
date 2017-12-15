@@ -1,0 +1,43 @@
+{{Metaphor
+|Name gloss=confront the poverty is treat a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENFRENTAR LA POBREZA ES TRATAR UNA ENFERMEDAD
+}}
+|Family=Metáforas de Pobreza, Metáforas de aflicciones físicas, Metáforas de pobreza como problema social, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ENFRENTAR PROBLEMAS SOCIALES ES TRATAR UNA ENFERMEDAD
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=POBREZA ES UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Por otra parte, siguen tercos en mantener los programas asistencialistas que solamente alivian algunos síntomas de la pobreza pero no la curan.
+|Example.Gloss=for other part they-follow stubborn in maintain the programs assistence that only alleviate some symptoms of the poverty but not it cure
+|Example.English translation=In another way, they remain stubborn in maintaining assistance programs that only alleviate some symptoms of poverty but don't cure it.
+|Example.Provenance=http://www.elreto.com.mx/articulos/?method=una&idarticulo=44029
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es una enfermedad y la receta se llama desarrollo social, educación y promoción de la salud.
+|Example.Gloss=the poverty is a disease and the prescription refl call development social education and promotion of the health
+|Example.English translation=Poverty is a disease, and the prescription is called development, social education, and promotion of health.
+|Example.Provenance=http://www.correo-gto.com.mx/nacional/36702-la-pobreza-una-enfermedad-que-aqueja-a-mexico.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=En este contexto, el funcionario indicó que más allá de tratar la pobreza alimentaria, la cual se presenta cuando la población no cuenta con los recursos para cubrir las comidas que requiere, lo que se debe de combatir es la inseguridad alimentaria, que se da no solo por la disminución de ingresos, sino que no hay disposición de los alimentos, pues se ubican en zonas altamente marginadas y dispersas, que dificultan su obtención.
+|Example.Gloss=in this context the official indicated that more beyond of treat the poverty alimentary that which refl presents when the population not count with the resources to cover the foods that requires that which refl must of combat is the insecurity alimentary that refl gives not only by the decrease in incomes but rather that not there-is availability of the foods sense refl locate in zones highly marginalized and disperse that makes-difficult its obtaining
+|Example.English translation=In this context, the official indicated that, beyond just treating nutritional poverty, which shows up when the population lacks resources to afford the food they require, it is necessary to combat nutritional insecurity, which is caused not just by lowering incomes but also because food is not available, since they are located in highly marginal and disperse regions, and it is difficult to acquire.
+|Example.Provenance=http://www.ultra.com.mx/noticias/puebla/Local/69279-reunion-para-comenzar-el-programa-cruzada-por-el-hambre-.html
+|Example.Comments=tratar la pobreza alimentaria
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,138 @@
+{{Frame
+|Name gloss=impediments of motion
+|Family=Esquemas de movimiento,
+|Type=Composed
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=impedimento
+|Role.Name gloss=impediment
+}}{{Role
+|Role.Name=entidad_que_se_mueve
+|Role.Name gloss=mover
+}}{{Role
+|Role.Name=movimiento_afectado
+|Role.Name gloss=affected_motion
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento
+}}
+|Bindings={{Binding
+|Binding.Local role=impedimento
+|Binding.Bound role=Causar.causa
+}}{{Binding
+|Binding.Local role=entidad_que_se_mueve
+|Binding.Bound role=Causar.afectado
+}}{{Binding
+|Binding.Local role=entidad_que_se_mueve
+|Binding.Bound role=Movimiento.entidad_que_se_mueve
+}}{{Binding
+|Binding.Local role=movimiento_afectado
+|Binding.Bound role=Causar.efecto
+}}{{Binding
+|Binding.Local role=movimiento_afectado
+|Binding.Bound role=Movimiento.movimiento_x-schema
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impedir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstruir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstaculizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estorbar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstrucción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impedimento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bloquear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bloquearse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstáculo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detener.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detenerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retrasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstruir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=topar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tope.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=interponerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tropezar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atorar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cautiverio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=capturar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plomada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dique.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrancarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tropezar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tropezarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abigarrado.a
+}}
+|LinkEnglish=Motion impediment
+|Applicability=Spanish
+}}

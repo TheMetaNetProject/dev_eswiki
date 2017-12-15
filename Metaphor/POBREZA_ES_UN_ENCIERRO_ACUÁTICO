@@ -1,0 +1,74 @@
+{{Metaphor
+|Name gloss=poverty is an enclosure aquatic
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES UN ENCIERRO ACUÁTICO
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Encierros acuáticos
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES UN ENCIERRO AMBIENTAL
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=FRACASO ES MUERTE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Asfixiados por el desempleo, millones de europeos se hunden en la pobreza
+|Example.Gloss=asphyxiated by the unemployment millions of Europeans refl drown in the poverty
+|Example.English translation=Suffocated by unemployment, millions of Europeans are drowning in poverty.
+|Example.Provenance=http://noticias.terra.com.mx/mundo/europa/asfixiados-por-el-desempleo-millones-de-europeos-se-hunden-en-la-pobreza,61ec4ab0b7f7b310VgnCLD2000000dc6eb0aRCRD.html
+|Example.Comments=se hunden en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Comunidades rurales se hunden en la pobreza.
+|Example.Gloss=Communities rural refl drown in the poverty
+|Example.English translation=Rural communities are drowning in poverty.
+|Example.Provenance=http://www.informativoquintanaroo.com.mx/quintana-roo/3146-comunidades-rurales-se-hunden-en-la-pobreza
+|Example.Comments=se hunden en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Los habitantes de esta localidad se encuentran sumergidos en la pobreza y marginación ante el beneplácito de las autoridades municipales, quienes con sus acciones y cerrazón ahuyentan posibles inversiones para la generación de fuentes de empleo, que mucha falta hace para las familias necesitadas de ser retribuidas por sus servicios.
+|Example.Gloss=The residents of this locality refl find submerged in the poverty and marginalization before the pleasure of the authorities municipal who with their actions and foolishness chase-away possible investments for the generation of sources of employment that much lacks make for the families in-need of being paid-back for their services.
+|Example.English translation=The residents of this region find themselves submerged in poverty and marginalization at the whim of municipal authorities who, with their fool-minded actions, drive away possible investments to generate sources of jobs, which are badly needed by families in need of compensation for their services.
+|Example.Provenance=http://www.orizabaenred.com.mx/cgi-bin/web?b=VERNOTICIA&%7Bnum%7D=12850
+|Example.Comments=sumergidos en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Más de 333 mil indígenas mayas habitantes de los nueve municipios quintanarroenses continúan sumergidos en la pobreza al percibir menos 1.5 salarios mínimos (77 pesos) al día para satisfacer necesidades básicas para sobrevivir como la alimentación.
+|Example.Gloss=More than 333 thousand indigenous Maya residents of the nine municipalities of-Quintana-Roo continue submerged in the poverty at-the see less 1.5 wages minimum 77 pesos per day to satisfy necessities basic to survive like the nutrition
+|Example.English translation=More than 333,000 indigenous Maya living in the nine districts of Quintana Roo continue submerged in poverty, receiving less than the 1.5 times minimum wage (77 pesos) per day necessary to meet basic needs like nutrition.
+|Example.Provenance=http://www.novenet.com.mx/seccion.php?id=165536&sec=4&d=30&m=07&y=2009
+|Example.Comments=sumergidos en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=¿En verdad habrá sido necesario y urgente destinar tanto dinero para la compra de los tableros electrónicos, cuando nuestro país se ahoga en la pobreza?
+|Example.Gloss=in truth will-have been necessary and urgent direct so-much money for the purchase of the control-panels electronic when our country refl drown in the poverty
+|Example.English translation=Was it really necessary and urgent to spend so much money to buy electronic voting controls when our country is drowning in poverty?
+|Example.Provenance=http://www.poderpolitico.com.mx/vernota.php?id=13819
+|Example.Comments=nuestro país se ahoga en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Aseguró que cambiará la política económica porque la actual sólo brinda privilegios a unos cuantos, sin importar el destino del país ni los reclamos de todos un pueblo que se ahoga en la pobreza.
+|Example.Gloss=assured that will-change the policy economic because the present only provide privilege to some few without matter the destiny of-the country nor the needs of all the people that are drowning in poverty.
+|Example.English translation=He assured that he will change economic policy because the current one only privileges a small few, without regard for the future of the country or the needs of all those that are drowning in poverty.
+|Example.Provenance=http://www.terra.com.mx/presidenciables2006/articulo/177028/Rinde+AMLO+protesta+como+candidato.htm
+|Example.Comments=un pueblo que se ahoga en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Su padre lucha contra su propio dolor mientras trata de mantener a la familia a flote.
+|Example.Gloss=Their father struggles against his own pain while he-tries to keep to the family to afloat
+|Example.English translation=Their father struggles with his own pain while trying to keep his family afloat.
+|Example.Provenance=http://www.up.edu.mx/document.aspx?doc=9471
+|Example.Comments=mantener a la familia a flote
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

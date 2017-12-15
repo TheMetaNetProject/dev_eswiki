@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=addressing the poverty is destroying an object
+|Aliases=
+|Family=Metáforas de Pobreza,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Destruir
+|Target frame=Pobreza
+|Mappings={{Mapping
+|Target=pobreza
+|Source=objeto
+}}{{Mapping
+|Target=legisladores
+|Source=destructor
+}}{{Mapping
+|Target=político
+|Source=fuerza destructiva
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ABORDAR LOS PROBLEMAS SOCIALES ES DESTRUIR UN OBJETO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Erradicar la pobreza extrema y el hambre
+|Example.Gloss=erradicate the poverty extreme and the hunger
+|Example.English translation="Erradicate extreme poverty and hunger"
+|Example.Provenance=http://www.onu.org.mx/objetivo1.html
+|Example.Annotation="erradicar la pobreza extrema"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

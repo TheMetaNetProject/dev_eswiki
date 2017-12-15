@@ -1,0 +1,45 @@
+{{Metaphor
+|Name gloss=functionality of system educational is verticaity
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FUNCIONALIDAD DEL SISTEMA EDUCATIVO ES VERTICALIDAD
+}}
+|Family=Educación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Verticalidad
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=FUNCIONALIDAD ES VERTICALIDAD
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=SISTEMA EDUCATIVO ES UN ESTRUCTURA FÍSICA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=De unos cinco años a la fecha, el sistema educativo ha ido decayendo hasta encontrarse actualmente por el suelo y a pocos pasos de irse al más profundo desfiladero.
+|Example.Gloss=of about five years to the date, the system educational has gone declining to be currently on the floor and a few steps from to.leave.from to.the more deep gorge
+|Example.English translation=For about five years now, the education system has declined to be currently at rock bottom and a few steps from going off the deepest ravine.
+|Example.Provenance=http://laexpresion.info/inicio/por-los-suelos-el-nivel-educativo/
+|Example.Comments="ha ido decayendo", "por el suelo"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Que la educación publica esté por los suelos no es responsabilidad de los padres.
+|Example.Gloss=That the education public is on the floor not is responsibility of the parents
+|Example.English translation=That public education is at rock bottom is not the responsibility of the parents.
+|Example.Provenance=http://www.mmadrigal.com/la-educacin-por-los-suelos/
+|Example.Comments="la educación publica esté por los suelos"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El presidente Felipe Calderón Hinojosa aseguró que su gobierno trabaja fuerte para elevar la educación en México.
+|Example.Gloss=The president Felipe Calderon Hinojosa ensured that his government works hard for to.raise the education in Mexico
+|Example.English translation="President Felipe Calderon Hinojosa reaffirmed that his government is working hard to raise education in Mexico."
+|Example.Provenance=http://www.eluniversal.com.mx/notas/582499.html
+|Example.Comments="elevar la educación"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=rights
+|Family=Esquemas de Gobierno, Esquemas de Democracia,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=titular_de_derechos
+|Role.Name gloss=rights_holder
+}}{{Role
+|Role.Name=derecho
+|Role.Name gloss=right
+}}{{Role
+|Role.Name=dominio
+|Role.Name gloss=domain
+|Role.Definition=e.g. property rights, human rights
+}}{{Role
+|Role.Name=fuente_de_derecho
+|Role.Name gloss=source_of_right
+}}{{Role
+|Role.Name=otros_actores
+|Role.Definition=other people whose actions are constrained by right_holder's rights
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Libertad
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Democracia
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derecho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=equidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=razón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=garantías individuales
+}}
+|LinkEnglish=Rights
+|Applicability=Spanish
+}}

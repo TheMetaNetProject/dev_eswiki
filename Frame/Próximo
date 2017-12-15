@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=proximal
+|Family=Esquemas de Imágenes, 
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Proximidad
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Lejano
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=próximo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cercano.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cerca.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=accesible.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disponible.a
+}}
+|LinkEnglish=Proximal
+|Applicability=Spanish
+}}

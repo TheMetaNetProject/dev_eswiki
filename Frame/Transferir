@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=Transfer
+|FrameNet frame=Transfer_scenario
+|Status=in development
+|Entered by=M.E.,
+|Last reviewed by=karie
+|Roles={{Role
+|Role.Name=entidad
+|Role.Name gloss=entity
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=recipiente
+|Role.Name gloss=recipient
+|Role.FrameNet role=Recipient
+}}{{Role
+|Role.Name=donante
+|Role.Name gloss=donor
+|Role.FrameNet role=Giver
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recibir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=otorgar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transferir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transferencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trasladar.v
+}}
+|LinkEnglish=Transfer scenario
+|Applicability=Spanish
+}}
+dar.v taken out for test November 2013 (kmm)

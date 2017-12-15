@@ -1,0 +1,92 @@
+{{Frame
+|Name gloss=motion guided 
+|Family=Esquemas de movimiento, 
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=líder
+|Role.Name gloss=leader
+|Role.Type=Entidad animado
+}}{{Role
+|Role.Name=seguidor
+|Role.Name gloss=follower
+|Role.Type=Entidad animado
+}}{{Role
+|Role.Name=ruta_de_líder
+|Role.Name gloss=path_of_leader
+|Role.Type=Camino
+}}{{Role
+|Role.Name=ruta_de_seguidor
+|Role.Name gloss=path_of_follower
+|Role.Type=Camino
+}}{{Role
+|Role.Name=líder_movimiento_x-esquema
+|Role.Name gloss=leader_motion_x-schema
+|Role.Type=Process
+}}{{Role
+|Role.Name=seguidor_movimiento_x-esquema
+|Role.Name gloss=follower_motion_x-schema
+|Role.Type=Process
+}}{{Role
+|Role.Name=meta_de_líder
+|Role.Name gloss=goal_of_leader
+|Role.Type=Ubicación
+}}{{Role
+|Role.Name=meta_de_seguidor
+|Role.Name gloss=goal_of_follower
+|Role.Type=Ubicación
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento a lo largo de un camino
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proceso Complejo
+}}
+|Bindings={{Binding
+|Binding.Local role=líder
+|Binding.Bound role=Movimiento a lo largo de un camino.entidad_que_se_mueve
+}}{{Binding
+|Binding.Local role=líder_movimiento_x-esquema
+|Binding.Bound role=Movimiento a lo largo de un camino.movimiento_x-esquema
+}}{{Binding
+|Binding.Local role=ruta_de_líder
+|Binding.Bound role=Movimiento a lo largo de un camino.ruta_de_movimiento
+}}{{Binding
+|Binding.Local role=líder
+|Binding.Bound role=Proceso Complejo.protagonista1
+}}{{Binding
+|Binding.Local role=líder_movimiento_x-esquema
+|Binding.Bound role=Proceso Complejo.proceso1
+}}{{Binding
+|Binding.Local role=seguidor
+|Binding.Bound role=Movimiento a lo largo de un camino.entidad_que_se_mueve
+}}{{Binding
+|Binding.Local role=ruta_de_seguidor
+|Binding.Bound role=Movimiento a lo largo de un camino.ruta_de_movimiento
+}}{{Binding
+|Binding.Local role=seguidor_movimiento_x-esquema
+|Binding.Bound role=Movimiento a lo largo de un camino.movimiento_x-esquema
+}}{{Binding
+|Binding.Local role=seguidor
+|Binding.Bound role=Proceso Complejo.protagonista2
+}}{{Binding
+|Binding.Local role=seguidor_movimiento_x-esquema
+|Binding.Bound role=Proceso Complejo.proceso2
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguidor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=líder.n
+}}
+|LinkEnglish=Guided motion
+|Applicability=Spanish
+}}

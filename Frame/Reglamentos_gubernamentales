@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=regulations governmental
+|Family=Esquemas de regulaciones,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Reglamento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reglamento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=regulación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reglamentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=norma.n
+}}
+|LinkEnglish=Regulation
+|Applicability=Spanish
+}}

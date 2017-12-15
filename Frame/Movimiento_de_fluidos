@@ -1,0 +1,92 @@
+{{Frame
+|Name gloss=movement of fluid
+|Other aliases=Movimiento de líquido
+|Family=Esquemas de movimiento,
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=goteo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gotear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chorrito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chorrear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escurrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chorro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=borbotones.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fluir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derramar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chapotear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=drenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ordeñar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extraer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flujo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corriente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discurrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emanar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hilo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=torrente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=filtrarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ola.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desbordar.v
+}}
+|LinkEnglish=Fluid motion
+|Applicability=Spanish
+}}

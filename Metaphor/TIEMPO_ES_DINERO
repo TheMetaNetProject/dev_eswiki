@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=TIME IS MONEY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIEMPO ES DINERO
+}}
+|Family=Metáforas del Tiempo, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Dinero
+|Target frame=Tiempo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TIEMPO ES UN RECURSO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Me estás haciendo perder el tiempo.
+|Example.Provenance=Metáforas de la vida cotidiana
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Este artilugio te ahorrará horas.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=No tengo tiempo para dedicártelo.
+}}
+|Entered by=Oana,
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=TIME IS MONEY
+|Investigated for=Spanish
+}}

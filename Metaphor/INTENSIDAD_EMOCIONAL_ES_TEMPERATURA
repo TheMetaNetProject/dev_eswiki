@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=INTENSITY EMOTIONAL IS TEMPERATURE
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMOTIONAL INTENSITY IS TEMPERATURE
+}}
+|Family=Metáforas de Emociones, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Temperatura del cuerpo
+|Target frame=Intensidad emocional
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Enojo crece
+|Entailment.Source inference=Fuego crece
+}}
+|Examples=
+|Entered by=M.E.,
+|Status=in development
+|Investigated for=Spanish
+}}

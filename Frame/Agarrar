@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=grasping
+|Family=Esquemas de objetos
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Posesión
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Manipulación de un objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agarrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coger.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=garras.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agarro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sujetar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apretón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agarre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agarrón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asirse.v
+}}
+|LinkEnglish=Grasp
+|Applicability=Spanish
+}}
+incluimos agarrador.n y agarradera.n?

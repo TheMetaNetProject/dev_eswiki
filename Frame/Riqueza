@@ -1,0 +1,108 @@
+{{Frame
+|Name gloss=wealth
+|Comments=old frame familiy: Esquemas económicos,
+|Family=Esquemas de Riqueza
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estatus económico
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Pobreza
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recursos económicos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=riqueza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ricos.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=millonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patrimonio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patrimonio.n privado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patrimonio.n privado neto
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enriquecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enriquecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adinerado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sobrador.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enriquecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pudientes.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=monopolio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=superrico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afluente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=billonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=multimillonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adinerado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adinerado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prosperidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortuna.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=base.n fiscal
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=el uno por ciento
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acaudelado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=forrado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=privilegiado.n
+}}
+|LinkEnglish=Wealth
+|Applicability=Spanish
+}}

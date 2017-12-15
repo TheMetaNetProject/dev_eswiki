@@ -1,0 +1,87 @@
+{{Frame
+|Name gloss=lightness
+|Family=Esquemas de Luz,
+|Type=Frame, Primary
+|Status=in development, proposed
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Tinieblas
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Luminosidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=claridad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=claro.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=luminosidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brillar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=blanco.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resplandor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resplandecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=relucir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fulgurar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=refulgir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=relumbrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deslumbrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=radiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=iluminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=centellear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fosforecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=irradiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reflejar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tornasolar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lucir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llamear.v
+}}
+|LinkEnglish=Lightness
+|Applicability=Spanish
+}}

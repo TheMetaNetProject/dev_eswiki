@@ -1,0 +1,41 @@
+{{Metaphor
+|Name gloss=can understand is can see
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PODER COMPRENDER ES PODER VER
+}}
+|Family=Metáforas de Cognición
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Ver
+|Target frame=Comprender
+|Mappings={{Mapping
+|Target=el_que_sabe
+|Source=el_que_vee
+}}{{Mapping
+|Target=lo_sabido
+|Source=lo_visto
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=COMPRENDER ES VER
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Algunos padres lo logran; otros no contemplan siquiera entre sus proyectos tapar los ojos de nadie.
+|Example.Gloss=Some parents it achieve others don't contemplate even among their projects cover the eyes of no-one
+|Example.English translation=Some parents pull it off [hiding the cruel realities of the world from their children]; others don't even consider trying to cover anyone's eyes.
+|Example.Provenance=http://www.vanguardia.com.mx/xstatic/vanguardia/mobile/template/vmobiledetalle.aspx?intId=624611
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Pero no funcionan cuando la cápsula en que se hace vivir a estos niños se vuelve tan impermeable que la venda que llega a cubrir la mirada es arrancada luego ferozmente por obra y gracia de la naturaleza humana misma, mostrando así el rostro más oscuro y triste del hombre.
+|Example.Gloss=but not function when the capsule in which one makes live to these children refl becomes so impermeable that the blindfold that comes to cover the gaze is torn-off later ferociously by hand and thanks to the nature human same showing like-this the face most dark and sad of man
+|Example.English translation=But this doesn't work when the capsule that one makes their children live in becomes so impermeable that the blindfold covering their eyes is torn off later, ferociously and by force, thanks to human nature displaying the very darkest and saddest face of man.
+|Example.Provenance=http://www.vanguardia.com.mx/xstatic/vanguardia/mobile/template/vmobiledetalle.aspx?intId=624611
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Oana
+|Status=in development
+|LinkEnglish=ABILITY TO KNOW IS ABILITY TO SEE
+|Investigated for=Spanish
+}}

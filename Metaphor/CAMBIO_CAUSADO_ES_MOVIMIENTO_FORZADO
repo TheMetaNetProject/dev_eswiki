@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=change caused is movement forced
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Movimiento forzado
+|Target frame=Estado
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CAMBIOS SON MOVIMIENTOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

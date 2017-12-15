@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=finances
+|Family=Esquemas económicos,
+|Type=Frame
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Riqueza
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Economía
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Estado económico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=finanza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=financial.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=financiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fiscal.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inversión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sistema financiero
+}}
+|LinkEnglish=Finance
+|Applicability=Spanish
+}}

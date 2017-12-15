@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=time
+|Type=Frame
+|Status=in development
+|Roles={{Role
+|Role.Name=unidad_de_tiempo
+|Role.Name gloss=time_unit
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tiempo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=momento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=minuto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=instante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=intervalo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=época.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rato.n
+}}
+|LinkEnglish=Time
+|Applicability=Spanish
+}}

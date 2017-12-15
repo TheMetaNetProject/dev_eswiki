@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=government
+|Family=Esquemas de Gobierno
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie, Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Institución gubernamental
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gobierno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gobernador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mandatario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gobernar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=regir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gubernamental.a
+}}
+|LinkEnglish=Government
+|Applicability=Spanish
+}}

@@ -1,0 +1,68 @@
+{{Frame
+|Name gloss=fire
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Fuerzas naturales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuego.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llama.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quemar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=incinerar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quemarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abrasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tostarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hoguera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fogata.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=incendio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infierno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chamuscar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carbonizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abrasarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fundir.v
+}}
+|LinkEnglish=Fire
+|Applicability=Spanish
+}}

@@ -1,0 +1,18 @@
+{{Metaphor
+|Name gloss=states social are objects 
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ESTADOS SOCIALES SON OBJETOS
+}}
+|Source frame=Objeto
+|Target frame=Estados sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ESTADOS SON OBJETOS
+}}
+|Entailments=
+|Examples=
+|Entered by=Karie, 
+|Status=in development
+|Investigated for=Spanish
+}}

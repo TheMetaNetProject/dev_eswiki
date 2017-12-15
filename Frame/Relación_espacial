@@ -1,0 +1,16 @@
+{{Frame
+|Name gloss=relation spatial
+|Family=Esquemas de ubicación, 
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Trayector-landmark
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Spatial relation
+|Applicability=Spanish
+}}

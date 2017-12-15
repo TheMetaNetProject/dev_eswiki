@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=education is a company
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UN EMPRESA
+}}
+|Family=Educación,
+|Source frame=Estructura física
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EDUCACIÓN ES UN ESTRUCTURA FÍSICA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La educación es una las empresas socialistas más grandes de México, y todas las empresas socialistas del mundo, sean siderúrgicas, petroleras, de energía, de salud, agrícolas o educativas, tienen ciertos puntos comunes: todas producen artículos de mala calidad a muy altos costos, con privilegios especiales para un grupo reducido.
+|Example.Gloss=The education is one the companies Socialist very big in Mexico and all the companies Socialist of.the world whether steel, oil, of energy, of health, agriculture or education, they have certain points common all produced items of bad quality and very high costs, with privileges special for a group reduced
+|Example.English translation=Education is one of the largest socialist enterprises in Mexico, and all the world socialist enterprises, whether steel, oil, energy, health, agriculture or education, have certain things in common: all items of poor quality produce at very high costs , with special privileges for a small group.
+|Example.Provenance=http://mexicoliberal.blogspot.com/2006/09/desastre-educativo.html
+|Example.Comments="La educación es una las empresas"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

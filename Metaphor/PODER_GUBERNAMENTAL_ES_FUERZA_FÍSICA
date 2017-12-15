@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=power governmental is force physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PODER GUBERNAMENTAL ES FUERZA FÍSICA
+}}
+|Tags=tentative
+|Family=Metáforas de Gobierno,
+|Source frame=Fuerza física
+|Target frame=Gobierno
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=PODER ES OBJETO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Obama renueva presiones sobre el Congreso para evitar los recortes
+|Example.Gloss=Obama renews pressures over the Congress to avoid the cuts
+|Example.English translation=Obama renews pressure on Congress to avoid budget cuts
+|Example.Provenance=http://www.jornada.unam.mx/2013/02/20/economia/033n2eco
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Obama, Clinton, sus aliados y la mafia mediática no se dan por enterados, siguen empujando el cambio de régimen
+|Example.Gloss=Obama Clinton their allies and the mafia media not they give for aware follow pushing the change of regime
+|Example.English translation=Obama, Clinton, their allies, and the media mafia feign ignorance and continue pushing for regime change.
+|Example.Provenance=http://www.revistarepublica.com.mx/pragmatismo-esquizofrenico/
+|Example.Comments="empujando el cambio de régimen"
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+|Relevant LUs=
+}}

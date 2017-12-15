@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=proximity
+|Family=Esquemas de escala, 
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=suelo
+|Role.Name gloss=ground
+|Role.Definition=landmark
+}}{{Role
+|Role.Name=región_perfilada
+|Role.Name gloss=profiled_region
+}}{{Role
+|Role.Name=escala_de_proximidad
+|Role.Name gloss=proximity_scale
+|Role.Type=scale
+|Role.Definition=relative (scalar) distance from ground
+}}{{Role
+|Role.Name=norma
+|Role.Name gloss=norm
+|Role.Definition=normal/expected distance between profiled_region and ground
+}}{{Role
+|Role.Name=grado_de_proximidad
+|Role.Name gloss=degree_of_proximity
+|Role.Definition=how profiled_region differs from norm
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=Distance less than norm is 'close'/'proximal', distance greater than norm is 'far'/'distal'.
+}}{{Inference
+|Inference.Description=The closer an object gets to another object, the smaller the distance between them becomes.
+
+}}{{Inference
+|Inference.Description=The further an object gets from another object, the greater the distance between them becomes.
+
+}}{{Inference
+|Inference.Description=Motion is required in order to increase or decrease proximity between two objects.
+
+}}
+|Relevant LUs=
+|LinkEnglish=Proximity
+|Applicability=Spanish
+}}

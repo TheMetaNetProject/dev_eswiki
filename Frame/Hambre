@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=hunger
+|Family=Esquemas de Comida,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Comida
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hambre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apetito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=glotonería.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hambriento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hambruna.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desnutrición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=famélico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hambrear.v
+}}
+|LinkEnglish=Hunger
+|Applicability=Spanish
+}}

@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=mobility
+|Family=Esquemas de movimiento,
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=movilidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=móvil.n
+}}
+}}

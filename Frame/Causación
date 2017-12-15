@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=causation
+|Family=Esquemas excluidos
+|Type=Cog, Composed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=agente
+|Role.Name gloss=agent
+|Role.Definition=force
+}}{{Role
+|Role.Name=afectado
+|Role.Name gloss=affected
+}}{{Role
+|Role.Name=causa
+|Role.Name gloss=cause
+}}{{Role
+|Role.Name=efecto
+|Role.Name gloss=effect
+|Role.Type=el proceso
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Proceso Complejo
+}}
+|Bindings={{Binding
+|Binding.Local role=agente
+|Binding.Bound role=Proceso_Complejo.protagonista1
+}}{{Binding
+|Binding.Local role=afectado
+|Binding.Bound role=Proceso_Complejo.protagonista2
+}}{{Binding
+|Binding.Local role=causa
+|Binding.Bound role=Proceso_Complejo.proceso1
+}}{{Binding
+|Binding.Local role=efecto
+|Binding.Bound role=Proceso_Complejo.proceso2
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=causar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resultar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=causa.n
+}}
+|LinkEnglish=Causation
+|Applicability=Spanish
+}}

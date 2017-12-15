@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=ingestion
+|Family=Esquemas de Comida, Esquemas de Comer
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=entidad_que_ingiere
+|Role.Name gloss=ingestor
+}}{{Role
+|Role.Name=las_ingeribles
+|Role.Name gloss=ingestibles
+}}{{Role
+|Role.Name=proceso_de_ingestión
+|Role.Name gloss=ingestion_process
+|Role.Type=x-esquema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Funcionamiento corporal
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Consumir alimento excesivo
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Alimento
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Comida
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Alimentos ricos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingestión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingerir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tragar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=beber.v
+}}
+|LinkEnglish=Ingestion
+|Applicability=Spanish
+}}
+engullir 'to gulp down', devorar 'to devour', tragar 'guzzle/gulp down' --> accelerated speed of ingestion - do these need their own frame?

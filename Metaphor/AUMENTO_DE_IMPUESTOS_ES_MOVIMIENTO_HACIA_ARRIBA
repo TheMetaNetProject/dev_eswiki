@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=increase in taxes is movement toward up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AUMENTO DE IMPUESTOS ES MOVIMIENTO HACIA ARRIBA
+}}
+|Family=Metáforas de Impuestos,
+|Source frame=Movimiento hacia arriba
+|Target frame=Tributación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=AUMENTO DE CANTIDAD ES MOVIMIENTO HACIA ARRIBA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Colima sufre escalada de impuestos
+|Example.Gloss=Colima suffers rise of taxes
+|Example.English translation="Colima suffers escalation of taxes"
+|Example.Provenance=http://www.eluniversal.com.mx/notas/717119.html
+|Example.Annotation="escalada de impuestos"
+}}
+|Entered by=Karie,
+|Last reviewed by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

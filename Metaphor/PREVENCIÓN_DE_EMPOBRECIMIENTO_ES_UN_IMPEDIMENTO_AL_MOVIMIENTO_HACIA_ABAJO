@@ -1,0 +1,46 @@
+{{Metaphor
+|Name gloss=prevention of impoverishment is an impediment to movement toward down
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PREVENCIÓN DE EMPOBRECIMIENTO ES UN IMPEDIMENTO AL MOVIMIENTO HACIA ABAJO
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Impedimentos de movimiento hacia abajo
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=EMPOBRECIMIENTO ES MOVIMIENTO HACIA ABAJO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=PREVENCIÓN DE CAMBIO DE ESTADO ES UN IMPEDIMENTO AL MOVIMIENTO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Calderón pide crear una red de seguridad para los más pobres en México
+|Example.Gloss=Calderón requests create a net of safety for the most poor in Mexico
+|Example.English translation=Calderón called for the creation of a safety net for the poorest in Mexico.
+|Example.Provenance=http://www.excelsior.com.mx/2011/09/20/nacional/769512
+|Example.Comments=red de seguridad
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Los más pobres entre los pobres se están quedando atrás. Es necesario que los alcancemos y los subamos a nuestro bote salvavidas.
+|Example.Gloss=The most poor among the poor refl are remaining behind is necessary that them we-reach and them we-raise to our both lifesaver
+|Example.English translation=The poorest of the poor are remaining behind. It's necessary for us to reach them and get them into our lifeboat.
+|Example.Provenance=http://www.cinu.mx/noticias/mundial/la-reduccion-de-la-pobreza-va/
+|Example.Comments=bote salvavidas
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Diversos tipos de programas son propuestos con el fin de construir una red de seguridad para los más pobres: programas de transferencia de dinero de asistencia alimentaria, así como de trabajo público.
+|Example.Gloss=diverse types of programs are proposed with the end of construct a net of safety for the most poor programs of transference of money of assistance alimentary similarly as of work public
+|Example.English translation=A variety of programs are proposed with the goal of creating a safety net for the poorest people: programs of monetary assistance for nutrition, as well as public jobs.
+|Example.Provenance=http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-77422005000200007
+|Example.Comments=red de seguridad
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

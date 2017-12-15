@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=ideas are medicine
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IDEAS SON MEDICINA
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Medicina
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=IDEAS SON COMIDA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Esto sería una píldora amarga y difícil de tragar para los creadores de contenido.
+|Example.Gloss=This would-be a pill bitter and difficult to swallow for the creators of content
+|Example.English translation=This would be a bitter pill to swallow for content creators.
+|Example.Provenance=http://www.politicadigital.com.mx/?P=leernoticiaprint&Article=21452
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

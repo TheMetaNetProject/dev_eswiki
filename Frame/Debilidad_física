@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=weakness physical
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Fuerza física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=débil.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debilidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enclenque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debilucho.n
+}}
+|LinkEnglish=Physical weakness
+|Applicability=Spanish
+}}

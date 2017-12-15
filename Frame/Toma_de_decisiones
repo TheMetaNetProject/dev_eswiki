@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=making of decisions
+|Family=Esquemas de Acción, 
+|Type=Frame
+|Status=in development
+|Entered by= Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decisión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decidir.v
+}}
+|LinkEnglish=Decision making
+|Applicability=Spanish
+}}

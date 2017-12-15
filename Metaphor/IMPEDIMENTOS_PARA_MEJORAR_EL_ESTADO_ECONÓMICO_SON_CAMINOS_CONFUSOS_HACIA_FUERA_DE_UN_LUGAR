@@ -1,0 +1,42 @@
+{{Metaphor
+|Name gloss=impediments to improve the state economic are paths confusing toward out of a place
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPEDIMENTOS PARA MEJORAR EL ESTADO ECONÓMICO SON CAMINOS CONFUSOS HACIA FUERA DE UN LUGAR
+}}
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Camino
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=SABER ES VER
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEDIOS SON CAMINOS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Uno de cada cuatro no puede pagar sus gastos de salud ni educación, con lo cual carecen de salida en el laberinto de la pobreza
+|Example.Gloss=one of every four not can pay their costs of health nor education with it which lack of exit in the labyrinth of the poverty
+|Example.English translation=One of every four cannot afford to pay the costs of health and education, and accordingly lack any way out of the maze of poverty.
+|Example.Provenance=http://www.jornada.unam.mx/2005/01/21/043n1soc.php?printver=1&fly=
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La inversión de 12 mil millones se debe usa para sacar del laberinto de la pobreza a municipios marginados.
+|Example.Gloss=the investment of 12 thousand million refl should use to take-out of-the labyrinth of the poverty to districts marginalized
+|Example.English translation=The investment of 12 billion should be used to get marginalized districts out of poverty.
+|Example.Provenance=http://eloficiodehistoriar.com.mx/2008/08/05/derechos-humanos-de-la-montana-informa-4/
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

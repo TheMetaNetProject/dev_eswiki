@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=start
+|Family=Esquemas de X-esquema, Esquemas excluidos, 
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=X-esquema
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comienzo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comenzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empezar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emprender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=iniciar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inicios.n
+}}
+|Applicability=Spanish
+}}

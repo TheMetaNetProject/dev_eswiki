@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=institution governmental
+|Family=Esquemas de función del gobierno,
+|Type=Frame
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=gobierno_entero
+}}{{Role
+|Role.Name=responsabilidades_gubernamental
+}}{{Role
+|Role.Name=funcciones_del_gobierno
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jurisdicción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=departamento.n gubernamental.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oficina.n gubernamental.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agencia.n gubernamental.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agencia del gobierno.n
+}}
+|LinkEnglish=Government institution
+|Applicability=Spanish
+}}

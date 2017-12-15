@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=assistance governmental is support
+|Aliases=
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Apoyo
+|Target frame=Gobierno
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Se resignan rescatistas a no recibir apoyo del gobierno.
+|Example.Gloss=themselves resign rescuers at not receive support of-the government
+|Example.English translation=Rescue workers resign because they did not receive government support.
+|Example.Provenance=http://www.oem.com.mx/elsoldepuebla/notas/n2503416.htm
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Los grupos de rescate de la región de Huauchinango se quejaron de la falta de apoyo gubernamental para el desarrollo de sus actividades
+|Example.Gloss=The groups of rescue of the region of Huauchinango themselves complained of the lack of support governmental for the development of their activities
+|Example.English translation=The rescue groups of the Huauchinango region complained of the lack of government support of their activities.
+|Example.Provenance=http://www.oem.com.mx/elsoldepuebla/notas/n2503416.htm
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=GOVERNMENT ASSISTANCE IS SUPPORT
+|Investigated for=Spanish
+|Relevant LUs=
+}}

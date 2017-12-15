@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=addressing hunger
+|Family=Esquemas de Comida,
+|Type=Composed
+|Status=in development, proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Hambre
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Abordar los problemas sociales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=Spanish
+}}

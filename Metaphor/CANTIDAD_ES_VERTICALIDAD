@@ -1,0 +1,47 @@
+{{Metaphor
+|Name gloss=quantity is vertical.position
+|Aliases=
+|Tags=orientational,
+|Metaphor Type=Primary
+|Source frame=Verticalidad
+|Target frame=Cantidad
+|Mappings={{Mapping
+|Target=escala_de_cantidad
+|Source=escala_de_verticalidad
+}}{{Mapping
+|Target=medida_de_cantidad
+|Source=posición_escalar
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=greater quantities
+|Entailment.Source inference=higher point along a vertical scale
+|Entailment.Type=aligned scales
+|Entailment.Entailed metaphors=MÁS ES ARRIBA
+}}{{Entailment
+|Entailment.Target entailment=lesser quantities
+|Entailment.Source inference=lower point along a vertical scale
+|Entailment.Type=aligned scales
+|Entailment.Entailed metaphors=MENOS ES ABAJO
+}}
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Las acciones de Apple han bajado en forma constante desde septiembre...
+|Example.Gloss=the shares of Apple have fallen in form constantly since September
+|Example.English translation=Apple shares have fallen steadily since September...
+|Example.Provenance=http://eleconomista.com.mx/mercados-estadisticas/2012/12/16/competencia-presiona-acciones-apple
+|Example.Comments="bajado"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=...desde su máximo histórico de 698.91 dólares por acción alcanzado el 19 de septiembre, los papeles presentan una caída de 27.06 por ciento.
+|Example.Gloss=from its high historical of 698.91 dollars per share reached the 19 of September, the papers present a fall of 27.06 percent
+|Example.English translation=Since its historic high of 698.91 dollars per share reached on September 19, the papers show a drop of 27.06 percent.
+|Example.Provenance=http://eleconomista.com.mx/mercados-estadisticas/2012/12/16/competencia-presiona-acciones-apple
+|Example.Comments="máximo histórico", "una caída"
+}}
+|Entered by=Karie
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=QUANTITY IS VERTICALITY
+|Investigated for=Spanish
+}}

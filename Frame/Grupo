@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=group
+|Type=Cog, Frame
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=grupo
+|Role.Name gloss=group
+|Role.Type=entidad
+}}{{Role
+|Role.Name=miembro
+|Role.Definition=cada miembro individual
+}}{{Role
+|Role.Name=subgrupo
+|Role.Name gloss=subgroup
+}}{{Role
+|Role.Name=propiedades_definitorias
+|Role.Name gloss=defining_properties
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Pluralidad
+}}
+|Bindings={{Binding
+|Binding.Local role=grupo
+|Binding.Bound role=Pluralidad.entidad_pluralidad
+}}{{Binding
+|Binding.Local role=miembro
+|Binding.Bound role=Pluralidad.entidad_individual
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grupo.n
+}}
+|LinkEnglish=Group
+|Applicability=Spanish
+}}

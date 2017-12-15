@@ -1,0 +1,46 @@
+{{Metaphor
+|Name gloss=indices of poverty are symptoms of a diseasea
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=INDICIOS DE POBREZA SON SÍNTOMAS DE UNA ENFERMEDAD
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=INDICIOS DE PROBLEMAS SOCIALES SON SÍNTOMAS DE AFLICCIÓN FÍSICA
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=POBREZA ES UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Fox afirmó que la política social del Gobierno del Cambio tiene un carácter integral, pues no se limita a atacar los síntomas de la pobreza, sino que busca, ante todo, eliminar sus causas.
+|Example.Gloss=Fox affirmed that the policy social of-the Government of-the Change has a character integral since not refl limit to attack the symptoms of the poverty but-rather that searches before all eliminate its causes
+|Example.English translation=Fox affirmed that the social policy of the Government of Charge has an integral character, since it's not limited to attacking the symptoms of poverty, but rather it seeks, before all else, to eliminate its causes.
+|Example.Provenance=http://www.cronica.com.mx/notas/2003/70539.html
+|Example.Comments=atacar los síntomas de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Por otra parte, siguen tercos en mantener los programas asistencialistas que solamente alivian algunos síntomas de la pobreza pero no la curan.
+|Example.Gloss=for other part they-follow stubborn in maintain the programs assistence that only alleviate some symptoms of the poverty but not it cure
+|Example.English translation=In another way, they remain stubborn in maintaining assistance programs that only alleviate some symptoms of poverty but don't cure it.
+|Example.Provenance=http://www.elreto.com.mx/articulos/?method=una&idarticulo=44029
+|Example.Comments=solamente alivian algunos síntomas de la pobreza pero no la curan
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El diagnóstico fenoménico atiende a los síntomas de la pobreza, que son básicamente carencias: de alimentación, salud, educación, entre muchas otras.
+|Example.Gloss=the diagnosis phenomenic attends to the symptoms of the poverty that are basically shortages of food health education among many others
+|Example.English translation=The phenomenic diagnosis attends to the symptoms of poverty, which are basically shortages: of food, health, education, among many others.
+|Example.Provenance=http://www.observacoop.org.mx/docs/Dec2009/Dec2009-0022.pdf
+|Example.Comments=El diagnóstico fenoménico atiende a los síntomas de la pobreza
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

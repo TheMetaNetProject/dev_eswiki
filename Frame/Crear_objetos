@@ -1,0 +1,69 @@
+{{Frame
+|Name gloss=creating objects
+|Comments=do we want generar.v as a lemma?
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proceso Complejo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción propositiva
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Destruir
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crearse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=construir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=edificar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erigir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lavantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=forjar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=construcción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=creación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=formar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=creador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fabricante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=productor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=producir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=producción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=generación.n
+}}
+|LinkEnglish=Create object
+}}

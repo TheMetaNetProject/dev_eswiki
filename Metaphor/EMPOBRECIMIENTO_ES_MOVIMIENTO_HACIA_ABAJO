@@ -1,0 +1,44 @@
+{{Metaphor
+|Name gloss=impoverishment is movement toward down
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMPOBRECIMIENTO ES MOVIMIENTO HACIA ABAJO
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Movimiento hacia abajo
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CAMBIOS SON MOVIMIENTOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=POBREZA ES ABAJO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cada minuto, cien personas caen en la pobreza por la crisis.
+|Example.Gloss=each minute one-hundred people fall in the poverty because-of the crisis
+|Example.English translation=Every minute, one hundred people fall into poverty as a result of a crisis.
+|Example.Provenance=http://www.eluniversal.com.mx/notas/628250.html
+|Example.Comments=caen en la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Se entiende por movilidad social la facilidad con la que una persona puede subir o bajar en la escalera socioeconómica.
+|Example.Gloss=one understands by mobility social the ease with which that a person can ascend or descend in the ladder socioeconomic
+|Example.English translation=What is understand by social mobility is the ease with which one can ascend or descend the socioeconomic ladder.
+|Example.Provenance=http://elsemanario.com.mx/revista_semanal/401_1_7_sep/nelly/
+|Example.Comments=bajar
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Oaxaca es un estado con un alto índice de pobreza, situación que provoca la expulsión de mano de obra barata, los habitantes salen a trabajar abandonando las comunidades marginadas, cayendo en la trampa de la pobreza, denominada migración de supervivencia.
+|Example.Gloss=Oaxaca is a state with a high index of poverty situation that provokes the expulsion of hand of work cheap the inhabitants go-out to work abandoning the communities marginalized falling in the trap of the poverty called migration of survival
+|Example.English translation=Oaxaca is a state with a high index of poverty, a situation which encourages the exploitation of cheap manual labor. Residents leave to work, abandoning their marginalized communities and falling in the trap of poverty known as survival migration.
+|Example.Provenance=http://www.vozdelsur.com.mx/oaxaca/7317-migracion-de-supervivencia-y-trampa-de-la-pobreza-en-oaxaca.html
+|Example.Comments=cayendo en la trampa de la pobreza
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

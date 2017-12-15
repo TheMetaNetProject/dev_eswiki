@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=harm environmental
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polución.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polucionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derrame de petróleo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=smog.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=niebla tóxica
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=niebla con humo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deforestación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lluvia ácida
+}}
+|LinkEnglish=Environmental harm
+|Applicability=Spanish
+}}

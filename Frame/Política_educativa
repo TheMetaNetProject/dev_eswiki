@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=policy educational 
+|Family=Esquemas de Educación, Esquemas excluidos
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Política
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Educación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=política educativa
+}}
+}}

@@ -1,0 +1,87 @@
+{{Frame
+|Name gloss=win possession
+|FrameNet frame=Getting
+|Family=Esquemas de posesión, Esquemas excluidos
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=beneficiario
+}}{{Role
+|Role.Name=partida
+|Role.Name gloss=source
+}}{{Role
+|Role.Name=posesión
+|Role.Name gloss=possession
+|Role.Type=entidad
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Posesión
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obtener.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adquirir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alcanzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cosechar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coger.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empuñar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atenazar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agarrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alcanzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sacar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conseguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=heredar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=heredarse
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acumulación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acumular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llevar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=accumulación.n
+}}
+|LinkEnglish=Gain possession
+|Applicability=Spanish
+}}

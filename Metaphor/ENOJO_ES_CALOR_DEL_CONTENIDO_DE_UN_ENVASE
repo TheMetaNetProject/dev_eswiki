@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=anger is heat of.the contents of a container
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS THE HEAT OF FLUID IN A CONTAINER
+}}
+|Family=Metáforas de Enojo,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Calentar_liquido
+|Target frame=Enojo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ENOJO ES CALOR
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CUERPO ES CONTENEDOR DE EMOCIONES
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ENOJO ES PRESIÓN EN UN CONTENEDOR
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOCIONES SON SUSTANCIAS
+}}
+|Entailments=
+|Examples=
+|Entered by=M.E.,
+|Status=in development
+|Investigated for=Spanish
+}}

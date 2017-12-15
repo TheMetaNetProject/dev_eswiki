@@ -1,0 +1,49 @@
+{{Metaphor
+|Name gloss=greed is excessive appetite
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AVARICIA ES APETITO EXCESIVO
+}}
+|Comments=does this metaphor need to be assigned to Poverty Metaphors as well? 
+|Family=Metáforas de Riqueza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Apetito
+|Target frame=Avaricia
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ADQUIRIR RECURSOS ES CONSUMIR COMIDA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Transnacionales, con apetito voraz en la Cruzada contra el Hambre
+|Example.Gloss=Transnationals with appetite voracious in the Crusade against the Hunger
+|Example.English translation=Transnationals, with a voracious appetite in the Crusade Against Hunger
+|Example.Provenance=http://www.proceso.com.mx/?p=338972
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La voracidad de los políticos capitalinos sólo es opacada por su estupidez.
+|Example.Gloss=the voracity of the politicians of-the-capital only is obscured by their stupidity
+|Example.English translation=The voracity of capital politicians is only obscured by their stupidity.
+|Example.Provenance=http://www.elsiglodetorreon.com.mx/noticia/824348.odio-a-los-ricos.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Recalcó que “no es posible que el nuevo gobernador no quiera ir a Cacahuatepec, queremos que primero se siente a negociar y dialogar con los dueños de la tierra, no con los empresarios voraces, no con los ricos poderosos y corruptos”.
+|Example.Gloss=stressed that not is possible that the new governor not want go to Cacahuatepec we-want that first refl sits to negotiate and dialogue with the owners of the earth not with the businessmen voracious nor with the rich powerful and corrupt
+|Example.English translation=He stressed that "It's impossible that the new governor refuses to go to Cacahuatepec. We want him first to sit and negotiate and discuss with those that own the land, not with voracious businessmen or the corrupt and powerful rich.
+|Example.Provenance=http://www.lajornadaguerrero.com.mx/2011/02/01/index.php?section=regiones&article=007n1reg
+|Example.Comments=empresarios voraces
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La carestía, el desempleo, la inseguridad, empleos precarios, impunidad, corrupción, voracidad e insaciabilidad de los ricos ...
+|Example.Gloss=the need the unemployment the insecurity jobs precarious impunity corruption voracity and insatiability of the rich ...
+|Example.English translation=The need, unemployment, lack of safety, precarious jobs, impunity, corruption, voracity and insatiability of the rich ...
+|Example.Provenance=http://www.cambiodemichoacan.com.mx/nota-81501
+|Example.Comments=voracidad e insaciabilidad de los ricos
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

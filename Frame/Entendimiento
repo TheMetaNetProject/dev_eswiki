@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=knowledge
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lógica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discernimiento.n
+}}
+|LinkEnglish=Knowledge
+|Applicability=Spanish
+}}

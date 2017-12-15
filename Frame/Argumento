@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=argument
+|Family=Esquemas de Comunicación,
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=argumento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=argumentar.v
+}}
+|LinkEnglish=Argument
+|Applicability=Spanish
+}}

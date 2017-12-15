@@ -1,0 +1,95 @@
+{{Frame
+|Name gloss=economy
+|Comments=This is a high level umbrella frame. No LUs should go here other than 'economy'
+|Family=Esquemas económicos, Esquemas de Gobierno,
+|Entered by=x
+|Last reviewed by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=economía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=económico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recesión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sector financiero
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=modelo_económico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=finanza_pública
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sistema_de_pensión
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tasa_de_inflación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inflación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganancia_de_capital
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recurso_económico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sistema_de_protección_social
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sistema_de_seguridad_social
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguridad_social
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=socioeconómico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mercado_interno
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clase_económico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=economía.n de mercado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poder_económico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=capacidad_financiero
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paradigma_económico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dinero_gubernamental
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medio_de_producción
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=presupuesto
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=PIB
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bolsa
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recuperación
+}}
+|LinkEnglish=Economy
+|Applicability=Spanish
+}}

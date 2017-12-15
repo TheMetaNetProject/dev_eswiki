@@ -1,0 +1,74 @@
+{{Frame
+|Name gloss=body of water
+|Type=Frame
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Características geográficas
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=océano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lago.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cascada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=río.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golfo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=charco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estanque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=piscina.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arroyo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=riachuelo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=profundidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inmensidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vasto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=canal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrecho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=presa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=catarata.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cabacera.n
+}}
+|LinkEnglish=Body of water
+|Applicability=Spanish
+}}

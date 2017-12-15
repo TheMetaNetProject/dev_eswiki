@@ -1,0 +1,42 @@
+{{Metaphor
+|Name gloss=wealth excessive is overweight bodily
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RIQUEZA EXCESIVA ES SOBREPESO CORPORAL
+}}
+|Family=Riqueza, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Cuerpo
+|Target frame=Riqueza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=AVARICIA ES APETITO EXCESIVO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=No te sientas mal Francisco TC, tampoco mi comentario pasa, es solo un ejemplo mas de lo mal que es el servicio de internet en este pais, y aparte caro, insisto las empresas que ofrecen este servicio son los que se engordan de dinero"
+|Example.Gloss=not yourself feel bad Francisco TC neither my comment went-through is only one example more of the bad that is the service of internet in this country and apart expensive I-insist the businesses that offer this service are those that refl get-fat of money
+|Example.English translation=Don't feel bad, Francisco TC, my comment didn't go through either. It's just one more example of how bad the internet service is in this country, not to mention expensive. I insist that the companies offering this service are the ones getting fat on the money.
+|Example.Provenance=http://www.eluniversal.com.mx/columnas/80558.html
+|Example.Comments=se engordan de dinero
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Lo que nos espera es nada mas que la hambruna y la sobrevivencia en la selva de asfalto. Mientras los ricos y poderosos se hinchan de dinero y de grasa.
+|Example.Gloss=what that us awaits is nothing more than the famine and the survival in the jungle of asphalt while the rich and powerful refl bloat of money and of fat
+|Example.English translation=What awaits us is nothing more than famine and survival in the asphalt jungle. Meanwhile the rich and powerful grow bloated on money and fat.
+|Example.Provenance=http://www.jornada.unam.mx/2012/09/05/opinion/008o1eco
+|Example.Comments=se hinchan de dinero
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Piensan que viven en otro lugar, en otra dimensión y por eso corrompen, ensucian, contaminan, se hinchan de billetes que nunca se van a gastar y viven en la enajenación total ...
+|Example.Gloss=they-think that they-live in other place in other dimension and for this corrupt dirty contaminate refl bloat of bills that never refl go to spend and live in alienation total ...
+|Example.English translation=They think they live in another world, another dimension, and that's why they corrupt, dirty, and contaminate the world, get bloated on bills that will never be spent and live in complete alienation ...
+|Example.Provenance=http://www.elregional.com.mx/index.php?option=com_content&view=article&id=25168:las-izquierdas-proponen&catid=45:opinion&Itemid=65
+|Example.Comments=se hinchan de billetes
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

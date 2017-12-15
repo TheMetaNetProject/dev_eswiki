@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=childcare
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Autoridad
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trabajo
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuidado.n de los niños
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuidado.n de niños
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guardería.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuidado.n infantil
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=niñera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuidar.v a los niños
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adoptado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adoptado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adoptar.v
+}}
+|LinkEnglish=Child care
+|Applicability=Spanish
+}}

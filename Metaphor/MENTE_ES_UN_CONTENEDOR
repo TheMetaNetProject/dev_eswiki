@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=mind is a container
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MENTE ES UN CONTENEDOR
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Contenedor
+|Target frame=Mente
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=IDEAS SON OBJETOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=IDEAS SON SUBSTANCIAS
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Joe
+|Status=in development
+|LinkEnglish=MIND IS A CONTAINER
+|Investigated for=Spanish
+}}

@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=eliminating problems social is curing an affliction physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ELIMINAR PROBLEMAS SOCIALES ES CURAR UNA AFLICCIÓN FÍSICA
+}}
+|Description=e.g. curar la pobreza
+|Tags=Program sources
+|Family=Metáforas de Pobreza, Metáforas de pobreza como problema social, Metáforas de aflicciones físicas,
+|Metaphor Level=Specific
+|Source frame=Aflicción física
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROBLEMAS SOCIALES ES AFLICCIÓN FÍSICA
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe, Karie
+|Status=in development, auto imported
+}}

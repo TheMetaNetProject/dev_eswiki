@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=energy
+|Family=Esquemas de Recursos,
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recurso
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=energía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=energizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=energético.a
+}}
+|LinkEnglish=Energy
+|Applicability=Spanish
+}}

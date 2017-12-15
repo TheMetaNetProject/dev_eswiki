@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=whole-part
+|Family=Esquemas de Imágenes,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=todo
+|Role.Name gloss=whole
+}}{{Role
+|Role.Name=partes
+|Role.Name gloss=parts
+}}{{Role
+|Role.Name=parte_1
+|Role.Name gloss=part_1
+}}{{Role
+|Role.Name=parte_2
+|Role.Name gloss=part_2
+}}{{Role
+|Role.Name=relación_todo-parte
+|Role.Name gloss=whole-part_relation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Posesión
+}}
+|Bindings={{Binding
+|Binding.Local role=todo
+|Binding.Bound role=Posesión.poseedor
+}}{{Binding
+|Binding.Local role=partes
+|Binding.Bound role=Posesión.objetos_poseídos
+}}
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Part whole
+|Applicability=Spanish
+}}

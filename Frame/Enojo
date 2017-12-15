@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Anger
+|Family=Esquemas de Emoción, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=M.E.
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emoción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enojo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enojado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rabia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rabioso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=furia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=furioso.a
+}}
+|LinkEnglish=Anger
+|Applicability=Spanish
+}}

@@ -1,0 +1,45 @@
+{{Metaphor
+|Name gloss=impediments to improve the state economic are obstacles in the path
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPEDIMENTOS PARA MEJORAR EL ESTADO ECONÓMICO SON OBSTACULOS EN EL CAMINO
+}}
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Obstáculo en el camino
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=DIFICULTADES SON OBSTÁCULOS EN EL CAMINO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Una vez que el estudiante rebasa las barreras de la pobreza, la marginación, la desnutrición, la precaria situación de las escuelas, la reducción de recursos para este sector, e innumerables particularidades de la sociedad y del sistema educativo en México, aumentan sus posibilidades de continuar hasta el nivel superior.
+|Example.Gloss=one time that the student surpasses the barriers of the poverty the marginalization the malnutrition the precarious situation of the schools the reduction of resources for this sector and innumerable peculiarities of the society and of-the system educational in Mexico increase their possibilities of continue until the level superior
+|Example.English translation=Once the student surpasses the barriers of poverty, marginalization, malnutrition, the precarious situation of the schools, the reduction of resources for this sector and innumerable peculiarities of society and the Mexican educational system, their chances of continuing to higher education increase.
+|Example.Provenance=http://www.colson.edu.mx:8080/portales/portales23/portales23.htm
+|Example.Comments=las barreras de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Al protestar Adriana Dávila como candidata del PAN a la gubernatura de Tlaxcala, destacó que su intención es romper con las barreras de la pobreza y la falta de oportunidades.
+|Example.Gloss=at-the swearing-in Adriana Dávila as candidate of-the PAN to the governorship of Tlaxcala emphasized that her intention is break with the barriers of the poverty and the lack of opportunities
+|Example.English translation=At the swearing in of Adriana Dávila as the PAN candidate to the governorship of Tlaxcala, she emphasized that her intention is to break down the barriers of poverty and lack of opportunities.
+|Example.Provenance=http://www.radioformula.com.mx/notas.asp?Idn=108156
+|Example.Comments=las barreras de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=¿Por qué no se derriban las barreras que impiden a los pobres salir de su estado de pobreza?
+|Example.Gloss=for why not refl knock-down the barriers that impede to the poor go-out from their state of poverty
+|Example.English translation=Why aren't the barriers impeding the poor from leaving their state of poverty knocked down?
+|Example.Provenance=http://www.elsoldenayarit.mx/?tema=Opini%25F3n&id_nota=5991
+|Example.Comments=barreras que impiden a los pobres
+}}
+|Entered by=Joe,
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=harm psychological is harm physical
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Daño físico
+|Target frame=Daño psicológico
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=FUERZA PSICOLÓGICA ES FUERZA FÍSICA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=No se ha puesto atención a esto, no se quiere ver una realidad que lastima los sentimientos de la ciudadanía, de las madres que lloran de la impotencia de que nadie puede hacer algo sobre la situación que está pasando ahí
+|Example.Gloss=not refl has put attention to this not one wants see a reality that injures the feelings of the citizenry of the mothers that cry of the impotence of that no-one can do something about the situation that is happening there
+|Example.English translation=No one has paid attention to this. No one wants to see a reality that hurts the feelings of the citizenry--the mothers that weep over their lack of power, that no one can do anything about the situation that's taking place there.
+|Example.Provenance=http://www.notiver.com.mx/index.php/primera/219323.html?secciones=3&seccion_selected=3&posicion=40
+}}
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=PSYCHOLOGICAL HARM IS PHYSICAL INJURY
+|Investigated for=Spanish
+}}

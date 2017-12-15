@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=life is a journey
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Viaje
+|Target frame=Vida
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ACTIVIDADES CON PROPÓSITO SON DESPLAZAMIENTO HACIA UNA META
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=RELACIÓN ROMÁNTICA ES UN VIAJE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Quienes van antecediendo en la ruta hacia lo desconocido van dejando sus huellas, van marcando en nosotros lo que de bueno fueron; lo generoso que se mostraron, lo amoroso con que realizaron cada acto. 
+|Example.Gloss=Those-who go leading-the-way in the route toward the unknown go leaving their footprints go marking in us that which of good were the generous that refl showed the love with which they-realized each act
+|Example.English translation=Those that lead the way on the path before us leave footprints, leaving their mark on us in the virtues they had; the generosity that they showed, the love with which they carried out each act.
+|Example.Provenance=http://www.vanguardia.com.mx/xstatic/vanguardia/mobile/template/vmobiledetalle.aspx?intId=624611
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=LIFE IS A JOURNEY
+|Investigated for=Spanish
+}}

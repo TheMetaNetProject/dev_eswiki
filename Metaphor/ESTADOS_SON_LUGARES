@@ -1,0 +1,40 @@
+{{Metaphor
+|Name gloss=states are locations
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ESTADOS SON RECINTOS
+|Metaphor.Alias.Provenance="states are bounded regions"
+}}
+|Family=Estructura de Eventos como Lugares,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Región delimitada
+|Target frame=Estado
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=... el 29.8% de los 1.768 millones de niños neoyorquinos vive bajo el umbral de pobreza, según los parámetros federales en Estados Unidos.
+|Example.Gloss=... the 29.8% of the 1.768 million of children New-Yorkers live under the threshhold of poverty, according-to the parameters federal in States United
+|Example.English translation=...29.8% of the 1.768 million children in New York City live under the poverty line, according to U.S. guidelines.
+|Example.Provenance=http://www.jornada.unam.mx/ultimas/2013/02/13/131654106-el-39-4-de-los-ninos-latinos-de-ny-vive-en-la-pobreza-estudio/
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=“La depuración, la reestructuración y el fortalecimiento de esta institución va en serio y está en un punto de no retorno…”
+|Example.Gloss=The treatment, the restructuring and the strengthening of this institution goes in serious and is in the point of no return
+|Example.English translation="The treatment, the restructuring and the strengthening of this institution is serious and is at a point of no return..."
+|Example.Provenance=http://eleconomista.com.mx/sociedad/2011/07/21/fuera-inm-61-funcionarios-irregularidades-blake
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Una cuarta parte de los europeos, bajo amenaza de caer en la pobreza o la exclusión social
+|Example.Gloss=One fourth part of the Europeans under threat of fall in the poverty or the exclusion social
+|Example.English translation=One quarter of Europeans under the threat of falling into poverty or social exclusion.
+|Example.Provenance=http://noticias.terra.com.mx/mundo/una-cuarta-parte-de-los-europeos-bajo-amenaza-de-caer-en-la-pobreza-o-la-exclusion-social,bb92de0e2675b310VgnCLD2000000ec6eb0aRCRD.html
+|Example.Comments="caer en la pobreza"
+}}
+|Entered by=Oana, Joe, Karie
+|Last reviewed by=Karie, Oana
+|Status=in development
+|LinkEnglish=STATES ARE LOCATIONS
+|Investigated for=Spanish
+}}

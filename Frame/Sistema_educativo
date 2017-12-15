@@ -1,0 +1,17 @@
+{{Frame
+|Name gloss=education system
+|Family=Esquemas de Educación
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Organización
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sistema educativo
+}}
+}}

@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=action immoral
+|Family=Esquemas de Gobierno, Esquemas de moralidad, Esquemas de daño, Esquemas de Acción,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Acción moral
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maldito.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maldecido.a
+}}
+|LinkEnglish=Immoral Action
+|Applicability=Spanish
+}}

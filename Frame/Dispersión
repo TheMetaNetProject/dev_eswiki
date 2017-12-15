@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=dispersal
+|Family=Esquemas de Recursos,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Transferir
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Cambio de posesión
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dispersión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dispersar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disipar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desvanecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=distribución.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derrochar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=despilfarrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esparcir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dispersarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desparramar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=distribuir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=repartir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dilapidar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=repartición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=redistribución.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=propagar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=redistribuir.v
+}}
+|LinkEnglish=Dispersal
+|Applicability=Spanish
+}}

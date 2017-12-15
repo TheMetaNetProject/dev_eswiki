@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=change of economic state
+|Family=Esquemas de Riqueza y clase social,
+|Type=Frame, Composed
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de estado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estado económico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enriquecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enriquecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecimento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enriquecer.v
+}}
+|LinkEnglish=Change in economic status
+|Applicability=Spanish
+}}

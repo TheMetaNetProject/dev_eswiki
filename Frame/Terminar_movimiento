@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=stop movement
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detenerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detener.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pararse.v
+}}
+|Applicability=Spanish
+}}

@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=pest
+|Description=insect, small animal, or fungus that is annoying or harmful and destructive
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad biológica
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Daño físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peste.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alimaña.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plaga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pestilencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infestar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=termitas.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enjambre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infestación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bichos.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=moho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cucaracha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infestante.a
+}}
+|LinkEnglish=Pest
+|Applicability=Spanish
+}}

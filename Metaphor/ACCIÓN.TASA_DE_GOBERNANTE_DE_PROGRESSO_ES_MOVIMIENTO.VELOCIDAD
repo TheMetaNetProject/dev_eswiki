@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=action.rate of governing of progress es motion.speed
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACCIÓN.TASA DE GOBERNANTE DE PROGRESSO ES MOVIMIENTO.VELOCIDAD
+}}
+|Tags=mapping
+|Family=Gobernación, 
+|Metaphor Level=General
+|Source frame=Movimiento
+|Target frame=Acción gobernante
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Por lo anterior, la OCDE instó a México para avanzar en materia educativa con mayor velocidad e implementar políticas específicas que estas permitan superar el retraso que se ha ido acumulando.
+|Example.Gloss=By it previous, the OCDE urged to Mexico for to.advance in matters educational with greater speed and to.implement policies specific that are allow to.overcome the delay that it has been accumulating
+|Example.English translation=Therefore, the OECD urged Mexico to advance education with greater speed and implement specific policies to these in order to overcome the delay that has been accumulating.
+|Example.Provenance=http://educacionadebate.org/39278/crece-rezago-educativo-y-aumenta-numero-de-ninis-ocde/
+|Example.Comments="para avanzar en materia educativa con mayor velocidad"
+}}
+|Entered by=Karie, 
+|Status=in development
+|LinkEnglish=GOVERNING ACTION.RATE OF PROGRESS IS MOTION.SPEED
+|Investigated for=Spanish
+}}

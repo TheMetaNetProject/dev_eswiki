@@ -1,0 +1,18 @@
+{{Frame
+|Name gloss=Entity bounded
+|Family=Esquemas de entidades, 
+|Type=Cog
+|Status=in development
+|Entered by=Karie, 
+|Last reviewed by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Bounded entity
+|Applicability=Spanish
+}}

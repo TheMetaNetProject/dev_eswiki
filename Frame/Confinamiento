@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=confinement
+|Other aliases=Encierro
+|Type=Frame
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estar en un región delimitada
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Barreras
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimento al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=confinamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=confinar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encerrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=emparedar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=confín.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=límite.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=restricción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aprisionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encadenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ligar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ligado.a
+}}
+|LinkEnglish=confinement
+|Applicability=Spanish
+}}

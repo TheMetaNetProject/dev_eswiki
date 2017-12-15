@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=exploitation financial
+|Comments=need to clean up LUs in this frame; some will go to Theft (e.g. desfalco.n)
+|Family=Esquemas de Riqueza y clase social, Esquemas de Desigualdad Económica, Esquemas económicos,
+|Tags=Program sources
+|Status=auto imported
+|Entered by=Karie, (Dario)
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Adversidad económica
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=usura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=usurear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=usurar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plusvalía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=defraudar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fraude.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estafar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=timar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desfalcar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malversar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=defalcar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malversación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=defraudación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desfalco.n
+}}
+}}
+find a new place to put 'plusvalía' (capital gains)

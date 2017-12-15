@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=change of location
+|Family=Esquemas de movimiento, Esquemas de ubicación, Esquemas asociados al cambio, 
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reubicar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reubicarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trasladarse.v
+}}
+|LinkEnglish=Change of location
+|Applicability=Spanish
+}}

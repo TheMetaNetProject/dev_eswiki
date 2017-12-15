@@ -1,0 +1,87 @@
+{{Frame
+|Name gloss=motion toward down
+|Family=Esquemas de movimiento,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Verticalidad
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Movimiento hacia arriba
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rebajar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abajo.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=más bajo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=descender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caída.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colapsarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desplome.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hundimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=descenso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hundirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decadencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desplomar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=baja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recaer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caída libre
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=declive.n
+}}
+|LinkEnglish=Downward Motion
+|Applicability=Spanish
+}}

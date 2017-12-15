@@ -1,0 +1,62 @@
+{{Frame
+|Name gloss=country
+|Family=Esquemas de Gobierno, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Nación
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Grupos de naciones
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=México
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Estados Unidos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Alemania
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=país
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Canadá
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Gran Bretaña
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=GB
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=China
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Brasil
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Belice
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Venezuela
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Colombia
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=España
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=Francia
+}}
+|LinkEnglish=Country
+|Applicability=Spanish
+}}

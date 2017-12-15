@@ -1,0 +1,65 @@
+{{Metaphor
+|Name gloss=aids for improving the state economic are paths clear towards out of a location
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AUXILIOS PARA MEJORAR EL ESTADO ECONÓMICO SON CAMINOS CLAROS HACIA FUERA DE UN LUGAR
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Salir de un lugar indeseable
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=AUXILIO A LA ACCIÓN ES AUXILIO AL MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEDIOS SON CAMINOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=SABER ES VER
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Yo vi en esa camino una forma de escapar de la pobreza.
+|Example.Gloss=I saw in that path a way of escape from the poverty
+|Example.English translation=I saw in that path a way to escape from poverty.
+|Example.Provenance=http://www.elsiglodetorreon.com.mx/noticia/34076.de-raices-mexicanas-el-lider-militar-en-iraq.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Educación, única vía para salir de la pobreza y corrupción
+|Example.Gloss=Education, unique path for go-out of the poverty and corruption
+|Example.English translation=Education, the only path out of poverty and corruption
+|Example.Provenance=http://m.udg.mx/node/3051
+|Example.Comments=vía para salir de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Se reunió con la comunidad estudiantil de la UNAM, ¿cómo ve el sistema educativo mexicano, es un camino para salir de la pobreza y de la violencia en la que vivimos?
+|Example.Gloss=refl reunited with the community student of the UNAM how see the system educational Mexican is a path to go-out of the poverty and of the violence in which that we-live
+|Example.English translation=She met with the student community of the UNAM. How do they view the Mexican educational system? Is it a path out of the poverty and violence in which we live?
+|Example.Provenance=http://www.eluniversal.com.mx/nacion/184372.html
+|Example.Comments=camino para salir de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=“El camino para salir de la pobreza es el trabajo”, dijo Somavia, quien asegura que el luchar contra la pobreza está en manos de los empleados y empleadores para crear más trabajos.
+|Example.Gloss=the path to go-out of the poverty is the work said Somavia who assures that the struggle against the poverty is in hands of the employees and employers to create more jobs
+|Example.English translation="The way out of poverty is work," said Somavia, who assures that the struggle against poverty is in the hands of the employers and employees to create more jobs.
+|Example.Provenance=http://www.cronica.com.mx/notas/2003/68688.html
+|Example.Comments=camino para salir de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Comercio promete vía para salir de la pobreza
+|Example.Gloss=Commerce promises path to go-out of the poverty
+|Example.English translation=Commerce promises a way out of poverty.
+|Example.Provenance=http://www.inforural.com.mx/spip.php?article64775
+|Example.Comments=vía para salir de la pobreza
+}}
+|Entered by=Joe,
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

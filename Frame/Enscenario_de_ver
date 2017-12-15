@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=scenario of seeing
+|Family=Esquemas de visión,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=veedor
+|Role.Name gloss=seer
+}}{{Role
+|Role.Name=ojos
+|Role.Name gloss=eyes
+}}{{Role
+|Role.Name=objeto_visto
+|Role.Name gloss=object_seen
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ver
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Poder ver
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Visión
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Percepción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=buscar.v
+}}
+|LinkEnglish=Seeing scenario
+|Applicability=Spanish
+}}

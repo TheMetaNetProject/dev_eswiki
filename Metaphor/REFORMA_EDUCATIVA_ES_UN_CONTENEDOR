@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=reform educational is a container
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=REFORMA EDUCATIVA ES UN CONTENEDOR
+}}
+|Tags=Program sources
+|Family=Metáforas de Educación,
+|Metaphor Level=Specific
+|Source frame=Contenedor
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=PROCESOS COMPLEJOS SON RECINTOS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El veneno contenido en la reforma educativa empieza a surtir efecto.
+|Example.Gloss=the venom contained in the reform educational begins to take effect
+|Example.English translation="The poison contained in education reform begins to take effect."
+|Example.Provenance=http://kaosenlared.net/america-latina/item/53329-los-maestros-inc%C3%B3modos-y-la-privatizaci%C3%B3n-de-la-educaci%C3%B3n-en-m%C3%A9xico.html
+|Example.Annotation="veneno contenido en la reforma educativa"
+}}
+|Entered by=Karie,
+|Status=in development, auto imported
+}}

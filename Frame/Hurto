@@ -1,0 +1,86 @@
+{{Frame
+|Name gloss=theft
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Crimen
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de posesión
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=robo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hurto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atraje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pillaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ratero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ladrón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=robar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atracar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hurtar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extorsionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extorsión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extorsionista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atraco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mangar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rapiñar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=saquear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ladronzuelo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llevarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=latrocinio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ladronzuelo.n
+}}
+|LinkEnglish=Theft
+|Applicability=Spanish
+}}

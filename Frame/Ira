@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=rage
+|Family=Esquemas de Emoción,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emoción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ira.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rabia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=furia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=saña.n
+}}
+|LinkEnglish=Anger
+|Applicability=Spanish
+}}

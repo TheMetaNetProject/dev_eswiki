@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=being at a location
+|Other aliases=Estar en un lugar
+|Family=Esquemas de ubicación,
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Proceso
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Ubicación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trayector-landmark
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ubicación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lugar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=situar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ubicar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encontrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v fuera
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v dentro
+}}
+|LinkEnglish=Being at a location
+|Applicability=Spanish
+}}

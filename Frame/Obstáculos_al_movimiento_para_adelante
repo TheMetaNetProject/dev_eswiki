@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=obstacles to movement on forward
+|Comments=We have to figure out the difference between Obstaculo en el camino and Obstaculos al movimiento para adelante. DO THIS SOON! They are left apart, as far as LUs are concerned, for the Nov. 2013 tests.
+|Tags=Program sources
+|Status=auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enredar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estancamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=varar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enredo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=embrollo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maraña.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enredarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enmarañar.v
+}}
+}}
+arrastrar.v removed from list Oct. 20 2014 - KMM

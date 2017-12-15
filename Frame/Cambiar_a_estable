@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=changing to stable
+|Family=Esquemas de estabilidad, Esquemas asociados al cambio, 
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estabilidad
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Estable
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estabilizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estabilizador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estabilizante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estabilizador.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estabilizarse.v
+}}
+|Applicability=Spanish
+}}

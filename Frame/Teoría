@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=theory
+|Family=Esquemas excluidos, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Idea
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=argumento
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aclaración
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=explicación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hipótesis
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=supuesto
+}}
+|LinkEnglish=Theory
+|Applicability=Spanish
+}}

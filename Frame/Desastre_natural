@@ -1,0 +1,90 @@
+{{Frame
+|Name gloss=disaster natural
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Destruir
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sequía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huracán.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tornado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ciclón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=terremoto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seísmo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=riada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=anegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inundar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tifón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=volcán.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maremoto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tsunami.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ventisca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=incendio forestal
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tormenta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=temblor.n secundario.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=temblor secundario
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=catástrofe natural
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desastre natural
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cataclismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derrumbe.n
+}}
+|LinkEnglish=Natural disaster
+|Applicability=Spanish
+}}
+ventarrón.n - gale wind, stiff or strong wind

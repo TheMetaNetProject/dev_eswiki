@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=democracy is poison
+|Aliases=
+|Family=Metáforas de Democracia,
+|Source frame=Daño físico
+|Target frame=Democracia
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=la democracia es veneno puro
+|Example.Gloss=the democracy is venom pure
+|Example.English translation=democracy is pure venom
+|Example.Provenance=http://www.elsiglodetorreon.com.mx/noticia/425733.los-nuevos-democratas-del-pan.html
+|Example.Annotation="democracia es veneno"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Para el PRI la democracia es `veneno puro.'
+|Example.Gloss=for the PRI the democracy is venom pure
+|Example.English translation=For the PRI democracy is pure venom.
+|Example.Provenance=http://www.jornada.unam.mx/1999/01/07/primera.html
+|Example.Annotation="democracia es veneno puro"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

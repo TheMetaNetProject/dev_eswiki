@@ -1,0 +1,28 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_es_S-noun
+|CxnMPDescription=Copular construction
+|Comments=poverty is a cancer
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:inSentence ?sent .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+    ?target doc:hasPOS ?tpos .
+	?source rdf:type doc:Word .
+	?source doc:inSentence ?sent .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+    ?source doc:hasPOS ?spos .
+	FILTER regex(?spos, "^(N&#124;A&#124;J)") .
+	FILTER regex(?tpos, "^N") .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?cop doc:hasLemma "ser"^^xsd:string .
+    ?target doc:subj ?cop .
+    ?source doc:att ?cop .
+}
+}}

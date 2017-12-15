@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=confront problems social is treat a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENFRENTAR PROBLEMAS SOCIALES ES TRATAR UNA ENFERMEDAD
+}}
+|Description=e.g. tratar la pobreza
+|Family=Metáforas de Pobreza, Metáforas de pobreza como problema social, Metáforas de aflicciones físicas,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

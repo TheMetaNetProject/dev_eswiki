@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=leadership
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liderazgo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dirigir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=líder.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=partidario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguidor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escoltar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escolta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acompañar.v
+}}
+|LinkEnglish=Leadership
+|Applicability=Spanish
+}}

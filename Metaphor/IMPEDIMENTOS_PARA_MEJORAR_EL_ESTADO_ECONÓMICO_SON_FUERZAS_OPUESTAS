@@ -1,0 +1,41 @@
+{{Metaphor
+|Name gloss=impediments to improve the state economic are forces opposite
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPEDIMENTOS PARA MEJORAR EL ESTADO ECONÓMICO SON FUERZAS OPUESTAS
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Impedimentos de movimiento
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=¿Por qué no se derriban las barreras que impiden a los pobres salir de su estado de pobreza?
+|Example.Gloss=for why not refl knock-down the barriers that impede to the poor go-out from their state of poverty
+|Example.English translation=Why aren't the barriers impeding the poor from leaving their state of poverty knocked down?
+|Example.Provenance=http://www.elsoldenayarit.mx/?tema=Opini%25F3n&id_nota=5991
+|Example.Comments=barreras que impiden a los pobres
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Pueden fomentar la aparición de instituciones que bloquean a los pobres dentro de las trampas de pobreza
+|Example.Gloss=they-can encourage the appearance of institutions that block to the poor inside of the traps of poverty
+|Example.English translation=[Inequalities] can encourage the appearance of institutions that block the poor into the traps of poverty.
+|Example.Provenance=http://www.escenarios.unam.mx/PONENCIAS/katjaH.pdf
+|Example.Comments=instituciones que bloquean a los pobres
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

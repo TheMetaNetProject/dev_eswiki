@@ -1,0 +1,61 @@
+{{Frame
+|Name gloss=cutting an object
+|Tags=Program sources
+|Status=auto imported
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=cortador
+|Role.Name gloss=cutter
+|Role.Type=Entidad animado
+}}{{Role
+|Role.Name=objeto_de_corto
+|Role.Name gloss=object_of_cutting
+|Role.Type=Objeto
+}}{{Role
+|Role.Name=acto_de_cortar
+|Role.Name gloss=act_of_cutting
+|Role.Type=Proceso
+}}{{Role
+|Role.Name=herramienta_de_corte
+|Role.Name gloss=tool_of_cutting
+|Role.Type=Objeto
+}}{{Role
+|Role.Name=tamaño_inicial_de_objeto
+|Role.Name gloss=size_initial_of_object
+|Role.Type=Tamaño
+}}{{Role
+|Role.Name=estado_final_de_objeto
+|Role.Name gloss=state_final_of_object
+|Role.Type=Estado
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Objeto
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño físico
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aplicación-fuerza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cortar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recortar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recorte.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cortarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rebanar.v
+}}
+|LinkEnglish=Cut
+}}

@@ -1,0 +1,92 @@
+{{Frame
+|Name gloss=Size
+|FrameNet frame=Size
+|Comments=Please place LUs expressing a CHANGE in size in the Aumento de tamano and
+|Family=Esquemas de escala
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Karie, Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grande.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gran.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poco.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=minúscula.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enorme.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pequeño.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=menor.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=meyor.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escaso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=menudo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amplio.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extenso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enormidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abundancia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pizca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grumo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grueso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grosor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=espeso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plano.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=largo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=más largo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=el más largo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grandote.a
+}}
+|LinkEnglish=Size
+|Applicability=Spanish
+}}

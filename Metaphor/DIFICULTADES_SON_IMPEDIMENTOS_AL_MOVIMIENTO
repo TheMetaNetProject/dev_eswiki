@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=difficulties are impediments to motion
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}
+|Family=Estructura de Eventos como Lugares,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Impedimentos al movimiento
+|Target frame=Dificultades en la acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO AUTOPROPULSADO LO LARGO UN CAMINO
+|Related metaphor.Description=Dificultades son impedimentos a la acción.
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+|Investigated for=Spanish
+}}

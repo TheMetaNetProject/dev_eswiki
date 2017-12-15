@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=payment
+|Comments=trying to figure out the best way to include both "fees" and "subsidies"
+|Family=Esquemas económicos, Esquemas excluidos
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Transacción financiera
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pago.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=precio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=costo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pagar.v
+}}
+|LinkEnglish=Payment
+|Applicability=Spanish
+}}

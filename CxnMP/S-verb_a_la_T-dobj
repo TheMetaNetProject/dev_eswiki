@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-verb_T-dobj
+|CxnMPDescription=Verb-Object construction
+|Comments=... escape poverty
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=V&#91;^=&#93;*=(?P<sidx>\d+) a=a=PREP=\d+ &#91;^=&#93;+=el=ART=\d+ &#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=N&#91;^=&#93;*=(?P<tidx>\d+)\b
+}}

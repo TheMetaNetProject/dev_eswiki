@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=achieve a purpose is arrive to a destination
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LOGRAR UN PROPÓSITO ES LLEGAR A UN DESTINO
+}}
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Movimiento
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROPÓSITOS SON DESTINOS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cruz Roja te necesita para llegar a la meta.
+|Example.Gloss=Cross Red you needs for arrive to the goal.
+|Example.English translation=Red Cross needs you to arrive at the goal.
+|Example.Provenance=http://www.debate.com.mx/eldebate/noticias/default.asp?IdArt=13067508&IdCat=17402
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=ACHIEVING A PURPOSE IS REACHING A DESTINATION
+|Investigated for=Spanish
+}}

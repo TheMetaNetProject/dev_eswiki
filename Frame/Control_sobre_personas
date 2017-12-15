@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Control over people
+|Type=Frame
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=Personal controlable
+}}{{Role
+|Role.Name=Control sobre una persona
+}}{{Role
+|Role.Name=Grado de control mental o espiritual sobre una persona
+}}{{Role
+|Role.Name=Pérdida del control sobre una persona
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Control
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=Spanish
+}}

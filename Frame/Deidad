@@ -1,0 +1,62 @@
+{{Frame
+|Name gloss=deity
+|Family=Esquemas de moralidad,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=deidad
+|Role.Name gloss=deity
+}}{{Role
+|Role.Name=creyente
+|Role.Name gloss=believer
+}}{{Role
+|Role.Name=poder_de_deidad
+|Role.Name gloss=deity_power
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Autoridad moral
+}}
+|Bindings={{Binding
+|Binding.Local role=deidad
+|Binding.Bound role=Autoridad moral.autoridad_moral-entidad
+}}{{Binding
+|Binding.Local role=creyente
+|Binding.Bound role=Autoridad moral.autoridad_moral_el_que_obedece
+}}{{Binding
+|Binding.Local role=poder_de_deidad
+|Binding.Bound role=Autoridad moral.autoridad_moral_poder
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dios.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diosa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=divinidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=el Todopoderoso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=panteísmo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ídolo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=espíritu.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paraíso.n
+}}
+|LinkEnglish=Deity
+|Applicability=Spanish
+}}

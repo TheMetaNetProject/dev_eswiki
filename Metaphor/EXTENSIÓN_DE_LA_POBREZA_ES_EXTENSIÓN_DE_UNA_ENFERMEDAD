@@ -1,0 +1,57 @@
+{{Metaphor
+|Name gloss=extent of the poverty is extent of a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EXTENSIÓN DE LA POBREZA ES EXTENSIÓN DE UNA ENFERMEDAD
+}}
+|Family=Gobernación, Metáforas de Pobreza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=EXTENSIÓN DE PROBLEMAS SOCIALES ES EXTENSIÓN DE UNA ENFERMEDAD
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=POBREZA ES UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Ya sabemos que en nuestros países los precarios niveles educativos desembocan en una epidemia de pobreza, violencia, exclusión y marginalidad.
+|Example.Gloss=already we-know that in our countries the precarious levels educational flow into an epidemic of poverty violence exclusion and marginalization
+|Example.English translation=We know already that in our nations the precarious educational levels flow into an epidemic of poverty, violence, exclusion and marginalization.
+|Example.Provenance=http://www.unoinews.com.mx/la-fiesta-del-conocimiento-cautivadora-charla-de-leonardo-padron/
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La epidemia de influenza no es la única que hoy mantiene preocupada a la sociedad, pues también hay una epidemia de pobreza derivada de la crisis económica, e incluso violencia por narcotráfico, a la que se tiene que atacar con igual o más intensidad, solicitaron algunos curas de la diócesis local a las autoridades municipales y estatales.
+|Example.Gloss=the epidemic of flu not is the unique that today maintains worried to the society well also there-is an epidemic of poverty derived from the economic crisis and including violence by narcotraffickers to which that refl has to attack with equal or more intensity solicited some priests of the diocese local to the authorities municipal and state
+|Example.English translation=The flu epidemic is not the only one worrying society today. There is also an epidemic of poverty due to the economic crisis as well as drug violence, which should be attacked with as much or more intensity, some priests from the local diocese urged state and local authorities.
+|Example.Provenance=http://www.oem.com.mx/esto/notas/n1148257.htm
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El representante de esa ONG, Javier Verzat, -en declaraciones a Efe- subrayó la importancia de 'crear un amplio diálogo en todos los confines del mundo para que se levante completamente el tabú sobre la epidemia de la pobreza y se escuche a los que viven en ella'.
+|Example.Gloss=the representative of that NGO Javier Verzat in declarations to Efe underlined the importance of create a broad dialogue in all the edges of-the world for that refl lift completely the taboo over the epidemic of the poverty and refl listen to those that live in it
+|Example.English translation=The representative of that NGO, Javier Verzat, in declarations to Efe, highlighted the importance of "creating a broad dialogue in all corners of the world in order to totally lift the taboo about the epidemic of poverty, and listen to those that live in it."
+|Example.Provenance=http://www.terra.com.mx/articulo.aspx?articuloid=444946
+|Example.Comments=epidemia de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Si siempre lo fue, no lo sé, pero ahora la depauperación, la pobreza, contagiosa y envolvente, se volvió peligrosa.
+|Example.Gloss=if always it was not it I-know but now the impoverishment the poverty contagious and consuming refl turns dangerous
+|Example.English translation=If it was alway like this, I don't know, but now, impoverishment, poverty, contagious and all-consuming, is becoming dangerous.
+|Example.Provenance=http://www.oem.com.mx/elsoldemexico/notas/n2810644.htm
+|Example.Comments=pobreza contagiosa
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Oaxaca, es otra entidad de sorprendente belleza arquitectónica, plagada de abundancia gastronómica y de una historia mixteca y zapoteca, y que, sin embargo, no puede evitar la pandemia de la pobreza.
+|Example.Gloss=Oaxaca is other entity of surprising beauty arquitectural, riddled with abundance gastronomic and of a history Mixtec and Zapotec and that without restriction not can avoid the pandemic of the poverty
+|Example.English translation=Oaxaca is another entity of surprising arquitectural beauty, chock full of culinary abundance and a rich Mixtec and Zapotec history and that, nevertheless, cannot avoid the pandemic of poverty.
+|Example.Provenance=http://www.el-mexicano.com.mx/imprime-noticia/26026
+|Example.Comments=pandemia de la pobreza
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

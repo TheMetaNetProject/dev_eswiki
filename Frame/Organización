@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=organization
+|Family=Esquemas de 
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=organización.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=organizar.v
+}}
+|LinkEnglish=Organization
+}}

@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=negotiation
+|Family=Esquemas de Comunicación, Esquemas excluidos, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Comunicación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=negociación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=negociar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=regatear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=negociador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mediador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=árbitro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arbitraje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mediación.n
+}}
+|LinkEnglish=Negotiation
+|Applicability=Spanish
+}}

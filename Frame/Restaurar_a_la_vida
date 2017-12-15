@@ -1,0 +1,61 @@
+{{Frame
+|Name gloss=restore to life
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Ciclo de vida
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Entidad biológica
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cambio causado de estado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resucitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reanimar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reanimación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=restaurar.v a la vida
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revivir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revitalizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=resurrección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rejuvenecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rejuvenecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=renacimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revivificación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revitalización.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revivificar.v
+}}
+|LinkEnglish=Restore to life
+|Applicability=Spanish
+}}

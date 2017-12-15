@@ -1,0 +1,55 @@
+{{Frame
+|Name gloss=amassing
+|Family=Esquemas de Recursos, 
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Ganar posesión
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Transferir
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acumulación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acumular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recoger.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amontonar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apilar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=almacenar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acopiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acaparar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reunir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=montón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pila.n
+}}
+|LinkEnglish=Amassing
+|Applicability=Spanish
+}}

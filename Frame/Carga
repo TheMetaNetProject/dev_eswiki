@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=load (physical)/burden
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cargar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sobrecargar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pesa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pesar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agobiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrés.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aguantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ancla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pesado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=piedra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cargado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oneroso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=opresivo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gravoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agobiante.a
+}}
+|LinkEnglish=Burden
+}}

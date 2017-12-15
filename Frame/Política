@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=politics
+|Comments=is this politics or policy? <- politics (this homophony is a big problem, must resolve)
+
+This is "politics" - KMM (5/12/14)
+|Family=Esquemas de la política, Esquemas de político
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=X,
+|Last reviewed by=Karie, Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=política.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=político.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=político.a
+}}
+|LinkEnglish=Politics
+}}

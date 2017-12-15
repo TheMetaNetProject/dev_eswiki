@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=police
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Autoridad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=policía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subjefe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patrullar.v
+}}
+|LinkEnglish=Police
+|Applicability=Spanish
+}}

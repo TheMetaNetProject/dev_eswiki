@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Liquid
+|Other aliases=Fluido
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Sustancia
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agua.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=líquido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fluido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gota.n
+}}
+|LinkEnglish=Liquid
+|Applicability=Spanish
+}}

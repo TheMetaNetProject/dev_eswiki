@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=expression of the society
+|Comments=See English.
+|Family=Esquemas de Democracia,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Derechos
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Comunicación
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Democracia
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=voz.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=expresión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discurso.n
+}}
+|LinkEnglish=Speech in society
+|Applicability=Spanish
+}}

@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=economy is a structure physical complex
+|Aliases=
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Economía
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El gobernador Núñez tendrá que impulsar muy complejo proyecto de recuperación de Tabasco que perdió en décadas recientes el lugar relevante que tenía para estar hoy en un momento crítico con su aparato económico gravemente dañado.
+|Example.Gloss=The governor Núñez will-have to propel very complex project of recuperation of Tabasco that lost in decades recent the place relevant that had to be today in a moment critical with its apparatus economic gravely damaged.
+|Example.English translation=Governor Núñez will have to propel a complex recovery project for the state of Tabasco, which has in recent decades lost its former relevance, finding itself in a critical moment with its economic apparatus gravely damaged.
+|Example.Provenance=http://www.jornada.unam.mx/2013/01/06/opinion/006o1pol
+|Example.Comments="aparato económico gravemente dañado"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Durante 1924 su gobierno llevó a cabo una política obrera radical que si bien es cierto que, por un lado, respaldó e incluso fomentó las demandas de dicho sector, por el otro afectó la frágil economía local al disminuir la recaudación fiscal como resultado de las crisis obrero-patronales.
+|Example.Gloss=During 1924 his government brought to end a politics worker radical that if well is true that for one side backed and even encouraged the demands of said sector for the other affected the fragile economy local by diminish the revenue fiscal as result of the crisis worker-owner
+|Example.English translation=In 1924 his government enacted radical labor policies that, it is true, on the one side, supported and even encouraged the demands of that sector, on the other hand it affected the fragile local economy by diminishing revenue as a result of the crises between labor and ownership.
+|Example.Provenance=http://bibliotecadigital.ilce.edu.mx/sites/estados/libros/sanluis/html/sec_82.html
+|Example.Comments="la frágil economía local"
+}}
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=ECONOMY IS A COMPLEX STRUCTURE
+|Investigated for=Spanish
+}}

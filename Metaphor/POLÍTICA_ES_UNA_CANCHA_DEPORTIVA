@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=politics is a field sport
+|Aliases=
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Deportes
+|Target frame=Política
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El Partido Revolucionario Institucional (PRI) le metió un gol a la imparcialidad que debe prevalecer en el Instituto Estatal Electoral (IEE) de Querétaro.
+|Example.Gloss=the Party Revolutionary Institutional (PRI) ind.obj put-in a gol to the impartiality that must prevail in the Institute State Electoral (IEE) of Querétaro
+|Example.English translation=The Institutional Revolutionary Party (PRI) scored a goal against the impartiality that should prevail in the State Electoral Institute (IEE) of Querétaro.
+|Example.Provenance=http://portal.te.gob.mx/en/noticias-opinion-y-eventos/resumen/2/1295503200
+|Example.Comments="le metió un gol"
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=NATIONAL POLITICS IS A SPORTS FIELD
+|Investigated for=Spanish
+|Relevant LUs=
+}}

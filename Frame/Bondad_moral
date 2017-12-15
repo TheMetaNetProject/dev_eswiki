@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=goodness moral
+|Family=Esquemas de moralidad
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bondad
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción moral
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Moralidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Moral goodness
+|Applicability=Spanish
+}}

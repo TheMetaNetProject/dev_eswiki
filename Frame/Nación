@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Nation
+|Family=Esquemas de Gobernación, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ciudad
+}}
+|LinkEnglish=Nation
+|Applicability=Spanish
+}}

@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=voting
+|Family=Esquemas de Votar
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Toma de decisiones del gobierno
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Votación
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Ciudadanos
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Participación ciudadana
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=votar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=voto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nominar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sufragar.v
+}}
+|LinkEnglish=Voting
+|Applicability=Spanish
+}}

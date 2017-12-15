@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=anger is heat
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENOJO ES CALOR
+}}
+|Family=Metáforas de Enojo,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Temperatura del cuerpo
+|Target frame=Enojo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=INTENSIDAD EMOCIONAL ES TEMPERATURA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Con la cabeza caliente, uno es muy propenso a proferir insultos.
+|Example.Gloss=with the head hot one is very likely to utter insults
+|Example.English translation=With a hot head, one is very likely to utter insults.
+|Example.Provenance=http://qbit.mx/pre/index.php/entretenimiento-puebla/item/1939-hasta-para-quejarse-en-twitter-hay-que-saber-c%C3%B3mo?tmpl=component&print=1
+}}
+|Entered by=M.E., Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=ANGER IS HEAT
+|Investigated for=Spanish
+}}

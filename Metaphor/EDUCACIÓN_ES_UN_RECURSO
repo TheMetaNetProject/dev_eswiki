@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=education is a resource
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UN RECURSO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UN OBJETO
+}}
+|Source frame=Objeto
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EDUCACIÓN ES UN OBJETO
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Estructura de un idea
+|Entailment.Source inference=Estructura de un objeto
+|Entailment.Entailed metaphors=ESTRUCTURA DE UN IDEA ES ESTRUCTURA DE UN OBJETO
+}}{{Entailment
+|Entailment.Target entailment=Conseguir una educación
+|Entailment.Source inference=Conseguir un recurso
+|Entailment.Entailed metaphors=CONSEGUIR UNA EDUCACIÓN ES CONSEGUIR UN RECURSO
+}}
+|Examples=
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

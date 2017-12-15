@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=democracy is a location
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DEMOCRACIA ES UNA UBICACIÓN
+}}
+|Family=Metáforas de Democracia,
+|Source frame=Lugar
+|Target frame=Democracia
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los investigadores de muchas universidades latinoamericanas centran su atención en los procesos que pueden conducir a la democracia
+|Example.Gloss=the investigators of many universities latin.american are.focusing their attention on the processes that they.can to.lead to the democracy
+|Example.English translation=Investigators from many Latin American universities are focusing on the processes that can lead to democracy
+|Example.Provenance=http://www.scielo.org.mx/scielo.php?pid=S0187-01732008000200002&script=sci_arttext
+|Example.Annotation="conducir a la democracia"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

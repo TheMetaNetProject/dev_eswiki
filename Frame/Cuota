@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=fee
+|Comments=No English equivalent yet.
+|Family=Esquemas económicos, Esquemas de Desigualdad Económica, Esquemas excluidos
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Pago
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuota.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gasto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuenta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recibo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tasa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cargo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recargo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=costo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=precio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tarifa.n
+}}
+|Applicability=Spanish
+}}

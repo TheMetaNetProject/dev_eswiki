@@ -1,0 +1,39 @@
+{{Metaphor
+|Name gloss=problems social are diseases
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}
+|Description=e.g. pobreza es un cáncer
+|Family=Gobernación, Metáforas de Pobreza, Metáforas de aflicciones físicas, Metáforas de pobreza como problema social,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Enfermedad
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=NACIÓN ES UN CUERPO
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=PROBLEMAS SOCIALES ES AFLICCIÓN FÍSICA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=... el obispo José Luis Amezcua Mendoza afirmó que “la sociedad mexicana está enferma con esta violencia que nos acaba ...
+|Example.Gloss=... the bishop José Luis Amezcua Mendoza affirmed that the society Mexican is sick with this violence that us finishes
+|Example.English translation=... the bishop José Luis Amezcua Mendoza affirmed that "Mexican society is diseased with this violence that is destroying us ..."
+|Example.Provenance=http://www.ecosdelacosta.com.mx/detalles.php?ide=MzE1MQ==
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Cómo se contagia el crimen y la corrupción.
+|Example.Gloss=How refl spread the crime and the corruption
+|Example.English translation=How crime and corruption are transmitted [are contagious].
+|Example.Provenance=http://www.tlahuac.com.mx/noticias/como-se-contagia-el-crimen-y-la-corrupcion-captan-a-empleados-de-torreon-robando-rieles/
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=SOCIAL PROBLEMS ARE DISEASES
+|Investigated for=Spanish
+}}

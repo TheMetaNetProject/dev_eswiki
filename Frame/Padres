@@ -1,0 +1,68 @@
+{{Frame
+|Name gloss=parents
+|Family=Esquemas de moralidad,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Autoridad
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Familia
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Responsabilidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=padre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=madre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mamá.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=criar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nutrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alimentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dar.v de mamar a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dar.v de comer
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amamantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuidar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=proteger.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=papá .n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=proveer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=proporcionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amar.v
+}}
+|LinkEnglish=Parent
+|Applicability=Spanish
+}}

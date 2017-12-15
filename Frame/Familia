@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=family
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Grupos sociales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=familia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hermano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hermana.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=madre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=padre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hija.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=papá.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pariente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=niño.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=progenitor.n
+}}
+|LinkEnglish=Family
+|Applicability=Spanish
+}}

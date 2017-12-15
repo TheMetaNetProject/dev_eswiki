@@ -1,0 +1,20 @@
+{{Metaphor
+|Name gloss=money is food
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DINERO ES COMIDA
+}}
+|Family=Metáforas de Riqueza, Metáforas de Riqueza/Pobreza, Metáforas de Pobreza, Metáforas Económicas,
+|Source frame=Comida
+|Target frame=Dinero
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=RECURSOS ECONÓMICOS SON ALIMENTO
+}}
+|Entailments=
+|Examples=
+|Entered by=Karie,
+|Last reviewed by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=similarity
+|Status=proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=similitud.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=semejanza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parecido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parecido.a
+}}
+|Applicability=Spanish
+}}

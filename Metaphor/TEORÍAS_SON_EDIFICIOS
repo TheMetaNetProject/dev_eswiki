@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=theories are buildings
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Edificio
+|Target frame=Teoría
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TEORÍAS SON ESTRUCTURAS FÍSICAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=¿Es esa la base de tu teoría?
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La teoría necesita más apoyo.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkEnglish=THEORIES ARE BUILDINGS
+|Investigated for=Spanish
+}}

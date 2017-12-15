@@ -1,0 +1,16 @@
+{{Frame
+|Name gloss=erosion
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erosión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erosionar.v
+}}
+|LinkEnglish=Erosion
+|Applicability=Spanish
+}}

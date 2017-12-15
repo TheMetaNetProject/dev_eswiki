@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=income
+|Family=Esquemas económicos,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trabajo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Transacción financiera
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recursos económicos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sueldo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingreso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salario.n mínimo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingresos.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganancias.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=compensación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remuneración.n
+}}
+|LinkEnglish=Income
+|Applicability=Spanish
+}}

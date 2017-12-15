@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=attach
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fijar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afianzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adherir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sujetar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clavar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grabar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inrustar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tachonar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encinchar.v
+}}
+|LinkEnglish=Attach
+|Applicability=Spanish
+}}

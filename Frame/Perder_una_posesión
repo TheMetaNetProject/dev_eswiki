@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=lose a possession
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Posesión
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pérdida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perdida.a
+}}
+|LinkEnglish=Lose possession
+|Applicability=Spanish
+}}

@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=departure-route-goal
+|Family=Esquemas de Imágenes,
+|Type=Cog
+|Status=in development
+|Entered by=Oana, Karie, 
+|Roles={{Role
+|Role.Name=partida
+|Role.Name gloss=source
+|Role.Definition=la región inicial perfilada
+}}{{Role
+|Role.Name=ruta 
+|Role.Name gloss=path
+|Role.Definition=la región perfilada en curso
+}}{{Role
+|Role.Name=meta 
+|Role.Name gloss=goal
+|Role.Definition=la región final perfilada
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Trajector-landmark**
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Source path goal
+|Applicability=Spanish
+}}

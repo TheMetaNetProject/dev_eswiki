@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=CAUSING IS TRANSFERING AN OBJECT
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSATION IS OBJECT TRANSFER
+}}
+|Family=Estructura de Eventos como Objetos
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Transferir
+|Target frame=Causación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EVENTOS SON OBJETOS
+}}
+|Entailments=
+|Examples=
+|Entered by=M.E.,
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=CAUSATION IS OBJECT TRANSFER
+|Investigated for=Spanish
+}}

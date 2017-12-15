@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=be rich is be at the top of a pyramid
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ESTAR RICO ES ESTAR EN LA CIMA DE UNA PIRÁMIDE
+}}
+|Family=Gobernación, Metáforas de Pobreza, 
+|Metaphor Level=Specific
+|Metaphor Type=Entailed
+|Source frame=Pirámide
+|Target frame=Riqueza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=RIQUEZA ES ARRIBA
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=NACIÓN ES UNA PIRÁMIDE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El Banco de México informó que en el último ciclo, los ricos mexicanos continuaron concentrando fortunas a costa de depauperar más al colectivo. Así, el diez por ciento de la población, en la cima de la pirámide, aglutina, nada menos, el 41.3 por ciento del total del ingreso nacional, asimilando 439 mil 597 millones de dólares.
+|Example.Gloss=The Bank of Mexico informed that in the last cycle the rich Mexican continued concentrating fortunes at cost of make-pauper more to-the collective. In-this-way the ten per cent of the population at the top of the pyramid aggregates no less the 41.3 per cent of-the total of the income national assimilating 439 thousand 597 millions of dollars.
+|Example.English translation=The Bank of Mexico reported that in the last cycle, wealthy Mexicans continued concentrating their fortunates at the cost of further impoverishing the collective. In this way, the ten percent of the population at the top of the pyramid accumulates no less than 41.3 percent of the total national product, assimilating some 9,597,000,000
+|Example.Provenance=http://www.eldiariodecoahuila.com.mx/includes/modulos/imprimir.asp?id=176936&tipo=noticia
+|Example.Comments=cima de la pirámide
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

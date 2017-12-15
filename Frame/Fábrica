@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=factory
+|Type=Frame
+|Status=proposed
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estructura física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fábrica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fabricar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=factoría.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fundición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fabricación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cadena.n de montaje
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cadena.n de fabricación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=linea.n de montaje
+}}
+|LinkEnglish=Factory
+|Applicability=Spanish
+}}

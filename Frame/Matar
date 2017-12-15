@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=killing
+|Family=Esquemas de daño, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=asesino
+|Role.Name gloss=killer
+}}{{Role
+|Role.Name=enditidad_matado
+|Role.Name gloss=killed_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Muerte
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=matar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asesinar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=masacrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=muerte.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=eutanizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diezmar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sicario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=matanza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=matador.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mortandad.n
+}}
+|LinkEnglish=Killing
+|Applicability=Spanish
+}}

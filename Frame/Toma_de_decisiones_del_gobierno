@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=making of decisions of government
+|Family=Esquemas de Gobernación,
+|Type=Frame
+|Status=in development
+|Entered by=oana
+|Roles={{Role
+|Role.Name=el_que_toma_decisión
+}}{{Role
+|Role.Name=acción_del_que_toma_decisión
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción gobernante
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción propositiva
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio causado de estado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Government decision making
+|Applicability=Spanish
+}}

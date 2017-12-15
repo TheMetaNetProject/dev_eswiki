@@ -1,0 +1,75 @@
+{{Frame
+|Name gloss=harm/hurt
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=entidad_dañado
+|Role.Name gloss=entity_harmed
+|Role.Type=Entidad animado
+}}{{Role
+|Role.Name=proceso_dañino
+|Role.Name gloss=process_harmful
+|Role.Type=Proceso
+}}{{Role
+|Role.Name=efecto_de_daño
+|Role.Name gloss=effect_of_harm
+|Role.Definition=el daño causado por el proceso
+}}{{Role
+|Role.Name=consecuencia_de_daño
+|Role.Name gloss=consequence_of_harm
+|Role.Definition=el resultado de daños; por ejemplo, la pérdida de función
+}}{{Role
+|Role.Name=causa
+|Role.Name gloss=cause
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causación
+}}
+|Bindings={{Binding
+|Binding.Local role=entidad_dañado
+|Binding.Bound role=Causación.afectado
+}}{{Binding
+|Binding.Local role=efecto_de_daño
+|Binding.Bound role=Causación.efecto
+}}{{Binding
+|Binding.Local role=causa
+|Binding.Bound role=Causación.agente
+}}{{Binding
+|Binding.Local role=proceso_dañino
+|Binding.Bound role=Causación.causa
+}}
+|Inferences={{Inference
+|Inference.Description=El resultado de proceso dañino es negativo para la entidad_dañado.
+|Inference.Type=Causa y efecto
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sufrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sufre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dañar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=daño.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sufrimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=doliente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atropello.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=padecer.v
+}}
+|LinkEnglish=Harm
+|Applicability=Spanish
+}}

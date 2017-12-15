@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=complex physical object
+|Comments='estructura compleja' is the same as 'objeto físico complejo'
+|Family=Esquemas de entidades,
+|Tags=Program sources
+|Type=Cog, Composed
+|Status=in development, auto imported
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=objeto_todo
+|Role.Name gloss=object_whole
+}}{{Role
+|Role.Name=objeto_partes
+|Role.Name gloss=object_parts
+}}{{Role
+|Role.Name=objeto_tamaño
+|Role.Name gloss=object_size
+}}{{Role
+|Role.Name=objeto_forma
+|Role.Name gloss=object_shape
+}}{{Role
+|Role.Name=objeto_ubicación
+|Role.Name gloss=object_location
+}}{{Role
+|Role.Name=objeto_relacciones_entre_partes
+|Role.Name gloss=object_part_relations
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Todo-parte
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto
+}}
+|Bindings={{Binding
+|Binding.Local role=objeto_todo
+|Binding.Bound role=Objeto.objeto_de_entidad
+}}{{Binding
+|Binding.Local role=objeto_tamaño
+|Binding.Bound role=Objeto.tamaño
+}}{{Binding
+|Binding.Local role=objeto_forma
+|Binding.Bound role=Objeto.forma
+}}{{Binding
+|Binding.Local role=objeto_todo
+|Binding.Bound role=Todo-parte.todo
+}}{{Binding
+|Binding.Local role=objeto_partes
+|Binding.Bound role=Todo-parte.partes
+}}{{Binding
+|Binding.Local role=objeto_relacciones_entre_partes
+|Binding.Bound role=Todo-parte.relación_todo-parte
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prisma.n
+}}
+|LinkEnglish=Complex physical object
+}}

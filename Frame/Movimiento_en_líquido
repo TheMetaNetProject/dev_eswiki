@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=movement into liquid
+|Comments=Refers to motion of a trajector through liquid, as opposed to the motion of liquid itself.
+|Family=Esquemas de movimiento,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento hacia abajo
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahogamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=submergimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumergir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahogar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hundir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hundirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumergido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inmerso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zambullirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zambullida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nadar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumido.a
+}}
+|Applicability=Spanish
+}}

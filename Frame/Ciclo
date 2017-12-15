@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=cycle
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proceso
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Partida-ruta-meta
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ciclo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=círculo.n
+}}
+|LinkEnglish=Cycle
+|Applicability=Spanish
+}}

@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=facing problems educational is facing an animal
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENFRENTAR PROBLEMAS EDUCATIVOS ES ENFRENTAR UN ANIMAL FEROZ
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ENFRENTAR PROBLEMAS EDUCATIVOS ES ENFRENTAR UNA CRIATURA MONSTRUOSA
+}}
+|Tags=Program sources
+|Family=Metáforas de Educación,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Animal
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ENFRENTAR UN PROBLEMA ES ENFRENTAR UN OBSTÁCULO
+}}
+|Entailments=
+|Examples=
+|Entered by=X,
+|Last reviewed by=Karie
+|Status=in development, auto imported
+}}

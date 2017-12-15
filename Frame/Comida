@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Food
+|Family=Esquemas de Comida,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Alimento
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alimentos.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carne.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zanahoria.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maíz.n
+}}
+|LinkEnglish=Food
+|Applicability=Spanish
+}}

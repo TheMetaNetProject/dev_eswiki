@@ -1,0 +1,46 @@
+{{Metaphor
+|Name gloss=impoverishment caused is movement forced to a place
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMPOBRECIMIENTO CAUSADO ES MOVIMIENTO FORZADO A UN LUGAR
+}}
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Movimiento forzado
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=POBREZA ES UN LUGAR
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAMBIO CAUSADO DE ESTADO ES CAMBIO CAUSADO DE UBICACIÓN
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los biocombustibles son responsables por el 30 por ciento del incremento en los precios mundiales de los alimentos, empujando a 30 millones de personas a la pobreza, dijo el miércoles en un reporte la organización internacional Oxfam.
+|Example.Gloss=the biofuels are responsible for the 30 per cent of the increase in the prices world of the food pushing to 30 million of people to the poverty said the Wednesday in a report the organization international Oxfam
+|Example.English translation=Biofuels are responsible for 30 percent of the increase in world food prices, pushing 30 million people to poverty, said the international organization Oxfam in a report Wednesday.
+|Example.Provenance=http://www.terra.com.mx/articulo.aspx?articuloid=688413
+|Example.Comments=empujando a 30 millones de personas a la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Sin embargo, no sólo en nuestro país, sino en muchos otros, la mayoría de la población sufre opresión económica no debido a su pereza, sino a las malas decisiones de gobernantes y líderes políticos que por su ambición y falta de sabiduría para manejar los asuntos financieros del país, llevan a la pobreza a sus gobernados y dan bienestar y ganancias económicas a unos cuantos.
+|Example.Gloss=without restriction not only in our country but-also in many others the majority of the population suffers oppression economic not due to their sloth but-rather to the bad decisions of governors and leaders political that for their ambition and lack of wisdom to manage the issues financial of-the country bring to the poverty to their constituents and give well-being and profit economic to some few.
+|Example.English translation=Nevertheless, not only in our country, but in many others, the majority of the population suffers economic oppression not due to laziness but to bad decisions on the part of governing officials and political leaders who, due to their ambition and lack of knowledge how to manage the financial issues of the country, bring their constituents to poverty and give wellbeing and economic profits to a few.
+|Example.Provenance=http://www.elmanana.com.mx/notas.asp?id=96426
+|Example.Comments=llevan a la pobreza a sus gobernados
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Notamos, sin embargo, que aunque el proceso de globalización constituye una fuerza dinámica que puede beneficiar a todos los países, en la práctica sus beneficios se reparten muy desequilibradamente y expresamos nuestra determinación de prevenir y castigar y mitigar los efectos negativos de globalización, que llevan a la pobreza, al subdesarrollo y la exclusión social.
+|Example.Gloss=we-notice without restriction that although the process of globalization constitutes a force dynamic that can benefit to all the countries in the practice its benefits refl distribute very unbalanced and we-express our determination of prevent and punish and mitigate the effects negative of globalization that carry to the poverty to-the underdevelopment and the exclusion social
+|Example.English translation=We note, nevertheless, that even though the process of globalization constitutes a dynamic force that could benefit all nations, in practice its benefits are distributed very unequally and we express our determination to prevent, punish, and mitigate the negative effects of globalization, which lead to poverty, underdevelopment, and social exclusion.
+|Example.Provenance=http://fox.presidencia.gob.mx/actividades/visitaoficial/?contenido=19201
+|Example.Comments=llevan a la pobreza
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

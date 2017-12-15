@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=portals
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Barreras
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Confinamiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=umbral.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=portal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zaguán.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=entrada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puerta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cancela.n
+}}
+|LinkEnglish=Portals
+|Applicability=Spanish
+}}

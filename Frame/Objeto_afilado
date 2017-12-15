@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=object sharp
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Forma de objeto
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agudizarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=punzante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afilarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afilado.a
+}}
+}}

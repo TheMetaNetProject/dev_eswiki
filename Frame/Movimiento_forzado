@@ -1,0 +1,91 @@
+{{Frame
+|Name gloss=movement forced
+|Description=movement forced forward or on a horizontal plane
+|FrameNet frame=Cause_motion
+|Family=Esquemas de movimiento
+|Type=Cog, Composed
+|Entered by=Karie, Joe
+|Roles={{Role
+|Role.Name=agente
+|Role.Name gloss=agent
+}}{{Role
+|Role.Name=entidad_que_se_mueve
+|Role.Name gloss=mover
+}}{{Role
+|Role.Name=movimiento
+|Role.Name gloss=movement
+}}{{Role
+|Role.Name=aplicación_de_fuerza
+|Role.Name gloss=forceful_action
+|Role.Definition=acción que causa movimiento
+}}{{Role
+|Role.Name=dirección
+|Role.Name gloss=direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento a lo largo de un camino
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento causado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Aplicación-fuerza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empujar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lanzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tirar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=echar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrojar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impulsar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrancar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrastrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desplazar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jalar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrastre
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrojar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zarandear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desplazamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=exterminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=exterminación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acelerar.v
+}}
+|LinkEnglish=Forced movement
+|Applicability=Spanish
+}}

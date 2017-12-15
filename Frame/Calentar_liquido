@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=Heating liquid
+|FrameNet frame=Apply_heat
+|Type=Frame
+|Cultural information=Se encuentra en todas culturas.
+|Status=in development
+|Entered by=M.E.,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Afectar
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contener
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Calor
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hervir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cocer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guisar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estofar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bullir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ebullición.n
+}}
+|LinkEnglish=Heating fluid
+|Applicability=Spanish
+}}

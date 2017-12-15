@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=scenario of work
+|Family=Esquemas excluidos,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Empleo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción propositiva
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trabajo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingresos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salario
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sueldo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paga
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ocupación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=compensación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remunerar
+}}
+|LinkEnglish=Work scenario
+|Applicability=Spanish
+}}
+pagar.v

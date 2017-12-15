@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=center-periphery
+|Comments='periférico' means 'beltway' and should probably not be here.
+|Family=Esquemas de Imágenes
+|Type=Cog
+|Status=in development
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=central.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=centro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=centrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=centrarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=periferia.n
+}}
+|LinkEnglish=Center periphery
+|Applicability=Spanish
+}}

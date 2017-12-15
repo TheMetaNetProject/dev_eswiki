@@ -1,0 +1,73 @@
+{{Frame
+|Name gloss=enclosures aquatic
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Lugar
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Confinamiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inundar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remolino
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumergir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hundir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=a flote
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flotante
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corriente
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahogarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flotar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumersión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=immersión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zambullirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nadar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pantano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ciénaga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marisma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lodazal.n
+}}
+|LinkEnglish=Water Confinement
+}}

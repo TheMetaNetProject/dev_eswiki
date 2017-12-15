@@ -1,0 +1,83 @@
+{{Frame
+|Name gloss=election
+|Family=Esquemas de Gobernación, Esquemas de Democracia,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=votador
+|Role.Name gloss=voter
+|Role.Type=Persona
+|Role.Definition=una persona que se vota en un elección
+}}{{Role
+|Role.Name=candidato1
+|Role.Name gloss=candidate1
+|Role.Type=Persona
+|Role.Definition=a person seeking to gain office via the election
+}}{{Role
+|Role.Name=candidato2
+|Role.Name gloss=candidate2
+|Role.Type=Persona
+|Role.Definition=someone competing with candidate1 for the office
+}}{{Role
+|Role.Name=puesto
+|Role.Name gloss=office
+|Role.Definition=the official function which candidates seek to fill
+}}{{Role
+|Role.Name=votación_x-esquema
+|Role.Name gloss=voting_x-schema
+|Role.Type=Proceso
+}}{{Role
+|Role.Name=resultado
+|Role.Name gloss=outcome
+|Role.Definition=choice of one candidate to fill a given office
+}}{{Role
+|Role.Name=institución
+|Role.Name gloss=institution
+|Role.Type=Institution
+|Role.Definition=the official institution which has the function roles
+}}{{Role
+|Role.Name=boleta
+|Role.Name gloss=ballot
+|Role.Type=Objecto físico
+|Role.Definition=means of voter indicating choice
+}}{{Role
+|Role.Name=boleta_contando
+|Role.Name gloss=ballet_counting
+|Role.Type=Proceso
+|Role.Definition=subcase of counting
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Gobierno
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Democracia
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Votación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Debatir
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Campaña electoral
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elegir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elegido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=electoral.a
+}}
+|LinkEnglish=Election
+|Applicability=Spanish
+}}

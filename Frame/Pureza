@@ -1,0 +1,22 @@
+{{Frame
+|Name gloss=purity
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Impureza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pureza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puro.a
+}}
+|LinkEnglish=Purity
+|Applicability=Spanish
+}}

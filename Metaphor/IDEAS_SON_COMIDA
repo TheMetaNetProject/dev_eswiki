@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=ideas are food
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IDEAS SON COMIDA
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Comida
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=IDEAS SON OBJETOS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Una dulce idea para aquellos activistas de sofá que sueñan en la revolución sin ideologías, sin política, sin Historia y sin filosofía ...
+|Example.Gloss=A sweet idea for those activists of sofa that dream in the revolution without ideologies, without politics, without history and without philosophy ...
+|Example.English translation=A sweet idea for those armchair activists that dream of revolution without ideology, politics, history or philosophy ...
+|Example.Provenance=http://rafaelmorales.com.mx/democracia-liquida
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=IDEAS ARE FOOD
+|Investigated for=Spanish
+}}

@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=containment below-ground
+|Comments=what other name could this be to mean "sunken containment"?
+
+Needs more LUs.
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Contener
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Encierros ambientales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sima.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desfiladero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infierno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sumidero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zonote.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cenote.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=socavón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cueva.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caverna.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cavar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enterrar.v
+}}
+|LinkEnglish=Sunken confinement
+|Applicability=Spanish
+}}

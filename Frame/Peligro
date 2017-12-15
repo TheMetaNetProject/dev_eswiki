@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=danger
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Daño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peligro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=riesgo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peligrosidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peligroso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arriesgar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arriesgado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=temerario.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=riesgoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amenaza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peligrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=exigencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amenazar.v
+}}
+|LinkEnglish=Danger
+|Applicability=Spanish
+}}

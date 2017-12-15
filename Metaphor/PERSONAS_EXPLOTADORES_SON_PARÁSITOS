@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=people exploitative are parasites
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PERSONAS EXPLOTADORES SON PARÁSITOS
+}}
+|Comments=old metaphor families: riqueza and pobreza
+|Family=Metáforas de Riqueza y Clase Social,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Parásito
+|Target frame=Persona
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=ADQUIRIR RECURSOS ES CONSUMIR COMIDA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Ese desprecio del candidato del PAN hacia los humildes, es propio de la clase a la que pertenece: los ricos, los explotadores, los parásitos sociales, las sanguijuelas.
+|Example.Gloss=this disdain of-the candidate of-the PAN toward the lowly is property of the class to which that pertains the rich the exploitative the parasites social the leeches
+|Example.English translation=The PAN candidate's disdain for the poor is a feature of the social class to which he belongs: the rich, the exploitative, the social parasites, the leeches.
+|Example.Provenance=http://archivo.lajornadamichoacan.com.mx/2007/10/13/index.php?section=opinion&article=002a2pol
+|Example.Comments=sanguijuelas
+}}
+|Entered by=Joe
+|Last reviewed by=Karie, Oana
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,101 @@
+{{Frame
+|Name gloss=affliction physical
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=úlcera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aflicción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dolencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crónica.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infectar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afligir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discapacidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermedad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cicatriz.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lisiado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paralizado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tullido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tullir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lisiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paralizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llaga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=náusea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fiebre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malestar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=padecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inválido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=minusválido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paciente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herida.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agonía.n
+}}
+|LinkEnglish=Physical affliction
+}}
+need LUs!!
+
+violar.v ?
+abusar.v ?

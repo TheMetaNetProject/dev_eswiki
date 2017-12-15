@@ -1,0 +1,93 @@
+{{Frame
+|Name gloss=region bounded
+|Other aliases=Recinto
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=exterior
+|Role.Name gloss=exterior
+|Role.Type=región
+}}{{Role
+|Role.Name=interior
+|Role.Name gloss=interior
+|Role.Type=región
+}}{{Role
+|Role.Name=límite
+|Role.Name gloss=boundary
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=topological structure is such that exterior and interior are separated by boundary
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=en.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dentro_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dentro.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=en_el_interior.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adentro.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=interior.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=exterior.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adentro_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afuera.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuera.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parte_externa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=externo.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuera_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desde_fuera.adv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=en_exterior_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=en_interior_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afuera_de.prep
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afuera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=límite.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polígono.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ámbito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esfera.n
+}}
+|LinkEnglish=Bounded region
+|Applicability=Spanish
+}}

@@ -1,0 +1,78 @@
+{{Frame
+|Name gloss=Body
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie,
+|Roles={{Role
+|Role.Name=parte_corporal
+|Role.Name gloss=body_part
+|Role.Type=entidad
+}}{{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+|Role.Type=entidad
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Todo-parte
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Funcionamiento corporal
+}}
+|Bindings={{Binding
+|Binding.Local role=cuerpo
+|Binding.Bound role=Todo-parte.todo
+}}{{Binding
+|Binding.Local role=parte_corporal
+|Binding.Bound role=Todo-parte.partes
+}}{{Binding
+|Binding.Local role=cuerpo
+|Binding.Bound role=Funcionamiento corporal.cuerpo
+}}{{Binding
+|Binding.Local role=parte_corporal
+|Binding.Bound role=Funcionamiento corporal.parte_corporal
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuerpo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corporal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=torso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cara.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pie.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rodilla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rostro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuello.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dedo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corazón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=columna vertebral
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=órgano.n
+}}
+|LinkEnglish=Body
+|Applicability=Spanish
+}}

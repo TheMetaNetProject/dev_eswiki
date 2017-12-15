@@ -1,0 +1,61 @@
+{{Metaphor
+|Name gloss=adversity economic is harm physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADVERSIDAD ECONÓMICA ES DAÑO FÍSICO
+}}
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Daño físico
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=DAÑO PSICOLÓGICO ES DAÑO FÍSICO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Lacera la pobreza a los indígenas.
+|Example.Gloss=lacerates the poverty to the indigenous
+|Example.English translation=Poverty lacerates the indigenous.
+|Example.Provenance=http://www.novenet.com.mx/seccion.php?id=165536&sec=4&d=30&m=07&y=2009
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza lastima a cientos de familias en esta zona de la región de La Montaña, pero en ellas persiste el anhelo de alcanzar un mejor futuro mejor o por lo menos garantizar ya no el sustento, sino el alimento diario para sus hijos.
+|Example.Gloss=the poverty injures to hundreds of families in this zone of the region of La Montaña but in them persists the desire of reach a better future better or for the least guarantee already not the sustenance but-also the feeding daily for their children
+|Example.English translation=Poverty hurts hundreds of families in this region of La Montaña, but within those families persists the desire to achieve a better future, or at least guarantee not just minimum sustenance, but also to feed their children daily.
+|Example.Provenance=http://www.sinembargo.mx/02-02-2012/138732
+|Example.Comments=la pobreza lastima a cientos de familias
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=En la comunidad indígena de San Juan Tepeuxila, que está enclavada en la región Cañada, la pobreza lastima y duele.
+|Example.Gloss=in the community indigenous of San Juan Tepeuxila that is embedded in the region Cañada the poverty injures and hurts
+|Example.English translation=In the indigenous community of San Juan Tepeuxila, deep within the Cañada region, poverty injures and hurts.
+|Example.Provenance=http://www.diariomarca.com.mx/?p=154874
+|Example.Comments=la pobreza lastima y duele
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Dijo que si bien la pobreza lastima a los mexicanos, se debe reconocer que es necesaria la contribución de cada uno de los sectores para lograr sacar adelante las reformas que permitan obtener la "materia prima", es decir el dinero para inyectarlo en la educación.
+|Example.Gloss=said that if well the poverty injures to the Mexicans one must recognize that it-is necessary the contribution of each one of the sectors for achieve take-out forward the reforms that permit obtain the material raw is to-say the money to inject-it in the education
+|Example.English translation=She said that since poverty is harming the Mexican people, it must be recognized that it's necessary to contribute to every sector in order to advance the reforms that will make available the "raw material," that is to say, the money to inject into education.
+|Example.Provenance=http://www.cronica.com.mx/notas/2003/93943.html
+|Example.Comments=la pobreza lastima a los mexicanos
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Seguimos en crisis, el desempleo se incrementa, la pobreza daña a más de 50 millones de mexicanos.
+|Example.Gloss=we-follow in crisis the unemployment refl increment the poverty harms to more than 50 million of Mexicans
+|Example.English translation=We are still in crisis. Unemployment is increasing, and poverty harms more than 50 million Mexicans.
+|Example.Provenance=http://www.comunicacampeche.com.mx/Php/noticiacomlocal.php?id=70354
+|Example.Comments=la pobreza daña a más de 50 millones de mexicanos.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Sin embargo, aclara que en México la pobreza hiere por igual a mujeres y a hombres.
+|Example.Gloss=without restriction clarifies that in Mexico the poverty wounds for equal to women and to men
+|Example.English translation=Nevertheless, she clarifies that in Mexico, poverty wounds women and men equally.
+|Example.Provenance=http://cimacnoticias.com.mx/node/45414
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

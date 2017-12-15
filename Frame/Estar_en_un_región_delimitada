@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=being in a region bounded
+|Family=Esquemas de ubicación
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estar en una ubicación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Región delimitada
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=residir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quedarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detenerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vivir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=radicar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zona.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=habitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vivir.v en
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v fuera
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v dentro
+}}
+|LinkEnglish=Being in a Bounded Region
+|Applicability=Spanish
+}}

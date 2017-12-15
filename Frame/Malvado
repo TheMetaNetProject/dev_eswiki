@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=evil
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Inmoralidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malvedo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maléfico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vil.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maldito.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malicioso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aborrecible.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=satánico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diabólico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salvaje.a
+}}
+|LinkEnglish=Evil
+|Applicability=Spanish
+}}

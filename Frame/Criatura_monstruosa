@@ -1,0 +1,77 @@
+{{Frame
+|Name gloss=creature monstrous
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad animado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Daño físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bestia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=monstruo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quimera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esperpento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=endriago.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engendro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=diablo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=criatura.n malvada.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malvado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=villano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fantasma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=demonización.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=monstruosidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dragón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=demonio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ogro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hombre lobo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trasgo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=necrófago.n
+}}
+|LinkEnglish=Evil creature
+|Applicability=Spanish
+}}

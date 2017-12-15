@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=gas
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Sustancia
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gas
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aire
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oxígeno
+}}
+|Applicability=Spanish
+}}

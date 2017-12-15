@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=repair
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reparar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arreglar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arreglo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reparación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=solucionar.v
+}}
+|LinkEnglish=Fixing
+|Applicability=Spanish
+}}

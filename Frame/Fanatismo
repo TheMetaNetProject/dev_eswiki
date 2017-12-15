@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=zealotry
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Adorar
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Deidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fanatismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fanático.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=radical.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extremista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cruzado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=culto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jihad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sectario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cruzada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fervor.n
+}}
+|LinkEnglish=Zealotry
+|Applicability=Spanish
+}}

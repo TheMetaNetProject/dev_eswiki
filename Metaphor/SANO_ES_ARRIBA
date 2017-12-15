@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=healthy is up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SANO ES ARRIBA
+}}
+|Family=Metáforas de Bienestar, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticalidad
+|Target frame=Salud
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=BIENESTAR ES VERTICALIDAD
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=HEALTH IS UP
+|Investigated for=Spanish
+}}

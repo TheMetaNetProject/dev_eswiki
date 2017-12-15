@@ -1,0 +1,52 @@
+{{Metaphor
+|Name gloss=anger is fire
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS FIRE
+}}
+|Family=Metáforas de Enojo
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Fuego
+|Target frame=Enojo
+|Mappings={{Mapping
+|Target=enojo
+|Source=fuego
+}}{{Mapping
+|Target=experimentador
+|Source=cosa_en_llamas
+}}{{Mapping
+|Target=motivo_de_enojo
+|Source=causa_de_fuego
+}}{{Mapping
+|Target=nivel_de_enojo
+|Source=intensidad_de_fuego
+}}{{Mapping
+|Target=personas_affectadas
+|Source=cosas_en_alrededor
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ENOJO ES CALOR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Lo que me calienta es tu forma de mirar a mis amigos.
+|Example.Gloss=3s comp 1s.obj heat_up.prs.3s be.prs.3s 2s.poss way of look.inf at 1s.poss friends
+|Example.English translation=What just burns me up is the way you look at my friends.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Echabas fuego de tus ojos al ver=la.
+|Example.English translation=You shot fire from your eyes when you saw her.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Insultos, provocaciones y acoso del gigante de la guerra, incendia la ira musulmana ...
+|Example.Gloss=insults provocations and harassment of-the giant of the war ignites the rage muslim ...
+|Example.English translation=Insults, provocation, and harassment from the warmongering giant ignites Muslim rage ...
+|Example.Provenance=http://www.revistarepublica.com.mx/pragmatismo-esquizofrenico/
+}}
+|Entered by=M.E., Joe
+|Status=in development
+|LinkEnglish=ANGER IS FIRE
+|Investigated for=Spanish
+}}

@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=authority moral
+|Family=Esquemas de moralidad, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=autoridad_moral-entidad
+|Role.Name gloss=moral_authority_entity
+}}{{Role
+|Role.Name=autoridad_moral_el_que_obedece
+|Role.Name gloss=moral_authority_obeyer
+}}{{Role
+|Role.Name=autoridad_moral_poder
+|Role.Name gloss=moral_authority_power
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Autoridad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Moral authority
+|Applicability=Spanish
+}}

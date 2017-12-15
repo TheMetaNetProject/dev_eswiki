@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=domestic services
+|Type=Frame
+|Status=proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=criado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mayordomo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sirvienta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ama.n de llaves
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ama de llaves
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=servir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atender.v
+}}
+|Applicability=Spanish
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=aids to motion
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Impedimentos al movimiento
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Falta de impedimentos al movimiento
+}}{{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Movimiento a lo largo de un camino
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abrir.v la puerta
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puerta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paracaídas.n
+}}
+|LinkEnglish=Aids to motion
+}}

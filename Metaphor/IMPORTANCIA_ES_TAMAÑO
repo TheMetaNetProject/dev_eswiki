@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=importance is size
+|Aliases=
+|Comments=Size is a property of objects or entities.
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Tamaño
+|Target frame=Importancia
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=¿Las diferencias religiosas tiene una importancia grande para ti a la hora de pensarlo en términos de pareja?
+|Example.English translation="Are religious differences of great importance to you when it comes to thinking of a partner?"
+|Example.Provenance=http://mx.answers.yahoo.com/question/index?qid=20121217154408AANVO6G
+|Example.Annotation="importancia grande"
+}}
+|Entered by=Karie, 
+|Status=in development
+|LinkEnglish=IMPORTANCE IS SIZE 
+|Investigated for=Spanish
+}}

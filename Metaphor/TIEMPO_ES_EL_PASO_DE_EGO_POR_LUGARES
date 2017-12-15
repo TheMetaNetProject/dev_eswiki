@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=time is the passage of ego by locations
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Movimiento
+|Target frame=Tiempo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=TIEMPO ES EL PASO DE OBJETOS HACIA EGO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Atravesamos un periodo difícil en nuestra historia reciente.
+|Example.Gloss=We-passed-through a period difficult in our history recent.
+|Example.English translation=We passed through a difficult period in our recent history.
+|Example.Provenance=http://www.cultura.df.gob.mx/index.php/sala-de-prensa/discursos/3280-trabajo-conjunto-en-prevencion-del-delito
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES
+|Investigated for=Spanish
+}}

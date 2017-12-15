@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=alleviation of load/burden
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Carga
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=descargarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=descargar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aligerar.v
+}}
+|LinkEnglish=Remove burden
+}}
+aliviar.v

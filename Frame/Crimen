@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=Crime
+|Type=Frame
+|Status=in development
+|Entered by=Joe
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causar daño físico
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Problemas sociales
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legalidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crimen.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=delito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=delinquir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=delictivo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=delincuencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=criminal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malhechor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inseguridad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bandido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=víctima.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=víctimas.n
+}}
+|LinkEnglish=Crime
+|Applicability=Spanish
+}}

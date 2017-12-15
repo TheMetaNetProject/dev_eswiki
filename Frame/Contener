@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=containing
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contenedor
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contener.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recipiente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contenedor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=envase.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=en
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dentro
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vacio
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuera
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lleno.a
+}}
+|LinkEnglish=Containing
+|Applicability=Spanish
+}}

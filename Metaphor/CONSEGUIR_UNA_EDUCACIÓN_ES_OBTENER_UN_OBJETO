@@ -1,0 +1,43 @@
+{{Metaphor
+|Name gloss=getting an education is acquiring an object
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONSEGUIR UNA EDUCACIÓN ES OBTENER UN OBJETO
+}}
+|Family=Educación,
+|Metaphor Level=General
+|Source frame=Ganar posesión
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EDUCACIÓN ES UN OBJETO
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=LOGRAR UN PROPÓSITO ES OBTENER UN OBJETO DESEADO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cómo obtener una educación que le sirva de verdad
+|Example.Gloss=How to.get an education that itself serves of truth
+|Example.English translation=How to get an education that really works.
+|Example.Provenance=http://online.wsj.com/article/SB130290469271206201.html
+|Example.Comments="obtener una educación"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Cómo conseguir una buena educación para nuestros maestros
+|Example.Gloss=how to.get a good education for our teachers
+|Example.English translation=How to get a good education for our teachers.
+|Example.Provenance=http://www.fedeablogs.net/economia/?p=29512
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La Constitución Política de los Estados Unidos Mexicanos reconoce el derecho de todo individuo a recibir educación
+|Example.Gloss=The Constitution Political of the States United Mexican recognizes the right of every individual to receive education
+|Example.English translation="The Constitution of the United Mexican States recognizes the right of everyone to receive an education"
+|Example.Provenance=http://www.cencos.org/node/28889
+|Example.Comments="recibir educación"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

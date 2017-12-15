@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=stopping flow of air
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Daño físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asfixiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asfixia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sofocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrangular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahorcarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahogar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asfixiante.a
+}}
+|LinkEnglish=Stop airflow
+|Applicability=Spanish
+}}

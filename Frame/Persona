@@ -1,0 +1,78 @@
+{{Frame
+|Name gloss=Person
+|Comments=entity
+|Family=Esquemas de entidades, Esquemas excluidos
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie,
+|Roles={{Role
+|Role.Name=persona
+|Role.Name gloss=person
+}}{{Role
+|Role.Name=partes_del_cuerpo
+|Role.Name gloss=body_parts
+}}{{Role
+|Role.Name=objetivos
+|Role.Name gloss=objectives
+}}{{Role
+|Role.Name=acciones
+|Role.Name gloss=actions
+}}{{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad sintiente
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad animado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción propositiva
+}}
+|Bindings={{Binding
+|Binding.Local role=persona
+|Binding.Bound role=Entidad animado.entidad_animado
+}}{{Binding
+|Binding.Local role=persona
+|Binding.Bound role=Entidad sintiente.entidad_sintiente
+}}{{Binding
+|Binding.Local role=persona
+|Binding.Bound role=Acción propositiva.actor
+}}{{Binding
+|Binding.Local role=partes_del_cuerpo
+|Binding.Bound role=Entidad animado.partes_especializadas
+}}{{Binding
+|Binding.Local role=cuerpo
+|Binding.Bound role=Entidad animado.cuerpo
+}}{{Binding
+|Binding.Local role=acciones
+|Binding.Bound role=Acción propositiva.acción_x-esquema
+}}{{Binding
+|Binding.Local role=objetivos
+|Binding.Bound role=Acción propositiva.objetivo
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=persona.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ser.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ser humano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=individo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hombre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=humano.n
+}}
+|LinkEnglish=Person
+|Applicability=Spanish
+}}

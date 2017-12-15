@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=land wild
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Características geográficas
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=yermo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jungla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=selva.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paraje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desierto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=páramo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pantano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bosque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arboleda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bosquecillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remanso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arbusto.n
+}}
+|LinkEnglish=Wilderness
+|Applicability=Spanish
+}}

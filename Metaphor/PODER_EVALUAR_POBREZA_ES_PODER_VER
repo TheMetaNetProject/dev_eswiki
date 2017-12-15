@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=can evaluate poverty is can see
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PODER EVALUAR POBREZA ES PODER VER
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Ver
+|Target frame=Evaluación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=PODER EVALUAR ES PODER VER
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Esta historia de éxito contempla el financiamiento de programas y proyectos con miras a disminuir la pobreza...
+|Example.Gloss=this story of success provides.for the funding of programs and projects with a.view at reducing the poverty
+|Example.English translation="This success story provides for the funding of programs and projects aimed at reducing poverty..."
+|Example.Provenance=http://www.iadb.org/es/paises/mexico/un-vistazo-al-bid-en-mexico,1097.html
+|Example.Comments="proyectos con miras a disminuir la pobreza"  - "mira a" is a common idiomatic phrase meaning 'to aim at'
+}}
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=Spanish
+}}

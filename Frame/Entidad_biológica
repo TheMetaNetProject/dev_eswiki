@@ -1,0 +1,70 @@
+{{Frame
+|Name gloss=entity biological
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=oana
+|Last reviewed by=Karie
+|Roles={{Role
+|Role.Name=organismo
+|Role.Name gloss=organism
+}}{{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+|Role.Definition=el cuerpo físico
+}}{{Role
+|Role.Name=partes_especializadas
+|Role.Name gloss=specialized_parts
+|Role.Definition=las partes distintas del cuerpo
+}}{{Role
+|Role.Name=función_de_la_parte
+|Role.Name gloss=part_function
+|Role.Definition=las funciones de las partes
+}}{{Role
+|Role.Name=estado_de_salud
+|Role.Name gloss=health_status
+|Role.Definition=el estado del organismo como un todo
+}}{{Role
+|Role.Name=peso_corporal
+|Role.Name gloss=body_weight
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto físico complejo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ciclo de vida
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ingestión
+}}
+|Bindings={{Binding
+|Binding.Local role=cuerpo
+|Binding.Bound role=Objeto físico complejo.objeto_todo
+}}{{Binding
+|Binding.Local role=partes_especializadas
+|Binding.Bound role=Objeto físico complejo.objeto_partes
+}}{{Binding
+|Binding.Local role=peso_corporal
+|Binding.Bound role=Objeto físico complejo.objeto_peso
+}}{{Binding
+|Binding.Local role=organismo
+|Binding.Bound role=Ciclo de vida.la_cosa_viviente
+}}{{Binding
+|Binding.Local role=organismo
+|Binding.Bound role=Ingestión.entidad_que_ingiere
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=organismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=humano.n
+}}
+|LinkEnglish=Biological entity
+|Applicability=Spanish
+}}

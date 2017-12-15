@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=making of decisions governmental
+|Family=Esquemas de Gobierno,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción gobernante
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción propositiva
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de estado causado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decidir
+}}
+|LinkEnglish=Government decision making
+|Applicability=Spanish
+}}

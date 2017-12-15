@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=means are paths
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MEDIOS SON CAMINOS
+}}
+|Family=Estructura de Eventos como Lugares
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Movimiento
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=... las izquierdas, como siempre, se destruyen por la misma vía que conocen a ojos cerrados: su fragmentación histórica.
+|Example.Gloss=... the leftists as always refl destroy by the same path that they-know at eyes closed their fragmentation historic
+|Example.English translation=... leftists, as always, destroy themselves by the same path they know with their eyes closed: their historical fragmentation.
+|Example.Provenance=http://www.jornada.unam.mx/2013/03/05/opinion/020a2pol
+}}
+|Entered by=Joe, Karie,
+|Status=in development
+|LinkEnglish=MEANS ARE PATHS
+|Investigated for=Spanish
+}}

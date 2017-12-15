@@ -1,0 +1,19 @@
+{{Metaphor
+|Name gloss=change in amount of taxes is change in size of object
+|Aliases=
+|Tags=Program sources
+|Family=Metáforas de Impuestos
+|Metaphor Level=Specific
+|Source frame=Cambiar de tamaño
+|Target frame=Tributación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CANTIDAD ES TAMAÑO
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe
+|Status=in development, auto imported
+}}

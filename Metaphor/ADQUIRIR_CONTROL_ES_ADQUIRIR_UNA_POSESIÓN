@@ -1,0 +1,49 @@
+{{Metaphor
+|Name gloss=acquire control is acquire a possession
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADQUIRIR CONTROL ES ADQUIRIR UNA POSESIÓN
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL ES  POSESIÓN
+}}
+|Tags=tentative
+|Family=Gobernación
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Ganar posesión
+|Target frame=Control
+|Mappings={{Mapping
+|Target=entidad_controladora
+|Source=ganador
+}}{{Mapping
+|Target=capacidad_de_control
+|Source=posesión
+}}{{Mapping
+|Target=relación_de_control_estado.de.inicio
+|Source=consiguiendo_x-schema.acabado
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONTROL ES POSESIÓN
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Similar al caso de Chiapas, en Tlaxcala, el nuevo gobernador MARIANO GONZALEZ ZARUR apenas agarró el poder e inició férrea persecución contra ex presidentes municipales ...
+|Example.Gloss=Similar to-the case of Chiapas in Tlaxcala the new governor MARIANO GONZALEZ ZARUR barely grabbed the power and began iron persecution against ex presidents municipal ...
+|Example.English translation=Similar to the case of Chiapas, in Tlaxcala the new governor MARIANO GONZALEZ ZARUR had barely taken power when he began rigidly persecuting former municipal presidents ...
+|Example.Provenance=http://www.meridianodehoy.mx/columnistas/5340.htm
+|Example.Comments="agarró el poder"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La operadora mexicana de restaurantes Alsea dijo el lunes que acordó con la estadunidense Starbucks Corp tomar el control del 100 por ciento de las operaciones de las populares cafeterías en México.
+|Example.Gloss=the operator Mexican of restaurants Alsea said the Monday that agreed with the U.S. Starbucks Corp. take the control of 100 percent of the operations of the popular cafes in Mexico
+|Example.English translation=Alsea restaurants Mexican operator said Monday it agreed with the U.S. Starbucks Corp. take control of 100 percent of the operations of the popular cafes in Mexico.
+|Example.Provenance=http://www.jornada.unam.mx/ultimas/2013/04/01/1758868-alsea-dice-obtiene-control-total-de-cafeterias-starbucks-en-mexico
+|Example.Comments="tomar el control"
+}}
+|Entered by=Oana, Joe, Karie,
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=ATTAINING CONTROL IS GAINING A POSSESSION
+|Investigated for=Spanish
+|Relevant LUs=
+}}

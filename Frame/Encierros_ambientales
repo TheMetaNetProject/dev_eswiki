@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=enclosures environmental
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Características geográficas
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimento al movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Confinamiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infierno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cueva.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caverna.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zanja.n
+}}
+|LinkEnglish=Sunken confinement
+}}

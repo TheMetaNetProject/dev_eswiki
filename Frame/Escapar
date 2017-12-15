@@ -1,0 +1,64 @@
+{{Frame
+|Name gloss=escaping
+|Tags=Program sources
+|Status=auto imported
+|Entered by=unknown
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Salir de un lugar indeseable
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Región delimitada
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evadir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evasión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rehuir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=eludir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fugar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escape.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llegar lejos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escaparse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escapar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fugarse.v
+}}
+|LinkEnglish=Moving out of an undesirable location
+}}

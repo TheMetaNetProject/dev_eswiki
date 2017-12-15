@@ -1,0 +1,23 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Derechos; Expresión en la sociedad; Libertad; Medio de comunicación; Participación ciudadana; Gobierno; Institución gubernamental; Igualdad política; Ideología,
+
+Dec 2014 (KMM) : added Derechos back in Concept
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

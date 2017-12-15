@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=adversity/hardship
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=actor
+|Role.Name gloss=actor
+}}{{Role
+|Role.Name=objetivo
+|Role.Name gloss=objective
+}}{{Role
+|Role.Name=dificultad
+|Role.Name gloss=difficulty
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción propositiva
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adversidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dificultad.n
+}}
+|LinkEnglish=Difficulty
+|Applicability=Spanish
+}}

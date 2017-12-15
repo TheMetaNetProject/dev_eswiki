@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=covering
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Acceso físico a un objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cobertura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cubrir.v
+}}
+|LinkEnglish=Visual obstruction
+}}

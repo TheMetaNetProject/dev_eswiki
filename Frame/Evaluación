@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=evaluation
+|Family=Esquemas de evaluación
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=In order to be able to evaluate an evaluee's behavior, the evaluator needs to be able to know what the evaluee is doing.
+|Inference.Type=precondition
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evaluación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=evaluar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reevaluación.n
+}}
+|LinkEnglish=Evaluation
+|Applicability=Spanish
+}}

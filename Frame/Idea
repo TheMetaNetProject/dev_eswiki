@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=idea
+|FrameNet frame=Coming_up_with
+|Family=Esquemas excluidos
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Conocimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=idea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concepto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concepción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=noción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pensamiento.n
+}}
+|LinkEnglish=Idea
+|Applicability=Spanish
+}}

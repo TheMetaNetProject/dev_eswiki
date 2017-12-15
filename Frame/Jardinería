@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=gardening
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=horticultura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paisajismo.n
+}}
+|LinkEnglish=Gardening
+|Applicability=Spanish
+}}

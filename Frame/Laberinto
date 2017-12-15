@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=maze
+|Description=difficult and confusing pathways (into or out of a location)
+|Type=Frame
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Confinamiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=laberinto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dédalo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nudo gordiano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enredo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=embrollo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ambages.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=espiral.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nudo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=telaraña.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=círculo.n
+}}
+|LinkEnglish=Maze
+|Applicability=Spanish
+}}

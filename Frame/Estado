@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=State
+|Family=Esquemas que se relacionan con estados
+|Type=Cog
+|Status=in development
+|Entered by=Oana, Karie, 
+|Roles={{Role
+|Role.Name=estado
+|Role.Name gloss=state
+|Role.Definition=un parámetro que se asocia directamente con una entidad sobre un cierto período de tiempo 
+}}{{Role
+|Role.Name=posibles_valores_de_estado
+|Role.Name gloss=possible_state_values
+}}{{Role
+|Role.Name=valor_perfilado_de_estado
+|Role.Name gloss=profiled_state_value
+|Role.Definition=un valor particular de un estado
+}}{{Role
+|Role.Name=entidad
+|Role.Name gloss=entity
+|Role.Definition=la entidad a la que un estado se asocia
+}}{{Role
+|Role.Name=estado_x-esquema
+|Role.Name gloss=state_x-schema
+|Role.Type=estativo o cambio de estado
+|Role.FrameNet role=valores particulares de un estado que se asocian a una entidad con el tiempo 
+}}{{Role
+|Role.Name=relación_de_estado-entidad
+|Role.Name gloss=state-entity_relation
+|Role.Type=relación
+|Role.Definition=la relación entre el estado y la entidad con la que se asocia un estado o al que se le atribuye
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Entidad
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relación
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Experimentar un estado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=State
+|Applicability=Spanish
+}}

@@ -1,0 +1,22 @@
+{{Frame
+|Name gloss=region surrounding
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rodear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=periférico.adj
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adyacente.adj
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=exterior.adj
+}}
+|LinkEnglish=Region
+|Applicability=Spanish
+}}

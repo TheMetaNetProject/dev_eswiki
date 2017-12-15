@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Company
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empresa
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=negocio
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=compañía
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corporación
+}}
+|LinkEnglish=Company
+|Applicability=Spanish
+}}

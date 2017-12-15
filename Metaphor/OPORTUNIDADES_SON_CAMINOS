@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=opportunities are paths
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=OPORTUNIDADES SON CAMINOS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=OPORTUNIDADES EDUCATIVAS SON CAMINOS
+}}
+|Comments=location event structure metaphor *need metaphor family*
+|Family=Estructura de Eventos como Lugares,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Camino
+|Target frame=Oportunidad
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=MEDIOS SON CAMINOS
+}}
+|Entailments=
+|Examples=
+|Entered by=Karie,
+|Status=in development
+|LinkEnglish=OPPORTUNITIES ARE PATHS
+|Investigated for=Spanish
+}}

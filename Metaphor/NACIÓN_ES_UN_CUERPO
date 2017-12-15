@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=nation is a body
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NACIÓN ES UN CUERPO
+}}
+|Tags=tentative
+|Family=Gobernación
+|Metaphor Type=Composed/complex
+|Source frame=Cuerpo
+|Target frame=Gobierno
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=GRUPO ES UN CUERPO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Europa, en su calidad de enfermo convaleciente, también sufriría los impactos.
+|Example.Gloss=Europe, as its quality of patient convalescent  also would.suffer the impacts
+|Example.English translation=Europe, as a convalescent patient, would also suffer impacts.
+|Example.Provenance=http://eleconomista.com.mx/caja-fuerte/2012/12/27/fiscal-cliff-eu-juega-ser-republica-bananera
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=... las promesas formuladas ayer por Enrique Peña Nieto de que su gobierno dará un "nuevo rostro" al campo ...
+|Example.Gloss=... the promises formulated yesterday by Enrique Peña Nieto of that his government will give a new face to-the countryside ...
+|Example.English translation=... the promises made yesterday by Enrique Peña Nieto that his government would give a "new face" to the [Mexican] countryside ...
+|Example.Provenance=http://www.jornada.unam.mx/2013/01/07/opinion/002a1edi
+}}{{Example
+|Example.Language=Spanish
+}}
+|Entered by=Oana, Joe, Karie
+|Status=in development
+|Investigated for=Spanish
+|Relevant LUs=
+}}

@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=campaign electoral
+|Family=Esquemas de Gobernación,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Institución electoral
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elegir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=candidado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=campaña.n
+}}
+|LinkEnglish=Election
+|Applicability=Spanish
+}}

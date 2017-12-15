@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=Affection is warmth
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AFFECTION IS WARMTH
+}}
+|Family=Metáforas de Emociones
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Temperatura_del_cuerpo
+|Target frame=Cariño
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=INTIMIDAD ES PROXIMIDAD
+|Related metaphor.Description=necesitamos algo más espicifica
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=INTENSIDAD EMOCIONAL ES TEMPERATURA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La gente me dio una bienvenida cálida.
+|Example.Gloss=det people 1s.obj give.pret.3s indef welcome warm
+|Example.English translation='The people gave me a warm welcome.'
+}}
+|Entered by=M.E.
+|Status=in development
+|Investigated for=Spanish
+}}

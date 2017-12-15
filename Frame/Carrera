@@ -1,0 +1,67 @@
+{{Frame
+|Name gloss=race
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carrera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vuelta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=correr.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ritmo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perseguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corredor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=llegar.v rezagado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tener.v vueltas de ventaja
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esprintar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=correr.v con toda velocidad
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aguantar.v el ritmo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguir.v el ritmo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marcar.v el ritmo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marcar.v el paso
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acelerar.v el paso
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acelerar.v el ritmo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v delante de 
+}}
+|LinkEnglish=Race
+|Applicability=Spanish
+}}

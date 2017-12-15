@@ -1,0 +1,44 @@
+{{Metaphor
+|Name gloss=causes are forces
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSAS SON FUERZAS
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Fuerza
+|Target frame=Causación
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El sector automotriz ayudó a dar un nuevo empuje a las exportaciones mexicanas en abril.
+|Example.Gloss=The sector automotive helped to give a new impetus to the exports Mexican in April
+|Example.English translation=The automotive sector helped to give a new impetus to Mexican exports in April.
+|Example.Provenance=http://eleconomista.com.mx/industrias/2012/05/28/sector-automotriz-da-nuevo-empuje-las-exportaciones
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Obama, Clinton, sus aliados y la mafia mediática no se dan por enterados, siguen empujando el cambio de régimen
+|Example.Gloss=Obama Clinton their allies and the mafia media not they give for aware follow pushing the change of regime
+|Example.English translation=Obama, Clinton, their allies, and the media mafia feign ignorance and continue pushing for regime change.
+|Example.Provenance=http://www.revistarepublica.com.mx/pragmatismo-esquizofrenico/
+|Example.Comments="empujando el cambio de régimen"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Chano Radilla ... tuvo la oportunidad de conocer las tristes condiciones en las que laboraban las gentes del campo. Esto lo empujó a sumarse al movimiento agrario,
+|Example.Gloss=Chano Radilla ... had the opportunity of know the sad conditions in which that worked the people of-the field This him pushed to join to-the movement agrarian
+|Example.English translation=Chano Radilla ... had the opportunity to witness the sad conditions in which farmworkers labored. This pushed him to join the movement for agrarian reform.
+|Example.Provenance=http://elsoldechilpancingo.mx/editoriales/silueta/violenta-muerte-de-chano-radilla/
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La competencia detona procesos de inversión e innovación, fomentando así el dinamismo económico y social de las naciones.
+|Example.Gloss=the competition triggers processes of investment and innovation, promoting thereby the dynamism economic and social of the nations
+|Example.English translation=Competition triggers investment and innovation processes, thereby promoting economic and social dynamism of nations.
+|Example.Provenance=http://eleconomista.com.mx/sociedad/2013/03/12/habra-maxima-competencia-telecomunicaciones-pena-nieto
+|Example.Comments="la competencia denota procesos de inversión e innovación"
+}}
+|Entered by=Oana, Karie, Joe
+|Status=in development
+|LinkEnglish=CAUSES ARE FORCES
+|Investigated for=Spanish
+}}

@@ -1,0 +1,83 @@
+{{Frame
+|Name gloss=motion self-propelled
+|Family=Esquemas de movimiento,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=entidad_autopropulsada
+|Role.Name gloss=self_mover
+}}{{Role
+|Role.Name=parte_corporal
+|Role.Name gloss=body_part
+}}{{Role
+|Role.Name=partida
+|Role.Name gloss=source
+|Role.Definition=la ubicación inicial de la entidad_autopropulsada
+}}{{Role
+|Role.Name=ruta
+|Role.Name gloss=path
+|Role.Definition=la ubicación en curso de  la entidad_autopropulsada
+}}{{Role
+|Role.Name=meta
+|Role.Name gloss=goal
+|Role.Definition=la ubicación final de la entidad_autopropulsada
+}}{{Role
+|Role.Name=esfuerzo
+|Role.Name gloss=effort
+}}{{Role
+|Role.Name=velocidad
+|Role.Name gloss=speed
+}}{{Role
+|Role.Name=dirección
+|Role.Name gloss=direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento a lo largo de un camino
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Entidad animado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=correr.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esprintar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pacearse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gatear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reptar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trepar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=movilidad
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disminuir.v la velocidad 
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desacelerar.v 
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lentificarse.v
+}}
+|LinkEnglish=Self propelled motion
+|Applicability=Spanish
+}}

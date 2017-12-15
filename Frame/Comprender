@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Understanding
+|Family=Esquemas de Cognición, Esquemas excluidos, 
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=el_que_comprende
+|Role.Name gloss=understanding_person
+|Role.Type=entidad
+}}{{Role
+|Role.Name=comprender_x-esquema
+|Role.Name gloss=understanding_x-schema
+|Role.Type=x-esquema
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comprender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=entender.v
+}}
+|LinkEnglish=Understanding
+|Applicability=Spanish
+}}

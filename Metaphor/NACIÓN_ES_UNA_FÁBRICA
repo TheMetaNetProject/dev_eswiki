@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=nation is a factory
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NACIÓN ES UNA FÁBRICA
+}}
+|Family=Gobernación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Nación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=NACIÓN ES UNA ESTRUCTURA FÍSICA COMPLEJA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Datos como este confirman que México es una extraordinaria fábrica de ricos y un lugar fabuloso para hacer fortunas, pero concentrada.
+|Example.Gloss=Data like this confirms that Mexico is an extraordinary factory of rich and a place fabulous for to.make fortunes but concentrated
+|Example.English translation="Information such as this confirms that Mexico is an extraordinary rich factory and a fabulous place to make fortunes, but it is concentrated."
+|Example.Provenance=http://eleconomista.com.mx/columnas/columna-especial-politica/2012/03/26/mexico-fabrica-ricos
+|Example.Comments="México es una extraordinaria fábrica de ricos"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

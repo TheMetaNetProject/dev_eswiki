@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=assets
+|Type=Frame
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recursos económicos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acciones.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=activos.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=valores.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bien mueble.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=activo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=valor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=activo realizable.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=activo de capital.n
+}}
+|LinkEnglish=Assets
+|Applicability=Spanish
+}}

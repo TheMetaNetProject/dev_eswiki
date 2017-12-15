@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=eliminating problems social is cure a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ELIMINAR PROBLEMAS SOCIALES ES CURAR UNA ENFERMEDAD
+}}
+|Description=e.g. curar la pobreza
+|Family=Metáforas de Pobreza, Metáforas de aflicciones físicas, Metáforas de pobreza como problema social, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ELIMINAR PROBLEMAS SOCIALES ES CURAR UNA AFLICCIÓN FÍSICA
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

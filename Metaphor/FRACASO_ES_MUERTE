@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=failure is death
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FRACASO ES MUERTE
+}}
+|Family=Metáforas de la Estructura del Evento, Metáforas de Estados
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Muerte
+|Target frame=Fracaso
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DAÑO PSICOLÓGICO ES DAÑO FÍSICO
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=FAILURE IS DEATH
+|Investigated for=Spanish
+}}

@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=foods rich
+|Family=Esquemas de Comida,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Alimento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pastel.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=torta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dulce.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=postre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tarta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golosina.n
+}}
+|LinkEnglish=Rich food
+|Applicability=Spanish
+}}

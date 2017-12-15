@@ -1,0 +1,20 @@
+{{Metaphor
+|Name gloss=aid to the action is aide to motion
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AUXILIO A LA ACCIÓN ES AUXILIO AL MOVIMIENTO
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Movimiento
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,100 @@
+{{Frame
+|Name gloss=warfare
+|Family=Esquemas de conflicto físico,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Joe, Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Combate
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atacar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indefendible.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrategia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ataque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vencernv
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guerra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conquistar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=batalla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=combatir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=combate.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bombardear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=invadir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=armas.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arsenal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=armamento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=armadura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pistola.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revólver.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enemigo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=defender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=defensa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alianza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revolucionario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bastión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ejército.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retroceso.n
+}}
+|LinkEnglish=War
+|Applicability=Spanish
+}}
+revolución.n

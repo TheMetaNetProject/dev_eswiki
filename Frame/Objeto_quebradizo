@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=object brittle
+|Comments=add LUs
+|Family=Esquemas de entidades, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quebradizo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frágil.a
+}}
+|LinkEnglish=Brittle object
+|Applicability=Spanish
+}}

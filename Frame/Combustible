@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=fuel
+|Family=Esquemas de Recursos,
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Energía
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=combustible.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gasolina.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuel.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carburante.n
+}}
+|LinkEnglish=Fuel
+|Applicability=Spanish
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=location
+|Family=Esquemas de ubicación,
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ubicación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puesto.n
+}}
+|LinkEnglish=Location
+|Applicability=Spanish
+}}

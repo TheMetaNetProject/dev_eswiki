@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=participation citizen
+|Family=Esquemas de Democracia, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ciudadanos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cívico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=civil.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cívica.a
+}}
+|LinkEnglish=Citizen participation
+|Applicability=Spanish
+}}

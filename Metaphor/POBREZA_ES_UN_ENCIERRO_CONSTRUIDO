@@ -1,0 +1,53 @@
+{{Metaphor
+|Name gloss=poverty is an enclosure constructed
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES UN ENCIERRO CONSTRUIDO
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Encierros construidos
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES UN LUGAR
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=LIBERTAD DE ACCIÓN ES LIBERTAD DE MOVIMIENTO
+|Related metaphor.Description=La pobreza limita la libertad de acción así como un encierro limita la libertad de movimiento.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La cárcel de la pobreza los obligaba a vivir y producir, sin más recursos que el ingenio, la alegría de vivir y de lo que encuentran en el desván de la naturaleza.
+|Example.Gloss=the prison of the poverty them obligates to live and produce without more resources than the ingenuity the joy of living and of what that they-find in the attic of the nature
+|Example.English translation=The prison of poverty forces them to live and produce with nothing more than their own ingenuity, joy of living, and whatever they find in nature's attic.
+|Example.Provenance=http://www.jornada.unam.mx/1999/10/12/oja-portazo.html
+|Example.Comments=cárcel de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Muchos millones de sus habitantes se han visto liberados con ello de la prisión de la pobreza perpetua.
+|Example.Gloss=many millions of its residents refl have seen liberated with that from the prison of the poverty perpetual
+|Example.English translation=Many millions of residents have seen themselves liberated in this way from the prison of perpetual poverty.
+|Example.Provenance=http://www.cinu.org.mx/prensa/comunicados/2006/06104SG_DiscAsambleaGeneral.htm
+|Example.Comments=prisión de la pobreza perpetua
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Hoy, Amnistía Internacional alza su voz  denunciar otra prisión que, a pesar de ser invisible, significa una catástrofe de derechos humanos: la prisión de la pobreza.
+|Example.Gloss=today Amnesty International raises its voice denounce other prison that in spite of being invisible signifies a catastrophe of rights humans the prison of the poverty
+|Example.English translation=Today, Amnesty International raises its voice to denounce another prison that, in spite of being invisble, represents a human rights catastrophe: the prison of poverty.
+|Example.Provenance=http://amnistia.org.mx/contenido/2009/06/08/palabras-de-alberto-herrera-aragon-director-ejecutivo-de-amnistia-internacional-mexico-con-motivo-del-lanzamiento-de-la-campana-exige-dignidad/
+|Example.Comments=prisión de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text="Son muy complicados ganarlos para nosotros" porque son cercos de pobreza, donde ahí los gobiernos priistas se han aprovechado de las necesidades de la gente con costales de papas y dinero.
+|Example.Gloss=they-are very complicated win-then for us because they-are enclosures of poverty where there the governments PRI refl they-have taken-advantage of the necessities of the people with sacks of potatoes and cash
+|Example.English translation="It is very complicated to win [those electoral regions] for us" because they are bastions of poverty, where the PRI governments have taken advantage of the people's need with sacks of potatoes and cash.
+|Example.Provenance=http://www.elobservador.mx/index.php/opinion/atando-cabos?start=6
+|Example.Comments=cercos de pobreza
+}}
+|Entered by=Joe,
+|Status=in development
+|Investigated for=Spanish
+}}

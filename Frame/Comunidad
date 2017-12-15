@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=community
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidades colectivas
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comunidad.n
+}}
+|LinkEnglish=Community
+|Applicability=Spanish
+}}

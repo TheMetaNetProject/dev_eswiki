@@ -1,0 +1,42 @@
+{{Metaphor
+|Name gloss=education is a structure physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UNA ESTRUCTURA FÍSICA
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UN OBJETO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UN RECURSO
+}}
+|Family=Educación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=EDUCACIÓN ES UN OBJETO
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=EDUCACIÓN ES UN RECURSO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Primero como ciudadano mexicano y segundo como académico en México escribo estas letras para reflexionar desde la cara social de este prisma educativo.
+|Example.Gloss=First as citizen Mexican and second as academic in Mexico I write these letters for to.reflect from the face social of this prism educational
+|Example.English translation=First as a Mexican citizen and second as an academic in Mexico I write these letters to reflect from the social side of this educational prism.
+|Example.Provenance=http://educacionadebate.org/43898/la-compleja-educacion-en-mexico-algunas-reflexiones-faltantes-abel-leyva/
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=En México, la educación pública ha sido uno de los pilares de la política social
+|Example.Gloss=In Mexico, the education public has been one of the pillars of the policy social
+|Example.English translation="In Mexico, public education has been one of the pillars of social policy"
+|Example.Provenance=http://www.cencos.org/node/28889
+|Example.Comments="educación pública ha sido uno de los pilares"
+}}
+|Entered by=Karie,
+|Last reviewed by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

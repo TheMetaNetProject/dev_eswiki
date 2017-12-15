@@ -1,0 +1,46 @@
+{{Metaphor
+|Name gloss=have control is up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TENER CONTROL ES ARRIBA
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Verticalidad
+|Target frame=Control
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Tengo control sobre ella.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Estoy por encima de la situación.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Está en una posición superior.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Está en la cumbre de su poder.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Está en el escalón más alto.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El equipo de filmación ... se desplazaba por la pista y entre las parejas de bailadores bajo las órdenes de Matt.
+|Example.Gloss=the team of filming ... itself moved for the floor and among the pairs of dancers under the orders of Matt.
+|Example.English translation=The film crew ... moved around the floor and among the dancing couples under the orders of Matt.
+|Example.Provenance=http://www.jornada.unam.mx/2013/03/02/opinion/a08o1esp
+|Example.Comments="bajo las órdenes"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Muchos perderían el control que tienen sobre sus obras.
+|Example.Gloss=Many would-lose the control that have over their work
+|Example.English translation=Many would lose the control that they have over their work.
+|Example.Provenance=http://www.politicadigital.com.mx/?P=leernoticiaprint&Article=21452
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=CONTROL IS VERTICALITY
+|Investigated for=Spanish
+}}

@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=drugs
+|Family=Esquemas de daño,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Problemas sociales
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Adicción
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Crimen
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=droga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=narcótico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cocaína.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=heroína.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marihuana.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mota.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coca.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hierba.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=yerba.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grifa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alucinógeno.n
+}}
+|LinkEnglish=Drugs
+|Applicability=Spanish
+}}

@@ -1,0 +1,84 @@
+{{Frame
+|Name gloss=Quantity
+|Comments=LUs reducir.v, reducirse.v, reduccion.n temporarily removed. Please add back later.
+|Family=Esquemas de escala, Esquemas excluidos
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mas.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=menos.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aumentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acrecentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acrecentarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=incremento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aumento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=añadir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engordar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disminuir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disminuirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disminución.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=decrecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=monto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cantidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=importe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=añadir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grueso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reducción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=multiplicación.n
+}}
+|LinkEnglish=Quantity
+|Applicability=Spanish
+}}

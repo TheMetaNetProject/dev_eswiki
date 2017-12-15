@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=power is a possession
+|Aliases=
+|Family=Gobernación
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Posesión
+|Target frame=Poder
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=CONTROL ES POSESIÓN
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=PODER LEGÍTIMO ES UN OBJETO ENCOMENDADO
+}}{{Entailment
+|Entailment.Entailed metaphors=PODER ILEGÍTIMO ES UN OBJETO ROBADO
+}}
+|Examples=
+|Entered by=Oana,
+|Status=in development
+|LinkEnglish=POWER IS A POSSESSED OBJECT
+|Investigated for=Spanish
+}}

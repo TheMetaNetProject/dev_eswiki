@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=separation
+|Family=Esquemas de Imágenes, 
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Todo-parte
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=separación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=separar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dividir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=división.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=partirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dividido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=partido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=segregar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=segregación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=segmentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desvincular.v
+}}
+|LinkEnglish=Separation
+|Applicability=Spanish
+}}

@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=rights citizen are possessions
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DERECHOS CIUDADANOS SON POSESIONES
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=DERECHOS SON POSESIONES
+}}
+|Tags=tentative
+|Family=Gobernación
+|Metaphor Level=General
+|Source frame=Posesión
+|Target frame=Derechos
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=DERECHOS CIUDADANOS SON ESTRUCTURAS FÍSICAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Hay que dar la batalla para mantener el derecho a una educación pública, laica y gratuita
+|Example.Gloss=It.is that to.give the battle for to.keep the right to an education public, secular and free
+|Example.English translation=We must put up a fight to keep the right to a public education, secular and free.
+|Example.Provenance=http://www.jornada.unam.mx/2013/01/05/sociedad/025n1soc
+}}
+|Entered by=Oana, Karie
+|Status=in development
+|LinkEnglish=CITIZEN RIGHTS ARE POSSESSIONS
+|Investigated for=Spanish
+|Relevant LUs=
+}}

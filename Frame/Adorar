@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=worship
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Deidad
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción moral
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adorar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alabar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=venerar..v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oración.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=devoción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adoración.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=idolatrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ara.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rezo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rezar.v
+}}
+|LinkEnglish=Worship
+|Applicability=Spanish
+}}

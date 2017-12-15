@@ -1,0 +1,149 @@
+{{Frame
+|Name gloss=treating a affliction physical
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aflicción física
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Medicina
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Enfermedad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aliviar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paliar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paliativo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ameliorar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tratar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inyección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inyectar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rehabilitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tratamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=receta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prescripción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=curar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=curación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remedio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alivio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medicina.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prescribir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vendaje
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vendar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sanar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recetar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remediar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vacunar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vacuna.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=terapia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recuperar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recuperación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=convalencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=convalecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erradicación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=erradicar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adormecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=entumecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=doctor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=médico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paciente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cirujano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sanitización.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=esterilizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desinfectar.v
+}}
+|LinkEnglish=Treating a physical affliction
+}}

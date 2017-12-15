@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=institution
+|FrameNet frame=Institutions
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=institución_en_conjunto
+|Role.Name gloss=institution_whole
+}}{{Role
+|Role.Name=misión 
+|Role.Name gloss=mission
+}}{{Role
+|Role.Name=funciones
+|Role.Name gloss=functions
+}}{{Role
+|Role.Name=posiciones
+|Role.Name gloss=positions
+}}{{Role
+|Role.Name=titulares_de_posición
+|Role.Name gloss=position_holders
+}}{{Role
+|Role.Name=responsabilidades_de_posición 
+|Role.Name gloss=position_duties
+}}{{Role
+|Role.Name=estructura_de_institución
+|Role.Name gloss=instution_structure
+}}{{Role
+|Role.Name=normas
+|Role.Name gloss=rules
+}}{{Role
+|Role.Name=activos_físicos
+|Role.Name gloss=physical_assets
+}}{{Role
+|Role.Name=relaciones_de_posición
+|Role.Name gloss=position_relations
+}}{{Role
+|Role.Name=estado_funcional
+|Role.Name gloss=functional_status
+}}{{Role
+|Role.Name=estructura_de_autoridad
+|Role.Name gloss=authority_structure
+}}{{Role
+|Role.Name=fundamento_de_autoridad
+|Role.Name gloss=authority_base
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Institution
+|Applicability=Spanish
+}}

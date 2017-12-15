@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=education public
+|Family=Esquemas de Educación, Esquemas excluidos
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Entered by=unknown
+|Last reviewed by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Educación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=educación pública
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escuela público
+}}
+}}

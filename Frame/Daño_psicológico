@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=damage psychological
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atormentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afligir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=molestar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=torturar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hostigar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=meterse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=incomodar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fastidiar.v
+}}
+|LinkEnglish=Psychological harm
+|Applicability=Spanish
+}}

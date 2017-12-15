@@ -1,0 +1,40 @@
+{{Metaphor
+|Name gloss=democracy is a facade
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DEMOCRACIA ES UNA SUPERFICIE EXTERIOR
+}}
+|Comments=There are two dimensions to consider:
+
+1. Whether there is a different interior vs. exterior (facade, farce); whether there is an exterior while having an empty interior (husks, shells); Interior is understood as the 'expected interior' in the relevant frame.
+
+2. Whether the 'fooling' is intentional or not (there is an Evaluation frame). 
+
+Source frame is placeholder.
+|Family=Metáforas de Democracia
+|Metaphor Type=Composed/complex
+|Source frame=Obstrucciones a la visión
+|Target frame=Democracia
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Subrayó: “Por eso a estos políticos que brincan de partido en partido nosotros ya no les creemos ni les hacemos caso, su democracia es camuflada, sólo para engañar al pueblo.
+|Example.Gloss=he.stressed because that to these politicians that jump of party in party we already no them we.believe or them we.make case its democracy is camouflaged only for to.deceive to.the people
+|Example.English translation=He stressed: "That's why these politicians who jump from party to party, we no longer believe them or even pay attention, their democracy is camouflaged, only to deceive the people."
+|Example.Provenance=http://www.lajornadamichoacan.com.mx/2013/08/16/la-escuelita-zapatista-revisa-la-otra-democracia-en-su-ultima-sesion/
+|Example.Annotation="democracia es camuflada"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Muerto el líder, los sucesores buscan convertir al chavismo en una corporación como el PRI mexicano, que estuvo 70 años en el poder hasta 2000.  Es decir, gobernar con la fachada de la democracia pero traicionándola en la práctica.
+|Example.Gloss=dead the leader the successors look.for to.convert to.the chavism in a corporation like the PRI Mexican that spent 70 years in the power until 2000 it.is to.say to.govern with the facade of the democracy but betraying.it in the practice
+|Example.English translation="The leader dead, successors sought to convert chavism into a corporation like the Mexican PRI, who spent 70 years in power until 2000. It is to say, to govern with the facade of democracy but betraying it in practice."
+|Example.Provenance=http://internacional.elpais.com/internacional/2014/01/06/actualidad/1389034100_568076.html
+|Example.Annotation="fachada de la democracia"
+}}
+|Entered by=Oana
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=DEMOCRACY IS A FACADE
+|Investigated for=Spanish
+}}

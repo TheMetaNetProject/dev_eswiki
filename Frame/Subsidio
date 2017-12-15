@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=subsidy
+|Family=Esquemas de Gobierno, Esquemas económicos,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gobierno
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Dinero
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subsidio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=incentivo.n
+}}
+|LinkEnglish=Subsidy
+|Applicability=Spanish
+}}

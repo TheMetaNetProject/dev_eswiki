@@ -1,0 +1,28 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions
+|Comments=flagelo de la pobreza
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, "^(N&#124;VLfin&#124;A)") .
+    ?target (doc:hasPOS&#124;doc:hasRPOS) ?tpos .
+    FILTER regex(?tpos, "^N") .
+    ?ofword rdf:type doc:Word .
+    ?ofword doc:inSentence ?sent .
+    ?ofword doc:hasLemma "de"^^xsd:string .
+    ?ofword (doc:spmod&#124;doc:cc) ?source .
+    ?target doc:objprep ?ofword .
+}
+}}

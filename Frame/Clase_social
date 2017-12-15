@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=social class
+|Family=Esquemas de Clase Social
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clase.n social
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clase.n obrero
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sociedad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clase.n de ingreso
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grupo.n de ingreso
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=clase.n inferior
+}}
+|LinkEnglish=Social class
+|Applicability=Spanish
+}}

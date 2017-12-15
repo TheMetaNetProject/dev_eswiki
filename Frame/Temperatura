@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=temperature
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=temperatura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frío.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frialdad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calidez.n
+}}
+|LinkEnglish=Temperature
+|Applicability=Spanish
+}}

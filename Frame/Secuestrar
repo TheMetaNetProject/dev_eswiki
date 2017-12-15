@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=kidnapping
+|Type=Frame
+|Status=proposed
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name gloss=perpetrator
+}}{{Role
+|Role.Name gloss=victim
+}}{{Role
+|Role.Name gloss=manner
+}}{{Role
+|Role.Name gloss=means
+}}{{Role
+|Role.Name gloss=purpose
+}}{{Role
+|Role.Name gloss=source_location
+}}{{Role
+|Role.Name gloss=target_location
+}}{{Role
+|Role.Name gloss=time
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control de objetos
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Conseguir un objeto
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Posesión de un objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=secuestrar 
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=raptar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=secuestro
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rapto
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abducción
+}}
+|Applicability=Spanish
+}}

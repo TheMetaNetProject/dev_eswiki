@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=corruption institutional
+|Family=Esquemas de Gobernación,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Institución
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Corrupción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Institutional corruption
+|Applicability=Spanish
+}}

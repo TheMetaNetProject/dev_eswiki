@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=aids to motion toward up
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ayudas al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cuerda
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escalera
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peldaño
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escalón
+}}
+|LinkEnglish=Aid to upward motion
+}}

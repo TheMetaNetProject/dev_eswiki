@@ -1,0 +1,48 @@
+{{Metaphor
+|Name gloss=impediments to improve the state economic are forces restrictive
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPEDIMENTOS PARA MEJORAR EL ESTADO ECONÓMICO SON FUERZAS RESTRICTIVAS
+}}
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Fuerza física
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Es innegable que la pobreza restringe la capacidad de las personas de proponerse metas valiosas, así como de realizar estados de vida plenos.
+|Example.Gloss=it-is undeniable that the poverty restricts the capacity of the people of propose-themselves goals worthy like-this as of realize states of life full
+|Example.English translation=It is undeniable that poverty restricts people's capacity to set worthy goals, as well as realize a full life.
+|Example.Provenance=http://fomixcampeche.gob.mx/documentos/articulos_04/focare_04_caso_pobreza.pdf
+|Example.Comments=la pobreza restringe
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Así el mundo actual se enfrenta a una situación donde la creciente pobreza restringe aún más el acceso a los alimentos por parte de las mayorías, profundizando los problemas de desnutrición y hambre.
+|Example.Gloss=like-this the world present refl confronts to a situation where the growing poverty restricts even more the access to the foods by part of the majorities deepening the problems of malnutrition and hunger
+|Example.English translation=In this way, today's world confront's a situation where growing poverty further restricts access to food by the majority, deepening the problems of malnutrition and hunger.
+|Example.Provenance=http://archivo.lajornadajalisco.com.mx/2011/02/19/index.php?section=politica&article=008a1pol
+|Example.Comments=la creciente pobreza restringe
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Esto implica considerar un rango de factores que restringen a los pobres, incluyendo factores políticos, culturales y sociales.
+|Example.Gloss=This implies consider a range of factors that restrict to the poor including factors political cultural and social
+|Example.English translation=This implies considering a range of factors that restrict the poor, including political, cultural, and social factors.
+|Example.Provenance=http://contorno.org.mx/contorno/resources/media/pdf/RLA_VISION_AMPLIA_DESARROLLO.pdf
+|Example.Comments=factores que restringen a los pobres
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

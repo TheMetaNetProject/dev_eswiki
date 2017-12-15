@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=poverty is a maze
+|Aliases=
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=Specific
+|Source frame=Laberinto
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES CONFINAMIENTO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Uno de cada cuatro no puede pagar sus gastos de salud ni educación, con lo cual carecen de salida en el laberinto de la pobreza
+|Example.Provenance=http://www.jornada.unam.mx/2005/01/21/043n1soc.php?printver=1&fly=
+|Example.Annotation="laberinto de la pobreza"
+}}
+|Entered by=Karie, 
+|Status=in development
+|Investigated for=Spanish
+}}

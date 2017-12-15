@@ -1,0 +1,24 @@
+{{Frame
+|Comments=Created for IARPA testing, see LUs.
+
+Defined as some object used in order to carry out some action. 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herramienta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=utensilio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=instrumento.n
+}}
+|LinkEnglish=Instrument
+|Applicability=Spanish
+}}

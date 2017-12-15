@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=misfortune
+|Type=Frame
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Daño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=catástrofe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=accidente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infortunio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calamidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=accidental.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desafortunado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cataclismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=percance.n
+}}
+|LinkEnglish=Misfortune
+|Applicability=Spanish
+}}

@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=state mental
+|Family=Esquemas que se relacionan con estados, Esquemas excluidos
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=feliz.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alegre.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=felicidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alegría.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tristeza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=triste.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=celoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=miedoso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=temeroso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=eufórico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extático.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=euforia.n
+}}
+|Applicability=Spanish
+}}

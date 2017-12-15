@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=emotion is pressure in a container
+|Aliases=
+|Family=Metáforas de Emociones,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Presión en un contenedor
+|Target frame=Emoción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOCIONES SON SUSTANCIAS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EMOCIONES SON FUERZAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Este martes tuvo sus momentos tensos y también <b>explosiones</b> de alegría y decepción.
+|Example.English translation=This Tuesday had its tense moments as well as bursts of joy and deception.
+|Example.Provenance=http://cnnespanol.cnn.com/2012/11/07/los-mejores-tuits-del-dia-clave-de-la-eleccion-presidencial-en-ee-uu/
+}}
+|Entered by=M.E.,
+|Last reviewed by=Oana, Karie
+|Status=in development
+|LinkEnglish=EMOTION IS PRESSURE IN A CONTAINER
+|Investigated for=Spanish
+}}

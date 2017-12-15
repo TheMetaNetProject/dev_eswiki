@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=voting
+|Family=Esquemas de Gobierno,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Toma de decisiones gubernamentales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=votar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=voto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=votación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=votante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=elector.n
+}}
+|LinkEnglish=Voting
+|Applicability=Spanish
+}}

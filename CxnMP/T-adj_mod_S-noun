@@ -1,0 +1,24 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-adj_mod_S-noun
+|CxnMPDescription= adjective noun modification
+|Comments=crecimiento=crecimiento=NC=10 económico=económico=ADJ=11
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?tpos, "^(J&#124;A)") .
+    FILTER regex(?spos, "^N") .
+    ?target doc:adjmod ?source .    
+}
+}}

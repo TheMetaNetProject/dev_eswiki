@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=difficulties in action
+|Family=Esquemas de Acción
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Acción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dificultad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adversidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=complicación.n
+}}
+|LinkEnglish=Difficulties in action
+|Applicability=Spanish
+}}
+I erased 'crisis' from the frame because it was causing too many false positives. (KMM, 14Nov2013)
+problema.n [1 dec 2013] kmm

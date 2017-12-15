@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=resources economic are foodstuff
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RECURSOS ECONÓMICOS SON ALIMENTO
+}}
+|Tags=Program sources
+|Family=Metáforas de Riqueza,
+|Metaphor Level=Specific
+|Source frame=Alimento
+|Target frame=Recursos económicos
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=RECURSOS SON COMIDA
+}}
+|Entailments=
+|Examples=
+|Entered by=Unknown,
+|Last reviewed by=Karie, Joe
+|Status=in development, auto imported
+}}

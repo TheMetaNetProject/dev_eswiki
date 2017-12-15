@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Control
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=entidad_que_controla
+}}{{Role
+|Role.Name=entidad_dependente
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=controlar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mandar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manejar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conducir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manipular.v
+}}
+|LinkEnglish=Control
+|Applicability=Spanish
+}}

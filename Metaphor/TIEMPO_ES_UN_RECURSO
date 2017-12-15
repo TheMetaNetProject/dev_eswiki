@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=TIME IS A RESOURCE
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIEMPO ES UN RECURSO LIMITADO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=TIEMPO ES UN RECURSO
+}}
+|Family=Metáforas del Tiempo
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Recurso
+|Target frame=Tiempo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TIEMPO ES UN ENTIDAD
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana, Karie,
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=TIME IS A RESOURCE
+|Investigated for=Spanish
+}}

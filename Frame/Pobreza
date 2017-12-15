@@ -1,0 +1,110 @@
+{{Frame
+|Name gloss=Poverty
+|FrameNet frame=Wealthiness
+|Comments=old frame family = Esquemas económicos,
+
+removed "insolvente.a"
+|Family=Esquemas de Pobreza,
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie,
+|Roles={{Role
+|Role.Name=entidad_empobrecido
+|Role.Name gloss=impoverished_entity
+}}{{Role
+|Role.Name=cantidad_de_recursos
+|Role.Name gloss=amount_of_resources
+}}{{Role
+|Role.Name=grado_de_pobreza
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Riqueza
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Problemas sociales
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estatus Económico
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estado económico
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Los pobres
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pobreza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indigencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=miseria.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=privación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=penuria.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pobreza.n extrema
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=extrema pobreza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pobre.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pobre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=superpobre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=superpobre.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=endeudado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bancarroto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indigente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indigente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bancarrota.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mendicidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=línea de la pobreza
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=línea de pobreza
+}}
+|LinkEnglish=Poverty
+|Applicability=Spanish
+}}

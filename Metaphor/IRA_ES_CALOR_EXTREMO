@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=rage is heat external
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Temperatura
+|Target frame=Ira
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=INTENSIDAD EMOCIONAL ES TEMPERATURA
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Insultos, provocaciones y acoso del gigante de la guerra, incendia la ira musulmana ...
+|Example.Gloss=insults provocations and harassment of-the giant of the war ignites the rage muslim ...
+|Example.English translation=Insults, provocation, and harassment from the warmongering giant ignites Muslim rage ...
+|Example.Provenance=http://www.revistarepublica.com.mx/pragmatismo-esquizofrenico/
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|Investigated for=Spanish
+}}

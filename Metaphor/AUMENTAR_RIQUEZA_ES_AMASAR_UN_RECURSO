@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=increasing wealth is amassing a resource
+|Aliases=
+|Family=Metáforas de Riqueza, 
+|Source frame=Amasar
+|Target frame=Riqueza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=RIQUEZA ES UN RECURSO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=afirma el Papa que la acumulación de riquezas es 'egoista'
+|Example.English translation=The Pope says that the accumulation of wealth is 'selfish'
+|Example.Provenance=http://www.excelsior.com.mx/global/2013/06/21/905221
+|Example.Annotation="acumulación de riquezas"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

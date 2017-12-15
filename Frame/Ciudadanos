@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=citizens
+|Family=Esquemas de Gobierno,
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Persona
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Entidad sintiente
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ciudadano.n
+}}
+|LinkEnglish=Citizens
+|Applicability=Spanish
+}}

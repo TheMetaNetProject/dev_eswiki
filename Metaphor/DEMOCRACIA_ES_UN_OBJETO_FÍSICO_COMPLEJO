@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=democracy is an object physical complex
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DEMOCRACIA ES UN OBJETO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=DEMOCRACIA ES UN OBJETO FÍSICO
+}}
+|Family=Metáforas de Democracia,
+|Source frame=Objeto físico complejo
+|Target frame=Democracia
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La construcción de la democracia
+|Example.Gloss=the construction of the democracy
+|Example.English translation="The construction of democracy"
+|Example.Provenance=http://www.eluniversal.com.mx/nacion/139441.html
+|Example.Annotation="construcción de la democracia"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Una democracia se construye con opciones, por ello, México requiere nuevas alternativas y propuestas que permitan alcanzar el máximo histórico que es, consolidar nuestra democracia.  
+|Example.Gloss=a democracy refl. constructed with options because this Mexico requires new alternatives and proposals that permit to.acheive the maximum historical that is to.consolidate our democracy
+|Example.English translation="A democracy is built with options, therefore, Mexico requires new alternatives and proposals to achieve the record high that is, consolidating our democracy."
+|Example.Provenance=http://www.milenio.com/firmas/alfredo_alcala_montano/Mexico-dividido-izquierda-derecha_18_194560604.html
+|Example.Annotation="una democracia se construye"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

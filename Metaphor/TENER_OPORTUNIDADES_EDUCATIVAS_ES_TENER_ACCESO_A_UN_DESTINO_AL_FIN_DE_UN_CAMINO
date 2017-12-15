@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=to.have opportunities educational is to.have access to a destination at.the end of a path
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TENER OPORTUNIDADES EDUCATIVAS ES TENER ACCESO A UN DESTINO AL FIN DE UN CAMINO
+}}
+|Comments=*location event structure - special case:education"
+|Family=Educación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Partida-ruta-meta
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=OPORTUNIDADES SON CAMINOS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=facilidad de tener oportunidades educativas 
+|Entailment.Source inference=facilidad de acceso a un destino al fin de un camino
+|Entailment.Entailed metaphors=FACILIDAD DE TENER OPORTUNIDADES EDUCATIVAS ES FACILIDAD DE TENER ACCESO A UN DESTINO AL FIN DE UN CAMINO
+}}
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La educación en México no va por buen camino.
+|Example.Gloss=The education in Mexico not going by good path
+|Example.English translation="The education in Mexico is not on the right track."
+|Example.Provenance=http://www.cronica.com.mx/notas/2012/639519.html
+|Example.Comments="ir por buen camino" is a popular Spanish idiom meaning "to be on the right way/road/path/track"
+}}{{Example
+|Example.Language=Spanish
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

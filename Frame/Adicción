@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=addiction
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Drogas
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aflicción física
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Problemas sociales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adicción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=drogadicción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adicto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=drogadicto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=drogata.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hábito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=habito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vicio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enganchado.n
+}}
+|LinkEnglish=Addiction
+|Applicability=Spanish
+}}

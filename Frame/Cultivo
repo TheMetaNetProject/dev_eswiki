@@ -1,0 +1,82 @@
+{{Frame
+|Name gloss=cultivation
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles={{Role
+|Role.Name=cultivador
+|Role.Name gloss=cultivator
+}}{{Role
+|Role.Name=lo_cultivado
+|Role.Name gloss=cultivatee
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Planta
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cultivo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cultivación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cultivar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=granja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cosecha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cosechar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sembrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agricultor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cultivador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=granjero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plantación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acequia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=semilla.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=siembra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=segador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jardín.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huerto.n
+}}
+|LinkEnglish=Cultivation
+|Applicability=Spanish
+}}

@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=paths towards out of a location
+|Family=Esquemas de ubicación, Esquemas de movimiento, 
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Camino
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chimenea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conducto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escape.n
+}}
+|LinkEnglish=Paths out of a location
+|Applicability=Spanish
+}}

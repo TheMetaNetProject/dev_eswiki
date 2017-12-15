@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=bread
+|Family=Esquemas de Comida,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Comida
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Alimento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pan.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=migajas.n
+}}
+|Applicability=Spanish
+}}

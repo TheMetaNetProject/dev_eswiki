@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=symptoms of affliction physical
+|Comments=There is no separate 'symptoms' frame in English, only Disease and Physical affliction.
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aflicción física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=síntoma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=síndrome.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vestigio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=huella.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=malsano.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermizo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infectado.a
+}}
+}}

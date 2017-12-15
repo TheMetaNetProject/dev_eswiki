@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=classroom
+|Family=Esquemas de Educación, Esquemas excluidos
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aula.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estudiante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maestro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=profesora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alumno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=conocimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aprendizaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enseñar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=educar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escritorio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pupitre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pizarra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escuela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=condiscípulo.n
+}}
+|Applicability=Spanish
+}}

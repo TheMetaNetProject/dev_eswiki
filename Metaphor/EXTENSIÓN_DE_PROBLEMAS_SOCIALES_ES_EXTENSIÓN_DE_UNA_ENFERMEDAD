@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=extent of social problems is extent of a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EXTENSIÓN DE PROBLEMAS SOCIALES ES EXTENSIÓN DE UNA ENFERMEDAD
+}}
+|Family=Gobernación, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

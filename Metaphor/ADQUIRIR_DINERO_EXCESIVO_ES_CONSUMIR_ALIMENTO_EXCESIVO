@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=acquiring money excessive is consuming foodstuff excessive
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADQUIRIR DINERO EXCESIVO ES CONSUMIR ALIMENTO EXCESIVO
+}}
+|Tags=Program sources
+|Family=Metáforas de Riqueza
+|Metaphor Type=Entailed
+|Source frame=Alimento
+|Target frame=Riqueza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ADQUIRIR DINERO ES CONSUMIR COMIDA
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ADQUIRIR RECURSOS EXCESIVO ES CONSUMIR ALIMENTO EXCESIVO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=RECURSOS ECONÓMICOS SON ALIMENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=DINERO ES COMIDA
+}}
+|Entailments=
+|Examples=
+|Entered by=Unknown,
+|Last reviewed by=Karie, Joe
+|Status=in development, auto imported
+}}

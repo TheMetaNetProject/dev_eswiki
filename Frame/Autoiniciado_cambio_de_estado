@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=self-initiated change of state
+|Family=Esquemas de Acción, Esquemas asociados al cambio
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cambio de estado
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción propositiva
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Self-initiated state change
+|Applicability=Spanish
+}}

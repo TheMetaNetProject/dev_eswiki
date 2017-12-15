@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=cleanliness
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Bienestar
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=limpiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=limpieza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=higiene.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=limpio.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lavar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=higienizar.v
+}}
+|LinkEnglish=Cleanliness
+|Applicability=Spanish
+}}

@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=situations are bounded-regions
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Región delimitada
+|Target frame=Situación
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Armonizar las tareas con los recursos disponibles, considerando cuales serán los mas necesarios dentro de una situación real.
+|Example.Gloss=Harmonize the tasks with the resources available considering which will-be the most necessary inside of a situation real
+|Example.English translation=Match tasks with available resources, considering which will be the most necessary in a real situation.
+|Example.Provenance=http://www.nl.gob.mx/guiaparasimulacros.pdf
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=Spanish
+}}

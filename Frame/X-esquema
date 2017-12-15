@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=x-schema
+|Type=Cog
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=inicial
+|Role.Name gloss=initial
+|Role.Type=etapa
+|Role.Definition=estado inicial
+}}{{Role
+|Role.Name=comienzo
+|Role.Name gloss=start
+|Role.Type=etapa
+}}{{Role
+|Role.Name=en_curso
+|Role.Name gloss=ongoing
+|Role.Type=etapa
+|Role.Definition=transition from initial to ongoing
+}}{{Role
+|Role.Name=fin
+|Role.Name gloss=finish
+|Role.Type=etapa 
+|Role.Definition=transition from ongoing to final stage 
+}}{{Role
+|Role.Name=final
+|Role.Name gloss=final
+|Role.Type=etapa
+}}{{Role
+|Role.Name=clase
+|Role.Name gloss=kind
+|Role.Definition=specific kind of x-schema
+}}{{Role
+|Role.Name=condiciones_para_fin
+|Role.Name gloss=finish_conditions
+|Role.Definition=conditions for finish transition
+}}{{Role
+|Role.Name=condiciones_para_comienzo
+|Role.Name gloss=start_conditions
+|Role.Definition=conditions for start transition
+}}{{Role
+|Role.Name=todo_de_x-esquema
+|Role.Name gloss=whole
+|Role.Definition=entire x-schema
+}}{{Role
+|Role.Name=interrupción
+|Role.Name gloss=interruption
+|Role.Definition=interruption in x-schema execution
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=proceso
+}}
+|LinkEnglish=X-schema
+|Applicability=Spanish
+}}

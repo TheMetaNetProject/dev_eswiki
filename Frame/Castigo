@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=punishment
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pena.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=castigo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=penalización.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sanción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=multa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paliza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=castigar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sancionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pegar una paliza
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=arrestar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escarmentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=condenar.v
+}}
+|LinkEnglish=Punishment
+|Applicability=Spanish
+}}

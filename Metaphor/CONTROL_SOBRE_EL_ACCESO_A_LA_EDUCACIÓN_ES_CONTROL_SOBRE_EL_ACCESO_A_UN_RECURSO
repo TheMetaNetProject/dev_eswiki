@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=control over the access to the education is control over the access to a resource
+|Aliases=
+|Tags=Program sources
+|Family=Metáforas de Educación, 
+|Metaphor Level=Specific
+|Source frame=Recurso
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=OPORTUNIDAD ES ACCESO FÍSICO A UN OBJETO
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=EDUCACIÓN ES RECURSO
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe
+|Status=in development, auto imported
+}}

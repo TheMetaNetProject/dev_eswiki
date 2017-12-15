@@ -1,0 +1,62 @@
+{{Metaphor
+|Name gloss=system educational is a structure physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SISTEMA EDUCATIVO ES UN ESTRUCTURA FÍSICA
+}}
+|Family=Educación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Institución gubernamental
+|Mappings={{Mapping
+|Target=gobierno_entero
+|Source=estructura_entera
+}}{{Mapping
+|Target=responsabilidades_gubernamental
+|Source=partes_de_la_estructura
+}}{{Mapping
+|Target=funcciones_del_gobierno
+|Source=partes_de_la_estructura
+}}{{Mapping
+|Target=estado_funcional
+|Source=integridad_estructural
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=INSTITUCIÓNES GUBERNAMENTALES SON ESTRUCTURAS FÍSICAS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=mejoras en el sistema educativo
+|Entailment.Source inference=mejoras en la integridad estructural
+}}{{Entailment
+|Entailment.Target entailment=brechas de desigualdad del sistema educativo
+|Entailment.Source inference=deformaciones a la integridad de la estructura
+}}
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Carrillo alerta de que el desmantelamiento del sistema educativo tendrá consecuencias en la economía del futuro.
+|Example.Gloss=Carrillo alerts of that the dismantlement of system educational will.have consequences on the economy of.the future
+|Example.English translation="Carrillo alerts that the dismantlement of the education system will have consequences on the future economy."
+|Example.Provenance=http://www.europapress.es/madrid/noticia-carrillo-alerta-desmantelamiento-sistema-educativo-tendra-consecuencias-economia-futuro-20121210124013.html
+|Example.Comments="desmantelamiento del sistema educativo"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=México debe mejorar su sistema educativo e infraestructura
+|Example.Gloss=Mexico needs to.improve its system educational and infrastructure
+|Example.English translation="Mexico needs to improve its education system and infrastructure."
+|Example.Provenance=http://noticias.universia.net.mx/en-portada/noticia/2012/09/06/964414/mexico-debe-mejorar-sistema-educativo-e-infraestructura.html
+|Example.Comments="infraestructura"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=En suma, ampliar la cobertura mejorar la calidad educativa y acotar las brechas de desigualdad del sistema educativo, así como normar la carrera profesional de los maestros de Educación Básica, son los temas que habitaran la agenda educativa de 2013.
+|Example.Gloss=In sum, to.expand the coverage to.improve the quality educational and narrow the gaps of inequality of.the system educational as well.as to.regulate the career professional of the teachers of education basic they.are the themes that will.inhabit the agenda educational of 2013
+|Example.English translation="In short, expanding coverage to improve education quality and narrowing the gaps of inequality in the education system, as well as regulating the professional career of the basic education teachers, they are the topics that will inhabit the educative agenda of 2013."
+|Example.Provenance=http://educacionadebate.org/41654/los-retos-de-la-reforma-educativa-para-2013/
+|Example.Comments="acotar las brechas de desigualdad del sistema educativo"
+
+**many more metaphors here*
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

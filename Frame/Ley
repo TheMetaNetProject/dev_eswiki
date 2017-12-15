@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=law
+|Family=Esquemas de la ley
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ley.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=norma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abogacía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derecho.n
+}}
+|LinkEnglish=Law
+|Applicability=Spanish
+}}

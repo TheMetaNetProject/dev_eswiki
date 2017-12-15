@@ -1,0 +1,100 @@
+{{Frame
+|Name gloss=disease
+|Other aliases=Cáncer
+|Comments=Please remove expandir.v and expandirse.v after the Nov. tests.
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=enfermedad
+|Role.Name gloss=disease
+}}{{Role
+|Role.Name=enfermo
+|Role.Name gloss=patient
+}}{{Role
+|Role.Name=síntoma
+|Role.Name gloss=symptom
+}}{{Role
+|Role.Name=parte_del_cuerpo
+|Role.Name gloss=body_part
+}}{{Role
+|Role.Name=proceso_de_infección
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aflicción física
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermedad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dolencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=infección.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cáncer.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=epidemia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfermizo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=afflición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parálisis.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plaga.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crónico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=náusea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=peste.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pandemia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brote.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=síntoma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=padecimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrofiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrofia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=plagar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patología.n
+}}
+|LinkEnglish=Disease
+|Applicability=Spanish
+}}
+'veneno', 'parálisis', and others should be in a different frame I think (KMM)
+atrofiar and atrofia added 20 jan 2014  [kmm]

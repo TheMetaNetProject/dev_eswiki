@@ -1,0 +1,73 @@
+{{Frame
+|Name gloss=force restrictive
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Joe
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Fuerza
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimento al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apretón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=presión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apretar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apresurar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oprimir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=opresión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=reprimir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=represión.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polarizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=someter.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=restringir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recluir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=confinar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=excluir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrancar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atascar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=suprimir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=domar.v
+}}
+|LinkEnglish=Restraints
+}}

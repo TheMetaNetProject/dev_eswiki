@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=object flexible
+|Family=Esquemas de entidades, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Objeto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flexible.a
+}}
+|LinkEnglish=Flexible object
+|Applicability=Spanish
+}}

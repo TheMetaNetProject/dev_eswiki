@@ -1,0 +1,43 @@
+{{Metaphor
+|Name gloss=impediments to improve the state economic are burdens physical
+|Aliases=
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Carga
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=DIFICULTADES SON CARGAS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza pesa con mayor fuerza en las zonas indígenas
+|Example.Gloss=the poverty weights with greater force in the zones indigenous
+|Example.English translation=Poverty weighs heavier in indigenous regions.
+|Example.Provenance=http://mexico.diariocritico.com/2008/Octubre/noticias/103946/la-pobreza-pesa-con-mayor-fuerza-en-las-zonas-indigenas.html
+|Example.Comments=la pobreza pesa
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Trae nieve alegría a unos y una carga pesada para la pobreza de otros
+|Example.Gloss=brings snow happiness to some and a burden heavy for the poverty of others
+|Example.English translation=Snow brings happiness to some and a heavy burden to others in poverty.
+|Example.Provenance=http://www.nortedigital.mx/article.php?id=31069
+|Example.Comments=trae nieve ... una carga pesada
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El rápido aumento del precio de los alimentos constituye una carga para los pobres de los países en desarrollo, que gastan en ese rubro alrededor de la mitad de los ingresos del grupo familiar.
+|Example.Gloss=the rapid increase of-the price of the food constitutes a burden for the poor of the countries in development that spend in this category around of the half of the income of-the group family
+|Example.English translation=The rapid increase in food prices constitutes a burden on the poor in developing countries, who spend about half of their family income in that category.
+|Example.Provenance=http://www.inforural.com.mx/IMG/pdf/Inforural07_agosto_2008_bis_bis.pdf
+|Example.Comments=aumento del precio de los alimentos constituye una carga
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=institution democratic
+|Family=Esquemas de Democracia,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Institución gubernamental
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Democracia
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=institución.n democrática
+}}
+|LinkEnglish=Democratic institution
+|Applicability=Spanish
+}}

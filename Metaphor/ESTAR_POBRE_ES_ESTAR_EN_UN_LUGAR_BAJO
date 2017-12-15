@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=be poor is be in a place low
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ESTAR POBRE ES ESTAR EN UN LUGAR BAJO
+}}
+|Tags=Program sources
+|Family=Metáforas de Pobreza
+|Metaphor Level=Specific
+|Source frame=Estar en un lugar bajo
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ESTAR POBRE ES ESTAR EN UN LUGAR
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=POBREZA ES ABAJO
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development, auto imported
+}}

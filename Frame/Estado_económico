@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=economic state
+|Comments=All the LUs from here were moved to their respective Frames - the poverty words to Pobreza and the wealth words to Riqueza.
+|Family=Esquemas de Riqueza y clase social,
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estar en un estado
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Economía
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Economic status
+}}

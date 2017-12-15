@@ -1,0 +1,27 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_Prep_T-noun
+|CxnMPDescription=Verb Prep Noun
+|Comments=escapar a la pobreza
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, "^V") .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?prep doc:hasPOS ?prepPOS .
+    ?target doc:objprep ?prep .
+    FILTER regex(?prepPOS, "^(I&#124;SPS&#124;PREP)") .
+    ?prep (doc:spobj&#124;doc:iobj&#124;doc:cc&#124;doc:spmod) ?source .
+}
+}}

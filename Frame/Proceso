@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=process
+|Other aliases=x-schema
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=protagonista
+|Role.Name gloss=protagonist 
+|Role.Type=entidad
+}}{{Role
+|Role.Name=proceso
+|Role.Name gloss=process
+|Role.Type=x-schema
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=proceso.n
+}}
+|LinkEnglish=Process
+|Applicability=Spanish
+}}

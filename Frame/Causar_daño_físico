@@ -1,0 +1,114 @@
+{{Frame
+|Name gloss=cause harm physical
+|Family=Esquemas de daño,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Daño físico
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flagelar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=doler.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paralizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastimar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dañar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impacto
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aplastar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=daño
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herida
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lacerar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lacera
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=derrumbar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=matar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=choque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=azotar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=azote.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flagelo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flagelar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=látigo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nalguear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cocear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mellar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahorcar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=achocar.v
+}}
+|LinkEnglish=Causation
+}}

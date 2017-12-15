@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=death
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Ciclo de vida
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=muerte.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deceso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fallacimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=morir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=morirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fallecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=luto.n
+}}
+|LinkEnglish=Death
+|Applicability=Spanish
+}}

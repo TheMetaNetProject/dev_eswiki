@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=vehicle
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estructura física
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Máquina
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vehículo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=autobús.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coche.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tren.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=transporte.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camión.n
+}}
+|LinkEnglish=Vehicle
+|Applicability=Spanish
+}}

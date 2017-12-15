@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=containment
+|Type=Cog
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Barreras
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Región delimitada
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Todo-parte
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contención.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contener.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contenedor.n
+}}
+|LinkEnglish=Containment
+|Applicability=Spanish
+}}

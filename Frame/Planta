@@ -1,0 +1,100 @@
+{{Frame
+|Name gloss=plant
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad física
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad biológica
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Jardinería
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=planta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=raíz.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tronco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=maleza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=raíces.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hoja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fruta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=árbol.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=madurar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vid.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pétalo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polen.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polinizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rama.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ramita.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pulpa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corteza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=seco.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marchitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lozano.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=echar.v raíces
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crecer.v
+}}
+|LinkEnglish=Plants
+|Applicability=Spanish
+}}
+removed 'semilla.n' [24nov] kmm

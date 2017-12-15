@@ -1,0 +1,73 @@
+{{Frame
+|Name gloss=path
+|Family=Esquemas Camino,
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=camino
+|Role.Name gloss=path
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=camino.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ruta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trayectoria.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trayecto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sendero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=calle.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vereda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carretera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corredor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pasarela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rastro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pasarela.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sendero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pasaje.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avenida.n
+}}
+|LinkEnglish=Path
+|Applicability=Spanish
+}}
+does 'puente' need its own frame? (KMM): I think 'bridge' is under Building in English.

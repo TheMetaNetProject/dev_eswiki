@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=nation is a pyramid
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NACIÓN ES UNA PIRÁMIDE
+}}
+|Family=Gobernación, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Gobierno
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=NACIÓN ES UNA ESTRUCTURA FÍSICA COMPLEJA
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

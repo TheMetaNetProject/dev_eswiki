@@ -1,0 +1,58 @@
+{{Metaphor
+|Name gloss=improve the state economic is go-out of a place undesireable
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MEJORAR EL ESTADO ECONÓMICO ES SALIR DE UN LUGAR INDESEABLE
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Source frame=Escapar
+|Target frame=Cambio de estado
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CAMBIOS SON MOVIMIENTOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=POBREZA ES UN LUGAR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Es decir, que quienes hoy reciben un apoyo, en el futuro tengan la capacidad para salir de la pobreza, a partir del fortalecimiento de sus ingresos, como individuos productivos.
+|Example.Gloss=is say that who today receive a support in the future have the capacity to go-out of the poverty to depart from-the strengthening of their income as indidividuals productive
+|Example.English translation=That is to say, that those that today receive support, in the future may have the capacity to leave poverty, due to their strengthening earnings as productive individuals.
+|Example.Provenance=http://www.presidencia.gob.mx/articulos-prensa/es-momento-de-mover-a-mexico-para-hacerle-frente-a-la-pobreza-y-el-hambre-enrique-pena-nieto/
+|Example.Comments=salir de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Solicitan productores de leche apoyo para salir de la pobreza
+|Example.Gloss=solicit producers of milk support for go-out of the poverty
+|Example.English translation=Milk producers solicit support to leave poverty.
+|Example.Provenance=http://www.provincia.com.mx/2013/01/solicitan-productores-de-leche-apoyo-para-salir-de-la-pobreza/
+|Example.Comments=salir de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Para escapar la pobreza, Sánchez se enroló en el ejército tras el octavo grado.
+|Example.Gloss=for escape the poverty Sánchez himself enrolled in the army after the eight grade
+|Example.English translation=In order to escape poverty, Sánchez enrolled in the army after eighth grade.
+|Example.Provenance=http://www.elsiglodetorreon.com.mx/noticia/34076.de-raices-mexicanas-el-lider-militar-en-iraq.html
+|Example.Comments=escapar la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Yo vi en esa camino una forma de escapar de la pobreza.
+|Example.Gloss=I saw in that path a way of escape from the poverty
+|Example.English translation=I saw in that path a way to escape from poverty.
+|Example.Provenance=http://www.elsiglodetorreon.com.mx/noticia/34076.de-raices-mexicanas-el-lider-militar-en-iraq.html
+|Example.Comments=escapar de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Educación, única vía para salir de la pobreza y corrupción
+|Example.Gloss=Education, unique path for go-out of the poverty and corruption
+|Example.English translation=Education, the only path out of poverty and corruption
+|Example.Provenance=http://m.udg.mx/node/3051
+|Example.Comments=vía para salir de la pobreza
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

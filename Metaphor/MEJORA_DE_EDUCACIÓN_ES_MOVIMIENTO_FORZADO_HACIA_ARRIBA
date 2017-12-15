@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=improvement of education is movement forced toward up
+|Aliases=
+|Source frame=Movimiento forzado
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CAMBIO CAUSADO DE ESTADO ES MOVIMIENTO FORZADO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EDUCACIÓN ES UN OBJETO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAMBIO DE ESTADO ES MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El presidente Felipe Calderón Hinojosa aseguró que su gobierno trabaja fuerte para elevar la educación en México
+|Example.Gloss=the president Felipe Calderón Hinojosa assured that his government works hard to raise the education in Mexico
+|Example.English translation="President Felipe Calderón Hinojosa promised that his government works hard to raise education in Mexico."
+|Example.Provenance=http://www.eluniversal.com.mx/notas/582499.html
+|Example.Annotation="trabaja fuerte para elevar la educación"
+}}
+|Entered by=Karie,
+|Last reviewed by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

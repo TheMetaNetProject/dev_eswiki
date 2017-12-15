@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=debating
+|Family=Esquemas de Comunicación,
+|Type=Frame
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Discutir
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Comunicación
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Argumento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debatir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polemista.n
+}}
+|LinkEnglish=Debating
+|Applicability=Spanish
+}}

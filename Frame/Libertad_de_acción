@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=freedom of action
+|Family=Esquemas de Acción,
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liberado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=libre.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liberar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=anonimidad.n
+}}
+|LinkEnglish=Freedom of action
+|Applicability=Spanish
+}}
+autónomo.a, independiente.a

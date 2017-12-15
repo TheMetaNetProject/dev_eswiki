@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Bird
+|Family=Esquemas de entidades, 
+|Type=Frame
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad animado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pájaro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ala.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polluelo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pollo.n
+}}
+|LinkEnglish=Bird
+|Applicability=Spanish
+}}

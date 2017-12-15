@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=scale
+|Other aliases=Escala lineal
+|Comments=will erase "escala lineal" from the list of frames
+|Family=Esquemas de escala, Esquemas que se relacionan con propiedades,
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=parámetro
+|Role.Name gloss=parameter
+|Role.Definition=what the scale is about
+}}{{Role
+|Role.Name=valor_máximo
+|Role.Name gloss=maximal_value
+}}{{Role
+|Role.Name=valor_mínimo
+|Role.Name gloss=minimal_value
+}}{{Role
+|Role.Name=valores_intermedios
+|Role.Name gloss=intermediate_values
+|Role.Definition=ranked with respect to each other
+}}{{Role
+|Role.Name=posición_en_escala
+|Role.Name gloss=position_on_scale
+}}{{Role
+|Role.Name=norma
+|Role.Name gloss=norm
+|Role.Definition=normal/expected scalar positions and values with respect to a specified parameter
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=ordering of values -- if B is greater than A, and C is greater than B, then C is greater than A.
+}}{{Inference
+|Inference.Description=continuity -- each intermediate value is adjacent to a lower value and a higher value
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escala.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escalar.adj
+}}
+|LinkEnglish=Scale
+|Applicability=Spanish
+}}

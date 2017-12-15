@@ -1,0 +1,90 @@
+{{Frame
+|Name gloss=taxation
+|Comments=old frame family: esquemas economicos
+|Family=Esquemas de tributación
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tributación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tributario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gravar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=imposición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recaudador de impuesto
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ganancia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recaudación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recaudación de impuestos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=presupuestario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contribuyente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impositiva.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crédito fiscal
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crédito tributario
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desgravación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=categoría impositiva
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=categoria tributaria
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=base fiscal
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impuesto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tributo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tasa impositiva
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impuest.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fiscal.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=déficit.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=situación de déficit
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tributario.a
+}}
+|LinkEnglish=Taxation
+}}

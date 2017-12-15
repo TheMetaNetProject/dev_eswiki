@@ -1,0 +1,44 @@
+{{Metaphor
+|Name gloss=difficulties are obstacles in the path
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADVERSIDADES SON OBSTÁCULOS EN EL CAMINO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=DIFICULTADES SON BARRERAS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ADVERSIDADES SON BARRERAS
+}}
+|Family=Metáforas de la Estructura del Evento, Metáforas de Acción, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Obstáculo en el camino
+|Target frame=Adversidad
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+|Related metaphor.Description=Obstáculos son un tipo de impedimento al movimiento.
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEDIOS SON CAMINOS
+|Related metaphor.Description=Un obstáculo en el camino impide llegar a la meta.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Banca pone barreras al crimen organizado
+|Example.Gloss=Bank puts barriers to-the crime organized
+|Example.English translation=Bank establishes barriers to organized crime.
+|Example.Provenance=http://www.clubhipotecario.com.mx/noticias-de-bancos/2210-banca-pone-barreras-al-crimen-organizado
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=A mi experiencia que es mayormente con niños, la discapacidad  puede ser desde un tope en el camino, hasta un enorme muro de piedra gruesa e impenetrable
+|Example.Gloss=To my experience that is mostly with children the disability can be from a bump in the road to an enormous wall of stone thick and impenetrable
+|Example.English translation=In my experience, which is mostly with children, disabilities can represent anything from a bump in the road to an enormous, thick and impenetrable stone wall.
+|Example.Provenance=http://www.miradas.mx/opinion/item/423-en-resumidas-cuentas-%C2%BFque-es-la-discapacidad
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+|Investigated for=Spanish
+}}

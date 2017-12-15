@@ -1,0 +1,18 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Derechos; Toma de decisiones del gobierno.
+|ConceptFrames={{Linked frame
+|Frame name=Elección
+}}{{Linked frame
+|Frame name=Institución electoral
+}}{{Linked frame
+|Frame name=Campaña electoral
+}}{{Linked frame
+|Frame name=Votar
+}}{{Linked frame
+|Frame name=Votación
+}}
+}}

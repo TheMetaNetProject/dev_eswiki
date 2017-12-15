@@ -1,0 +1,41 @@
+{{Metaphor
+|Name gloss=opportunities educational are paths
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=OPORTUNIDADES EDUCATIVAS SON CAMINOS
+}}
+|Family=Educación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Partida-ruta-meta
+|Target frame=Oportunidad
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=TENER OPORTUNIDADES EDUCATIVAS ES TENER ACCESO A UN DESTINO AL FIN DE UN CAMINO
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=OPORTUNIDADES SON CAMINOS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=aumentar oportunidades educativas
+|Entailment.Source inference=ampliar caminos
+}}
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Ampliar las oportunidades educativas para reducir desigualdades entre grupos sociales
+|Example.Gloss=To.expand the opportunities educational for to.reduce inequalities between groups social
+|Example.English translation="Expand educational opportunities to reduce inequalities between social groups"
+|Example.Provenance=http://www.sep.gob.mx/work/models/sep1/Resource/93128/2/PSE-PISAV2.pdf
+|Example.Comments="ampliar las oportunidades educativas"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La verdadera riqueza de la nación radica en la ampliación de oportunidades educativas de calidad para los jóvenes
+|Example.Gloss=The true wealth of the nation resides in the expansion of opportunities educational of quality for the youth
+|Example.English translation="The real wealth of the nation lies in expanding quality educational opportunities for youth"
+|Example.Provenance=http://mx.noticias.yahoo.com/ampliar-oportunidades-educativas-j%C3%B3venes-20110316-172800-620.html
+|Example.Comments="ampliación de oportunidades educativas de calidad"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

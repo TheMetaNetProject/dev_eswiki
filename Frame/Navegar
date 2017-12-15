@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=sailing
+|Family=Esquemas de movimiento,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Navío
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Náutico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=navegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marinero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=navegante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=marino.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=navegación.n
+}}
+|Applicability=Spanish
+}}

@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=ARGUMENT IS A CONTAINER
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DISCUSIÓN ES UN RECIPIENTE
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Contenedor
+|Target frame=Discusión
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Se trata de una discusión vacía porque todavía no se ha determinado el lugar en dónde se construirá.
+|Example.Gloss=One treats of a discussion empty because still not one has determined the place in where refl will-construct
+|Example.English translation=We're talking about an empty discussion because it still hasn't been determined where it will be constructed.
+|Example.Provenance=http://www.ensintesis.com.mx/seitrack/nota.php?tema=&num=1202500&fechavisible=2010-01-14&bd=nueva_general&bdsup=detalles_notas
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Por su parte, el defensa Laurent Koscielny apuntó que no iba a revelar el contenido de la discusión.
+|Example.Gloss=For his part, the defender Laurent Koscielny affirmed that not was-going to reveal the content of the discussion
+|Example.English translation=For his part, defender Laurent Koscielny affirmed that he wasn't going to reveal the content of the discussion.
+|Example.Provenance=http://eleconomista.com.mx/deportes/2012/06/20/blanc-admite-discusion-vestuario-frances
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|Investigated for=Spanish
+}}

@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=increase in crime is spread of a disease
+|Aliases=
+|Family=Gobernación,
+|Metaphor Level=Specific
+|Metaphor Type=Entailed
+|Source frame=Enfermedad
+|Target frame=Crimen
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CRIMEN ES ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cómo se contagia el crimen y la corrupción.
+|Example.Gloss=How refl spread the crime and the corruption
+|Example.English translation=How crime and corruption are transmitted [are contagious].
+|Example.Provenance=http://www.tlahuac.com.mx/noticias/como-se-contagia-el-crimen-y-la-corrupcion-captan-a-empleados-de-torreon-robando-rieles/
+}}
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=INCREASE IN CRIME IS SPREAD OF DISEASE
+|Investigated for=Spanish
+}}

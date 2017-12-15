@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=Measure
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Karie,
+|Roles={{Role
+|Role.Name=medición
+|Role.Name gloss=measurement
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ancho.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ancho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amplio.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrechez.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=largo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=corto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=espesor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=delgado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nivel.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medición.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medir.v
+}}
+|LinkEnglish=Measuring
+|Applicability=Spanish
+}}

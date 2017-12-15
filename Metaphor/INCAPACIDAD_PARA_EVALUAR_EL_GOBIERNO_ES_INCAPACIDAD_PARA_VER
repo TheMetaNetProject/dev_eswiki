@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=inability to evaluate the government is inability to see
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=INCAPACIDAD PARA EVALUAR EL GOBIERNO ES INCAPACIDAD PARA VER
+}}
+|Family=Gobernación,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Ver
+|Target frame=Evaluar gobierno
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PODER EVALUAR AL GOBIERNO ES PODER VER
+|Related metaphor.Description=negation
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Enrique Peña Nieto, presentará esta semana ante el Congreso dos reformas profundas contra la corrupción y la opacidad en el Gobierno.
+
+|Example.Gloss=Enrique Peña Nieto will-present this week before the Congress two reforms deep against the corruption and the opacity in the government
+|Example.English translation=This week Enrique Peña Nieto will go before Congress to present two deep reforms against corruption and opacity in government.
+|Example.Provenance=http://noticias.terra.com.mx/mexico/politica/elecciones/sucesion-presidencial/pena-pide-reformas-contra-corrupcion-y-opacidad-de-gobierno,f93c4f40200b9310VgnVCM5000009ccceb0aRCRD.html
+}}
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=ABILITY TO EVALUATE GOVERNMENT IS ABILITY TO SEE
+|Investigated for=Spanish
+}}

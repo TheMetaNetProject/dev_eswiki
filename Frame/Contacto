@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=contact
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Próximo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tocar
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Contact
+|Applicability=Spanish
+}}

@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=experiencing harm
+|Family=Esquemas de daño
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sufrir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=padecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=doler.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dolor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=penar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dañar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dolido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=herida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sufrimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpearse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lastimarse.v
+}}
+|LinkEnglish=Experience harm
+|Applicability=Spanish
+}}

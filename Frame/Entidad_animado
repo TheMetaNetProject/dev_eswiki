@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=entity animate
+|Family=Esquemas de entidades,
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=entidad_animado
+|Role.Name gloss=animate_entity
+}}{{Role
+|Role.Name=partes_especializadas
+|Role.Name gloss=specialized_parts
+}}{{Role
+|Role.Name=peso_corporal
+|Role.Name gloss=body_weight
+}}{{Role
+|Role.Name=partes_distintas_del_cuerpo
+|Role.Name gloss=distinctive_parts_of_the_body
+}}{{Role
+|Role.Name=cuerpo
+|Role.Name gloss=body
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entidad biológica
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento autopropulsado
+}}
+|Bindings={{Binding
+|Binding.Local role=entidad_animado
+}}{{Binding
+|Binding.Local role=cuerpo
+|Binding.Bound role=Entidad biológica.cuerpo
+}}{{Binding
+|Binding.Local role=partes_distintas_del_cuerpo
+|Binding.Bound role=Entidad biológica.partes_especializadas
+}}{{Binding
+|Binding.Local role=entidad_animado
+|Binding.Bound role=Movimiento autopropulsado.entidad_autopropulsada
+}}{{Binding
+|Binding.Local role=peso_corporal
+|Binding.Bound role=Entidad biológica.peso_corporal
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=respirar.v
+}}
+|LinkEnglish=Animate entity
+|Applicability=Spanish
+}}

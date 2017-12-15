@@ -1,0 +1,73 @@
+{{Frame
+|Name gloss=reduction of size
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tamaño
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cambiar de tamaño
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Aumento de tamaño
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encoge.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encoger.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=achicar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=encogerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=achicarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contraer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contraerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acortar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agachar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrechar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrecharse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrechez.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrecho.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrecho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contrear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contrearse.v
+}}
+|LinkEnglish=Decrease size
+|Applicability=Spanish
+}}

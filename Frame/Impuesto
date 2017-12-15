@@ -1,0 +1,80 @@
+{{Frame
+|Name gloss=tax
+|Family=Esquemas de Impuestos,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, proposed, auto imported
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Tributación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IVA.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IETU.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=AMT.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=VAT.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=LISR.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ISR.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IEPS.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IRP.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IDE.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IVA.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IETU.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=AMT.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=VAT.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=LISR.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ISR.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IEPS.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IRP.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=IDE.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impuesto verde
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impuesto.n
+}}
+|LinkEnglish=Taxes
+}}
+'tasa.n de impuesto'
+
+'tasa.n impositiva'

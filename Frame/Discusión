@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=discussion
+|FrameNet frame=Discussion
+|Family=Esquemas excluidos
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Comunicación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discusión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hablar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discutir.v
+}}
+|LinkEnglish=Discussing
+|Applicability=Spanish
+}}

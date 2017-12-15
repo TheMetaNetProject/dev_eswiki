@@ -1,0 +1,41 @@
+{{Metaphor
+|Name gloss=achieving a purpose is acquiring an object desired
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LOGRAR UN PROPÓSITO ES OBTENER UN OBJETO DESEADO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=LOGRAR ES OBTENER
+}}
+|Family=Estructura de Eventos como Objetos
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Ganar posesión
+|Target frame=Acción propositiva
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAMBIO ES ADQUISICIÓN
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EXPERIMENTAR UN ESTADO ES POSEER UN OBJETO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cómo conseguir una buena educación para nuestros maestros
+|Example.Gloss=how to.get a good education for our teachers
+|Example.English translation=How to get a good education for our teachers.
+|Example.Provenance=http://www.fedeablogs.net/economia/?p=29512
+|Example.Comments=conseguir una buena educación
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Cómo obtener una educación que le sirva de verdad
+|Example.Gloss=How to.get an education that itself serves of truth
+|Example.English translation=How to get an education that really works.
+|Example.Provenance=http://online.wsj.com/article/SB130290469271206201.html
+|Example.Comments=obtener una educación
+}}
+|Entered by=Karie,
+|Status=in development
+|LinkEnglish=ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT
+|Investigated for=Spanish
+}}

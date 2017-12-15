@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=process complex
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=proceso1
+|Role.Name gloss=process1
+|Role.Type=proceso
+}}{{Role
+|Role.Name=proceso2
+|Role.Name gloss=process2
+|Role.Type=proceso
+}}{{Role
+|Role.Name=protagonista1
+|Role.Name gloss=protagonist1
+}}{{Role
+|Role.Name=protagonista2
+|Role.Name gloss=protagonist2
+}}{{Role
+|Role.Name=relación_proceso
+|Role.Name gloss=relation_process
+|Role.Definition=la relación entre proceso1 y proceso2
+}}{{Role
+|Role.Name=complejo_x-esquema
+|Role.Name gloss=complex_x-schema
+|Role.Type=x-esquema
+|Role.Definition=proceso1, proceso2, y la relación entre ellos
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Proceso
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Complex process
+|Applicability=Spanish
+}}

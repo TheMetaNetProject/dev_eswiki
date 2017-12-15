@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=assessing is measuring
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EVALUAR ES MEDIR
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Medir
+|Target frame=Evaluación
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El sondeo difundido este jueves fue con el fin de medir las opciones que tiene un candidato de izquierda en las elecciones presidenciales de 2014.
+|Example.Gloss=the poll released this thursday was with the end of measure the options that has a candidate of left in the elections presidential of 2014
+|Example.English translation=The poll was released Thursday with the aim of measuring the options for a leftist candidate in the presidential elections of 2014
+|Example.Provenance=http://vvovw.elporvenir.com.mx/notas.asp?nota_id=596845
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Para medir el estatus socioeconómico del hogar de los hijos adultos y del hogar de origen de los mismos, se construye un índice de activos que combina un conjunto de bienes y servicios en el hogar; éste se calcula a través de un análisis de componentes principales.
+|Example.Gloss=for to.measure the status socioeconomic of.the home of the children adult and of.the home of origin of the same, it is.constructed an index of assets that combines a set of goods and services in the home this it is.calculated through an analysis of components principal
+|Example.English translation="In order to measure the socioeconomic status of the home of adult children and of their home of origin, an asset index is constructed that puts together a combination of goods and services in the home; this is calculated via a principal components analysis."
+|Example.Provenance=http://eleconomista.com.mx/columnas/agro-negocios/2013/05/23/movilidad-social-mexico
+|Example.Annotation="medir el estatus socioeconómico"
+}}
+|Entered by=Oana, Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=ASSESSING IS MEASURING
+|Investigated for=Spanish
+}}

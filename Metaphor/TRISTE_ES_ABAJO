@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=sad is down
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TRISTE ES ABAJO
+}}
+|Family=Metáforas de Emociones, Spanish Primary Metaphors
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Verticalidad
+|Target frame=Tristeza
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los jugadores mexicanos regresan a su país con el ánimo por los suelos
+|Example.Gloss=the players mexican return to their country with the mood by the floor (at rock bottom)
+|Example.English translation="Mexican players returned to their country dejected/depressed."
+|Example.Provenance=http://futbol.as.com/futbol/2010/06/29/mas_futbol/1277762429_850215.html
+|Example.Annotation="con el ánimo por los suelos"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Se me acaba de caer el alma a los pies.
+|Example.Gloss=it me just of to.fall.down the soul to the feet
+|Example.English translation="I just had my heart sink."
+|Example.Annotation="caer el alma a los pies"
+}}
+|Entered by=Karie,
+|Last reviewed by=Coneglian
+|Status=in development
+|LinkEnglish=SAD IS DOWN
+|Investigated for=Spanish
+}}

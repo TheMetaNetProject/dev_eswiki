@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=aids to improve the state economic are aids to-the movement toward up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AUXILIOS PARA MEJORAR EL ESTADO ECONÓMICO SON AUXILIOS AL MOVIMIENTO HACIA ARRIBA
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Ayudas al movimiento hacia arriba
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ENRIQUECIMIENTO ES MOVIMIENTO HACIA ARRIBA
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=AUXILIO A LA ACCIÓN ES AUXILIO AL MOVIMIENTO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El ahorro en general y los depósitos en particular pueden emplearse como una escalera para salir de la pobreza y, para ello, no se requieren habilidades empresariales ni suerte.
+|Example.Gloss=the savings in general and the deposits in particular can be-employed like a ladder to go-out of the poverty and for this not refl require abilities business or luck
+|Example.English translation=Savings in general and deposits in particular can be used like a ladder to get out of poverty, and doing this requires neither business acumen or luck.
+|Example.Provenance=http://www.sagarpa.gob.mx/agronegocios/boletinpatmir/ene09_art1.htm
+|Example.Comments=escalera para salir de la pobreza
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

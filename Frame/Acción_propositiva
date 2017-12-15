@@ -1,0 +1,18 @@
+{{Frame
+|Name gloss=action purposeful
+|FrameNet frame=Accomplishment
+|Family=Esquemas de Acción, 
+|Type=Composed
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Purposeful action
+|Applicability=Spanish
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=action moral
+|Family=Esquemas de Acción, Esquemas de daño, Esquemas de moralidad, Esquemas de Gobierno,
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Moralidad
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Acción propositiva
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Moral action
+|Applicability=Spanish
+}}

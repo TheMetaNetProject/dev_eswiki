@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=fight physical
+|Family=Esquemas de conflicto físico,
+|Status=in development, auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño físico
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Combate
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=luchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pelear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lucha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pelea.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atacar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asalto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asaltar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=forcejeo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enfrentarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=riña.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debatirse.v
+}}
+|LinkEnglish=Physical combat
+}}
+removed 'abatir.v' [30 nov] kmm

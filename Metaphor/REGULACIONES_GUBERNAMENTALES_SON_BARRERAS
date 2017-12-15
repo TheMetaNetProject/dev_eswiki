@@ -1,0 +1,34 @@
+{{Metaphor
+|Name gloss=regulations governmental are barriers
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=REGULACIONES GUBERNAMENTALES SON BARRERAS
+}}
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Obstáculo en el camino
+|Target frame=Acción gobernante
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=REGULACIÓN GUBERNAMENTAL SON LIMITACIONES FÍSICAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cuando el gobierno pone barreras al comercio está intercambiando empleos en unos sectores de la economía por empleos en otros ...
+|Example.Gloss=when the government puts barriers to-the commerce it-is interchanging jobs in some sectors of the economy for jobs in others ...
+|Example.English translation=When the government places barriers to commerce, it is trading jobs in one sector for jobs in others ...
+|Example.Provenance=http://www.elsiglodetorreon.com.mx/noticia/220620.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Se avanza en quitar barreras regulatorias
+|Example.Gloss=refl advance in remove barriers regulatory
+|Example.English translation=Advances made in removing regulatory barriers
+|Example.Provenance=http://www.jornada.unam.mx/2012/07/13/economia/035n3eco
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=GOVERNMENT REGULATION IS A BARRIER
+|Investigated for=Spanish
+|Relevant LUs=
+}}

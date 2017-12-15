@@ -1,0 +1,55 @@
+{{Frame
+|Name gloss=confinement sunken
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Barreras
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Encierros ambientales
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Características geográficas
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hoyo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abertura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=agujero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sima.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bache.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pozo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hueco.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=profundidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inmensidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barril sin fondo
+}}
+|LinkEnglish=Sunken confinement
+|Applicability=Spanish
+}}

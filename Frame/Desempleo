@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=unemployment
+|Family=Esquemas de Riqueza y clase social
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=Unknown,
+|Last reviewed by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estado económico
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Empleo
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desempleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subempleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bajo empleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=falta de empleo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desempleado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desempleado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desocupación.n
+}}
+|LinkEnglish=Unemployment
+}}

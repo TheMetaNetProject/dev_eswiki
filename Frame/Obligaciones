@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=responsibilities
+|Tags=Program sources
+|Status=auto imported
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluación
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Autoridad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obligación
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=responsabilidad
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=responsable
+}}
+|LinkEnglish=Responsibility
+}}

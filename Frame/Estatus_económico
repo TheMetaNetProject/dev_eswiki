@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=economic status
+|Family=Esquemas de Riqueza y clase social
+|Type=Frame
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=titular_de_estatus
+|Role.Name gloss=status_holder
+|Role.Type=entidad
+}}{{Role
+|Role.Name=recursos_financieros
+|Role.Name gloss=financial_resources
+}}{{Role
+|Role.Name=estatus
+|Role.Name gloss=status
+|Role.Definition=un valor escalar
+}}{{Role
+|Role.Name=estatus_mínimo
+|Role.Name gloss=minimum_value
+}}{{Role
+|Role.Name=estatus_máximo
+|Role.Name gloss=maximal_value
+}}{{Role
+|Role.Name=estatus_intermedio
+|Role.Name gloss=intermediate_value
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Grupos sociales
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Recursos económicos
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Posesión
+}}
+|Bindings={{Binding
+|Binding.Local role=titular_de_estatus
+|Binding.Bound role=Posesión.poseedor
+}}{{Binding
+|Binding.Local role=recursos_financieros
+|Binding.Bound role=Posesión.posesión
+}}{{Binding
+|Binding.Local role=estatus_mínimo
+|Binding.Bound role=Escala.valor_mínimo
+}}{{Binding
+|Binding.Local role=estatus_intermedio
+|Binding.Bound role=Escala.valores_intermedios
+}}{{Binding
+|Binding.Local role=estatus_máximo
+|Binding.Bound role=Escala.valor_máximo
+}}{{Binding
+|Binding.Local role=recursos_financieros
+|Binding.Bound role=Escala.parámetro
+}}{{Binding
+|Binding.Local role=estatus
+|Binding.Bound role=Escala.posición_en_escala
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estatus.n económico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=condición socioeconómico
+}}
+|LinkEnglish=Economic status
+|Applicability=Spanish
+}}

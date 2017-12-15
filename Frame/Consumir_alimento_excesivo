@@ -1,0 +1,70 @@
+{{Frame
+|Name gloss=consuming food excessive
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Alimento
+}}{{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Sobrepeso corporal
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Consumir
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atracarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apetito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=voraz.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=engrosar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=glotonería.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hincharse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gordarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=insaciabilidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chupar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chupan
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chupa
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ungullir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=voraz.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hinchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hinchazón.n
+}}
+|LinkEnglish=Overeating
+}}

@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=taxes are relievers of physical burden
+|Aliases=
+|Family=Metáforas de Impuestos,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Carga
+|Target frame=Tributación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=IMPUESTOS SON CARGAS FÍSICAS
+|Related metaphor.Description=in opposition to
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=esta medida sería conveniente para aliviar la situación de déficit en la que Hungría se encuentra actualmente
+|Example.Gloss=this measure would-be convenient to relieve the situation of deficit in the that Hungary itself encounters currently
+|Example.English translation=This measure would be convenient to relieve the deficit situation in which Hungary currently is
+|Example.Provenance=http://www.unocero.com/2014/10/23/impuesto-sobre-internet-en-hungria-podria-pasar/
+|Example.Annotation="aliviar la situación de déficit"
+}}
+|Entered by=Coneglian
+|Status=in development
+|Investigated for=Spanish
+}}

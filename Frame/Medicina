@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=medicine
+|Type=Frame
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Alimento
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Comida
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=píldora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medicina.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=remedio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=panacea.n
+}}
+|LinkEnglish=Health treatment
+|Applicability=Spanish
+}}

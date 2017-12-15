@@ -1,0 +1,19 @@
+{{Metaphor
+|Name gloss=generating new taxes is creating objects
+|Aliases=
+|Tags=Program sources
+|Family=Metáforas de Impuestos
+|Metaphor Level=Specific
+|Source frame=Crear objetos
+|Target frame=Tributación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=IMPUESTOS SON OBJETOS
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe
+|Status=in development, auto imported
+}}

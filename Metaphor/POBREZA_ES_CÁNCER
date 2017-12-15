@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=poverty is cancer
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES CÁNCER
+}}
+|Description=e.g.
+|Family=Metáforas de Pobreza, Metáforas de aflicciones físicas, Metáforas de pobreza como problema social,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Enfermedad
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES UNA ENFERMEDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La actual explosión filantrópica es, así, un intento de curar el cáncer de la pobreza con paños calientes, cataplasmas y buenas intenciones.
+|Example.Gloss=the present explosion philanthropic is like-this an attempt to cure the cancer of the poverty with towels hot poultices and good intentions
+|Example.English translation=The present philanthropic explosion is, therefore, an attempt to cure the cancer of poverty with hot towels, poultices, and good intentions.
+|Example.Provenance=http://www.antorchacampesina.org.mx/articulos/acm/2010/acm070510.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Si bien es cierto que se viven tiempos políticos, es de esperarse que los mensajes del Presidente deriven en acciones mucho más efectivas que la pretensión de curar el cáncer de la pobreza en el país con más raquíticas despensas, cuyo objetivo pareciera más el justificar un gasto administrativo que incidir en la nutrición de los empobrecidos.
+|Example.Gloss=if well is certain that refl live times political is of hope that the messages of-the President derive in actions much more effective than the pretension of cure the cancer of the poverty in the country with more paltry handouts whose objective seems more the justify an expense administrative than impact in the nutrition of the impoverished
+|Example.English translation=Since it's true that these are political times, we can only hope that the messages of the President lead to much more effective action than pretending to cure the cancer of poverty in the country with more paltry handouts, whose objective seems more to justify administrative costs than to have any effect on the nutrition of the malnourished.
+|Example.Provenance=http://www.sintesis.mx/hidalgo/index.php?option=com_content&view=article&id=17776&catid=47:opinion-local&Itemid=71
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

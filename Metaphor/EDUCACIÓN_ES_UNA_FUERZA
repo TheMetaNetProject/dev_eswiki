@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=education is a force
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN ES UNA FUERZA
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=EDUCACIÓN SUPERIOR ES UNA FUERZA
+}}
+|Family=Educación, 
+|Source frame=Fuerza
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Subrayó que en México hay problemas, pero la educación superior es una de las palancas que puede ayudar a amortiguarlos.
+|Example.Gloss=He.stressed that in Mexico there.are problems but the education higher is one of the levers that can help to.cushion.them 
+|Example.English translation="He stressed that in Mexico there are problems, but higher education is one of the levers that can help minimize them."
+|Example.Provenance=http://www.cronica.com.mx/notas/2010/493903.html
+|Example.Comments="ayudar a amortiguarlos"
+
+forces here- social problems are forces (physical) and higher education is a force(barrier) that can diminish the force of the social problems as it(social problem force) impacts Mexico
+}}
+|Entered by=Karie, 
+|Status=in development
+|Investigated for=Spanish
+}}

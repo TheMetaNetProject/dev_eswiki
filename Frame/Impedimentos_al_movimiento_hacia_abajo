@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=impediments to motion toward down
+|Tags=Program sources
+|Status=auto imported
+|Entered by=x
+|Last reviewed by=karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=red.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apoyo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salvavidas.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apoyador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=red de seguridad
+}}
+|LinkEnglish=Impeding downward motion
+}}
+should 'arrimo' and 'apoyatura' be here?

@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=democracy
+|Family=Esquemas de Democracia
+|Type=Frame
+|Cultural information="El Apóstol de la democracia ensombrece, no alumbra."
+
+http://reforma.vlex.com.mx/vid/narra-revoluci-x00b3-n-don-nadie-217679207
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=democracia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=democrático.a
+}}
+|LinkEnglish=Democracy
+|Applicability=Spanish
+}}

@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=accident vehicular
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Vehículo
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Infortunio
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Impacto
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=choque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=toque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colisionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrellarse.v
+}}
+|LinkEnglish=Vehicular accident
+|Applicability=Spanish
+}}
+'estrellar.v'

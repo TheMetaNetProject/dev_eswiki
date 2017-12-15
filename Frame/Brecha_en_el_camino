@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=gap in the path
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Características geográficas
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Encierros ambientales
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Barreras
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos de movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cisma.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brecha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=división.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grieta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fisura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rajadura.n
+}}
+|LinkEnglish=Gap in path
+|Applicability=Spanish
+}}

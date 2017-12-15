@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=institutions governmental are structures physical
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=INSTITUCIÓNES GUBERNAMENTALES SON ESTRUCTURAS FÍSICAS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=INSTITUCIÓN GUBERNAMENTAL ES ESTRUCTURA FÍSICA
+}}
+|Family=Gobernación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Estructura física
+|Target frame=Institución gubernamental
+|Mappings={{Mapping
+|Target=gobierno_entero
+|Source=estructura_entera
+}}{{Mapping
+|Target=responsabilidades_gubernamental
+|Source=partes_de_la_estructura
+}}{{Mapping
+|Target=funcciones_del_gobierno
+|Source=partes_de_la_estructura
+}}
+|Related metaphors=
+|Entailments={{Entailment}}
+|Examples=
+|Entered by=Karie
+|Status=in development
+|LinkEnglish=GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE
+|Investigated for=Spanish
+}}

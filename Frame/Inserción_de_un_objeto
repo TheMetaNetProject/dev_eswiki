@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=insertion of an object
+|Family=Esquemas de movimiento, Esquemas de posesión,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Joe
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Manipulación de un objeto
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento forzado
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Contenedor
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=meter.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=introducir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ingresar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=insertar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inserción.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inyectar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inyección.n
+}}
+|LinkEnglish=Object insertion
+|Applicability=Spanish
+}}

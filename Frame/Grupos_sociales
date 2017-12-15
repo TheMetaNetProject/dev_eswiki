@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=social groups
+|Family=Esquemas sociales
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=todo_grupo_social
+|Role.Name gloss=social_group_whole
+}}{{Role
+|Role.Name=miembro
+|Role.Name gloss=member
+|Role.Definition=un miembro individual
+}}{{Role
+|Role.Name=miembros
+|Role.Definition=múltiplex de miembros
+}}{{Role
+|Role.Name=relación_entre_miembros
+|Role.Name gloss=member_relation
+}}{{Role
+|Role.Name=propiedades_definitorias
+|Role.Name gloss=defining_properties
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Grupo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relación
+}}
+|Bindings={{Binding
+|Binding.Local role=todo_grupo_social
+|Binding.Bound role=Grupo.grupo
+}}{{Binding
+|Binding.Local role=miembro
+|Binding.Bound role=Grupo.miembro
+}}{{Binding
+|Binding.Local role=propiedades_definitorias
+|Binding.Bound role=Grupo.propiedades_definitorias
+}}{{Binding
+|Binding.Local role=relación_entre_miembros
+|Binding.Bound role=Relación.relación
+}}{{Binding
+|Binding.Local role=miembro
+|Binding.Bound role=Relación.entidad_1
+}}{{Binding
+|Binding.Local role=miembros
+|Binding.Bound role=Relación.entidad_2
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grupo_social.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indígenos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vecino.n
+}}
+|LinkEnglish=Social group
+}}

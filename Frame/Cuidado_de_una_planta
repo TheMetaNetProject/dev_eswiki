@@ -1,0 +1,17 @@
+{{Frame
+|Name gloss=tending to a plant
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Planta
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Tending to a plant
+|Applicability=Spanish
+}}

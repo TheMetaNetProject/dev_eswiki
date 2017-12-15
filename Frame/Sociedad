@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=society
+|Comments=Think about población, if it goes here.
+|Family=Esquemas de Clase Social,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sociedad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=humanidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colectividad.n
+}}
+|LinkEnglish=Society
+|Applicability=Spanish
+}}

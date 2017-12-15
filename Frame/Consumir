@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=consuming
+|Type=Frame
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=devorar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=consumir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enguillir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=devoradora.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=probar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tragarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=masticar.v
+}}
+|LinkEnglish=Consume
+|Applicability=Spanish
+}}

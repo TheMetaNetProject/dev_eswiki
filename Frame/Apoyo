@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=support
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contacto
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Peso
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apoyo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soportar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aguantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soporte.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apoyar.v
+}}
+|LinkEnglish=Support
+|Applicability=Spanish
+}}

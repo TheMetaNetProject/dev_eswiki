@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=transaction financial
+|Family=Esquemas económicos, Esquemas excluidos, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=prestar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=comprar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subastar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=revender.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cambio de moneda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cambio de dinero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cambio del dólar.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recomprar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rentar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=préstamo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=financiamiento.n
+}}
+|LinkEnglish=Financial transaction
+|Applicability=Spanish
+}}
+cobrar,

@@ -1,0 +1,55 @@
+{{Frame
+|Name gloss=circulation blood
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Líquido
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sangre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=circulación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=circular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hemorragia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sangrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desangrarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sangriento.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ensangrentado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sangrante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=hemorrágico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ateria.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vena.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=desangrar.v
+}}
+|LinkEnglish=Blood flow
+|Applicability=Spanish
+}}

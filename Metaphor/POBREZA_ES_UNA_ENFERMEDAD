@@ -1,0 +1,73 @@
+{{Metaphor
+|Name gloss=poverty is a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES UNA ENFERMEDAD
+}}
+|Description=e.g. pobreza es un cáncer
+|Family=Metáforas de Pobreza, Metáforas de pobreza como problema social, Metáforas de aflicciones físicas,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Enfermedad
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El gobernador Juan Sabines reconoció que la pobreza es un cáncer como la propia dispersión poblacional.
+|Example.Gloss=the governor Juan Sabines acknowledged that the poverty is a cancer like the same dispersion population
+|Example.English translation=Governor Juan Sabines acknowledged that poverty is a cancer like population dispersion itself.
+|Example.Provenance=http://www.oem.com.mx/esto/notas/n689892.htm
+|Example.Comments=la pobreza es un cáncer
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es un cáncer y una constante laceración, se dice.
+|Example.Gloss=the poverty is a cancer and a constant laceration, one says
+|Example.English translation=Poverty is a cancer and a constant wound, it is said.
+|Example.Provenance=http://www.oem.com.mx/oem/notas/n719124.htm
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es una enfermedad que consume la energía de las personas, las deshumaniza y crea un sentido de desamparo y pérdida de control de sus propias vidas.
+|Example.Gloss=the poverty is a disease that consumes the energies of the people them dehumanizes and creates a sense of helplessness and loss of control of their own lives
+|Example.English translation=Poverty is a disease that consumes people's energy, dehumanizes them, and creates a sense of helplessness and loss of control of their own lives.
+|Example.Provenance=http://revistaenfermeria.imss.gob.mx/index.php?option=com_multicategories&view=article&id=324:pobreza-y-salud-la-enfermeria-ante-este-reto&catid=218:ano-2002vol-10
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es una enfermedad y la receta se llama desarrollo social, educación y promoción de la salud.
+|Example.Gloss=the poverty is a disease and the prescription refl call development social education and promotion of the health
+|Example.English translation=Poverty is a disease, and the prescription is called development, social education, and promotion of health.
+|Example.Provenance=http://www.correo-gto.com.mx/nacional/36702-la-pobreza-una-enfermedad-que-aqueja-a-mexico.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Prácticamente 20 por ciento de los latinoamericanos, es decir, uno de cada cinco habitantes de la región, siguió siendo crónicamente pobre a lo largo del periodo de 15 años considerado en el estudio.
+|Example.Provenance=http://www.jornada.unam.mx/2013/05/15/economia/029n1eco
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Tenemos que decir que algo se ha hecho y se hace en México en este amplio campo de investigación científica, pero es menester hacer más para no perder, por una parte, un acervo cultural que nos ayudaría a entendernos mejor, y por otra, una serie de datos que, desprovistos de su cubierta mágica, deberían ser probados y discutidos para enriquecer nuestra propia ciencia y para usarles en provecho de quienes hoy, para escapar de la enfermedad y de los dolores de la pobreza, encuentran acceptable el mito, consoladora y plena de esperanzas la fórmula mágica para ayudarse a sobrevivir y seguir soportando la vida que conocen.
+|Example.Provenance=http://www.invsalud.udg.mx/insaluddiciembre01/primitiva.htm
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El gobernador Juan Sabines reconoció que la pobreza es un cáncer como la propia dispersión poblacional.
+|Example.Provenance=http://www.oem.com.mx/esto/notas/n689892.htm
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es un cáncer y una constante laceración, se dice.
+|Example.Provenance=http://www.oem.com.mx/oem/notas/n719124.htm
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es una enfermedad que consume la energía de las personas, las deshumaniza y crea un sentido de desamparo y pérdida de control de sus propias vidas.
+|Example.Provenance=http://revistaenfermeria.imss.gob.mx/index.php?option=com_multicategories&view=article&id=324:pobreza-y-salud-la-enfermeria-ante-este-reto&catid=218:ano-2002vol-10
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La pobreza es una enfermedad y la receta se llama desarrollo social, educación y promoción de la salud.
+|Example.Provenance=http://www.correo-gto.com.mx/nacional/36702-la-pobreza-una-enfermedad-que-aqueja-a-mexico.html
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=POVERTY IS A DISEASE
+|Investigated for=Spanish
+}}

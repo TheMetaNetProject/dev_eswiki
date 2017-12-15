@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=mind is a machine
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MENTE ES UNA MÁQUINA
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Máquina
+|Target frame=Mente
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=MENTE ES UNA ESTRUCTURA FÍSICA
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana, Karie,
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=MIND IS A MACHINE
+|Investigated for=Spanish
+}}

@@ -1,0 +1,27 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription= Subject-Verb construction
+|Comments=poverty infects
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	{
+		?target (doc:subj&#124;doc:subjpac) ?source .
+	} UNION {
+		?source doc:snmod ?target .
+	}
+	?source (doc:hasPOS&#124;doc:hasRPOS) ?spos .
+	FILTER regex(?spos, "^V") .
+	FILTER (?slemma != "ser") .
+}
+}}

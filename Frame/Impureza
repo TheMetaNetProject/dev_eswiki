@@ -1,0 +1,74 @@
+{{Frame
+|Name gloss=impurity
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Pureza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impureza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impuro.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=contaminar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=polucionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ensuciar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mancharse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manchar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mancha.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=suciedad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sucio.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asqueroso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guarro.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=manchado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=embarrado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deslustrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empañar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empañarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=antihigiénico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=insalubre.a
+}}
+|LinkEnglish=Impurity
+|Applicability=Spanish
+}}
+desdicha.n

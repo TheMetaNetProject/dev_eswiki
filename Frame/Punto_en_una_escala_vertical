@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=point on a vertical scale
+|Tags=Program sources
+|Status=auto imported
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Escala vertical
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=punto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nivel.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=centro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mitad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=medular.n
+}}
+|LinkEnglish=Vertical position
+}}

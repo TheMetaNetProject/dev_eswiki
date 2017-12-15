@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=prevention of change of state is an impediment to-the movement
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PREVENCIÓN DE CAMBIO DE ESTADO ES UN IMPEDIMENTO AL MOVIMIENTO
+}}
+|Family=Metáforas de Estados, Metáforas de la Estructura del Evento,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Movimiento
+|Target frame=Cambio de estado
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CAMBIOS SON MOVIMIENTOS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSAS SON FUERZAS
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION
+|Investigated for=Spanish
+}}

@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=blindness
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Visión
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ceguera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cegar.v
+}}
+|Applicability=Spanish
+}}

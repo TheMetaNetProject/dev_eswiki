@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=body is container of emotions
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=THE BODY IS A CONTAINER FOR THE EMOTIONS
+}}
+|Family=Metáforas de Emociones,
+|Metaphor Level=General
+|Source frame=Contenedor_de_emociones
+|Target frame=Cuerpo
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOCIONES SON SUSTANCIAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El parque de barrio nos llenó de alegría.
+|Example.Gloss=The park of neighborhood us filled of happiness
+|Example.English translation=The neighborhood park filled us with happiness.
+|Example.Provenance=http://sedesol.tamaulipas.gob.mx/2012/12/el-parque-de-barrio-nos-lleno-de-alegria-vecinos-de-pajaritos/
+}}
+|Entered by=M.E., Joe
+|Last reviewed by=Karie
+|Status=in development
+|LinkEnglish=BODY IS A CONTAINER FOR EMOTIONS
+|Investigated for=Spanish
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=discussing
+|Family=Esquemas de Comunicación,
+|Type=Frame
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Comunicación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=discutir.v
+}}
+|LinkEnglish=Discussing
+|Applicability=Spanish
+}}

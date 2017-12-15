@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=rationality
+|FrameNet frame=Justifying
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=racionalidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=coherencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=razón.n
+}}
+|LinkEnglish=Reasoning
+|Applicability=Spanish
+}}

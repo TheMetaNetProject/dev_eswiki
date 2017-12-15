@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=opportunity educational is access to a location
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=OPORTUNIDAD EDUCATIVA ES ACCESO A UN LUGAR
+}}
+|Tags=Program sources
+|Family=Metáforas de Acceso a la educación
+|Metaphor Level=Specific
+|Source frame=Acceso a un lugar
+|Target frame=Educación
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=AUMENTAR FACILIDAD DE ACCION ES DESPLAZAMIENTO EN UN NUEVO LUGAR
+}}
+|Entailments=
+|Examples=
+|Entered by=Auto
+|Last reviewed by=Joe
+|Status=in development, auto imported
+}}

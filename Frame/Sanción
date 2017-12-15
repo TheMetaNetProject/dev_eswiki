@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=sanction
+|Family=Esquemas de Desigualdad Económica, Esquemas de regulaciones,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sanción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=multa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=multar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sancionar.v
+}}
+|LinkEnglish=Sanction
+|Applicability=Spanish
+}}

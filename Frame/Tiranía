@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=tyranny
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gobierno
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Autoridad
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluación del gobierno
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tiranía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tirano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fascista.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fascista.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tiránico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=autoritario.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dictatorio.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=autocrático.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=despótico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fascismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=autoritarismo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=autócrata.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=déspota.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=déspota.a
+}}
+|LinkEnglish=Tyranny
+|Applicability=Spanish
+}}

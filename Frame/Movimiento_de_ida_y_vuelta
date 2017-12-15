@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=movement of back and forth
+|Family=Esquemas de movimiento, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oscilar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vacilar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=oscilación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vacilación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mecer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mecerse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=columpiarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=columpiar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ondular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sacudir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zangolotear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=menear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=meneo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sacudida.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zangolotearse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zangolotear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zangoloteo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rebotar.v
+}}
+|LinkEnglish=Motion back and forth
+|Applicability=Spanish
+}}

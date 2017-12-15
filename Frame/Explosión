@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=explosion
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Sustancia
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cambio de estado causado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=explosión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=disparar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detonar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=explotar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=explosionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estallar.v
+}}
+}}

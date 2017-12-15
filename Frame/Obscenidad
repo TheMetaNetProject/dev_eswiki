@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=obscenity
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Inmoralidad
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obscenidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obsceno.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vulgaridad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pornográfico.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pornografía.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indecencia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perversidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=protervo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=protervidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perversión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perverso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pervertido.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vulgar.a
+}}
+|LinkEnglish=Obscenity
+|Applicability=Spanish
+}}

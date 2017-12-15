@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=public finances
+|Family=Esquemas económicos,
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Entered by=X,
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Finanzas
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=finanzas públicas.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=crédito fiscal.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recaudación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deuda soberana.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deficit.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bancarrota.n
+}}
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=debt
+|Family=Esquemas de Deuda
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deuda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=endeudar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=debe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adeudamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pasivo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bancarrota.n
+}}
+|LinkEnglish=Debt
+|Applicability=Spanish
+}}

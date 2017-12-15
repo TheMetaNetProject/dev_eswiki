@@ -1,0 +1,73 @@
+{{Metaphor
+|Name gloss=poverty is down
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES ABAJO
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Estar en un lugar bajo
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES UN LUGAR
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MENOS ES ABAJO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Una cuarta parte de los europeos, bajo amenaza de caer en la pobreza o la exclusión social
+|Example.Gloss=One fourth part of the Europeans under threat of fall in the poverty or the exclusion social
+|Example.English translation=One quarter of Europeans under the threat of falling into poverty or social exclusion.
+|Example.Provenance=http://noticias.terra.com.mx/mundo/una-cuarta-parte-de-los-europeos-bajo-amenaza-de-caer-en-la-pobreza-o-la-exclusion-social,bb92de0e2675b310VgnCLD2000000ec6eb0aRCRD.html
+|Example.Comments="caer en la pobreza"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Que insensibilidad! A una mujer que ha perdido el fruto de su esfuerzo de muchos años y que esta desesperada por su situación y que en su mentalidad en lugar de pedir una limosna del gobierno pide trabajo para nuevamente levantarse, se le conteste con frases de este tipo.
+|Example.Gloss=what insensitivity to a woman that has lost the fruit of her effort of many years and that is desperate for her situation and that in her mentality in place of request a hand-out of-the government requests job for again stand-up one her answers with phrases of this type
+|Example.English translation=How insensitive! To a woman who has lost the fruit of her labor of many years and that is desperate over her situation and that, in her mentality, instead of asking for a government handout, asks for a job in order to pick herself up again, and they respond to her with phrases like this.
+|Example.Provenance=http://www.eluniversal.com.mx/notas/659000.html
+|Example.Comments="un trabajo para nuevamente levantarse" ("a job to pick herself up again")  User comment, edited for orthography.
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Porque eso signiﬁca que uno está convencido de que los que están en el fondo de la sociedad merecen su fracaso  y los que están arriba merecen su éxito.
+|Example.Gloss=because that signifies that one is convinced of that those that are in the bottom of the society deserve their failure and those that are above deserve their success
+|Example.English translation=Because that means that one is convinced that those at the bottom of society deserve their failure and those that are on top deserve their success.
+|Example.Provenance=http://portal.iteso.mx/portal/page/portal/Sinectica/Historico/Numeros_anteriores06/029/libros.pdf
+|Example.Comments=fondo de la sociedad
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Con una tasa de deserción de 40% en bachillerato, y 6 millones de iletrados, México parece condenado a permanecer en el hoyo de la pobreza.
+|Example.Gloss=with a rate of desertion of 40% in high-school and six million of illiterate Mexico appears condemned to remain in the hole of the poverty
+|Example.English translation=With a high school drop-out rate of 40% and six million illiterates, Mexico appears condemned to remain in the hole of poverty.
+|Example.Provenance=http://www.vanguardia.com.mx/ungrispanoramavenparamexico-431987.html
+|Example.Comments=hoyo de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Una cosa es que los ricos se estuvieran haciendo más ricos y a los de en medio y a los de abajo también les fuera mejor, sobre todo si los esfuerzos de los de arriba fueran cruciales para los éxitos de los demás. En ese caso podríamos celebrar los éxitos de los de arriba, y estarles agradecidos por su contribución. Pero eso no es lo que ha venido ocurriendo
+|Example.Gloss=one thing is that the rich refl were making more rich and to those of in middle and to those of above also to-them it-went better above all if the efforts of those of above were crucial for the successes of the rest. In that case we-could celebrate the successes of those of above and be-to-them grateful for their contribution but that not is what that has come occurring
+|Example.English translation=One thing would be for the rich to get richer while those in the middle class and at the bottom also improve, above all if the efforts of those on top were crucial for the successes of everyone else. In that case we could celebrate the successes of those on top and be grateful to them for their contribution. But this is not what has been happening.
+|Example.Provenance=http://www.razon.com.mx/spip.php?page=columnista&id_article=156698
+|Example.Comments="los de abajo"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=En 2008 aumentará la clase baja en México.
+|Example.Gloss=In 2008 will-augment the class low in Mexico.
+|Example.English translation=In 2008, the lower class in Mexico will grow.
+|Example.Provenance=http://www.elsiglodedurango.com.mx/noticia/184017.en-2008-aumentara-la-clase-baja-en-mexico.html
+|Example.Comments=clase baja
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Nos sumerge en el abismo de la pobreza que vive en el olvido, con los desgarradores contrastes entre el México de arriba y sus sueños de desarrollo y el México de abajo y su lucha cotidiana por sobrevivir.
+|Example.Gloss=Us submerge in the abyss of the poverty that lives in the forgetting with the heartbreaking contrasts between the Mexico of above and their dreams of development and the Mexico of below and their struggle daily to survive.
+|Example.English translation=We are submerged in the abyss of poverty that lives forgotten, with the heartbreaking contrasts between the Mexico on top and their dreams of development and the Mexico at the bottom and their daily struggle to survive.
+|Example.Provenance=http://ladobe.com.mx/2012/03/mexico-rebelde-de-john-gibler/
+|Example.Comments=el México de abajo
+}}
+|Entered by=Joe
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=Spanish
+}}

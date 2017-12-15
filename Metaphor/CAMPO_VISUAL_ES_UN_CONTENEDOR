@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=field visual is a container
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAMPO VISUAL ES UN CONTENEDOR
+}}
+|Comments=Campo visual (old source frame)
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Contenedor
+|Target frame=Ver
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=El observar cómo las hojas se abren y cierran, y cómo se mueven los animales de la selva tropical fuera y dentro de la vista del bebé, estimula sus habilidades de seguimiento visual.
+|Example.Gloss=the observing how the leaves refl open and close and how refl move the animals of the jungle tropical outside and inside of the view of-the baby stimulates its abilities of following visual
+|Example.English translation=Observing how the leaves open and close and how the jungle animals move in and out of the baby's view stimulates its capacity for visually following objects.
+|Example.Provenance=http://articulo.mercadolibre.com.mx/MLM-415582349-columpio-mecedora-rain-forest-fisher-price-_JM
+|Example.Comments="dentro y fuera de la vista"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Desafortunadamente, las fotografías, placas y bloques estuvieron fuera de la vista pública durante más de 55 años.
+|Example.Gloss=unfortunately the photographs plaques and blocks were out of the view public during more than 55 years
+|Example.English translation=Unfortunately, the photographs, plaques, and blocks were kept out of public view for more than 55 years.
+|Example.Provenance=http://alef.mx/vernota.php?/62381/SER-EN/El-cerebro-de-Einstein-sigue-dando-de-que-hablar
+|Example.Comments="fuera de la vista"
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=VISUAL FIELD IS A CONTAINER
+|Investigated for=Spanish
+}}

@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=investment
+|Family=Esquemas de Riqueza y clase social, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot
+|Last reviewed by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=invertir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inversión.n
+}}
+|LinkEnglish=Investment
+}}

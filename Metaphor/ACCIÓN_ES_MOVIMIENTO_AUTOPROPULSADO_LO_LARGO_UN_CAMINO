@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=action is motion self-propelled it along a path
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACCIÓN ES MOVIMIENTO AUTOPROPULSADO LO LARGO UN CAMINO
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ACCIÓN ES MOVIMIENTO AUTOPROPULSADO
+}}
+|Family=Estructura de Eventos como Lugares, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Movimiento autopropulsado
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO LO LARGO UN CAMINO
+}}
+|Entailments=
+|Examples=
+|Entered by=Karie, 
+|Status=in development
+|LinkEnglish=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+|Investigated for=Spanish
+}}

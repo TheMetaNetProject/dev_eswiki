@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=poverty food is a spiral
+|Aliases=
+|Family=Metáforas de Pobreza, 
+|Metaphor Level=Specific
+|Source frame=Camino
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=POBREZA ES UN CAMINO COMPLEJO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La espiral de la pobreza alimentaria
+|Example.Gloss=the spiral of the poverty food
+|Example.English translation="The spiral of food poverty"
+|Example.Provenance=http://www.cencade.com.mx/articulos/La%20espiral%20de%20la%20pobreza%20alimentaria.pdf
+|Example.Annotation="espiral de la pobreza alimentaria"
+}}
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

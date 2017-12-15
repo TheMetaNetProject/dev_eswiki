@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=action governmental.objective governmental is motion.goal
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACCIÓN GOBERNANTE.OBJETIVO GOBERNANTE ES MOVIMIENTO.META
+}}
+|Metaphor Level=General
+|Source frame=Partida-ruta-meta
+|Target frame=Acción gobernante
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=México en camino de la Educación de calidad
+|Example.Gloss=Mexico on road to the education of quality
+|Example.English translation=Mexico on the way to quality education
+|Example.Provenance=http://www.diariorespuesta.com.mx/092012/index.php?option=com_content&view=article&id=50840:mexico-en-camino-de-la-educacion-de-calidad&Itemid=347
+|Example.Comments="en camino de "
+}}
+|Entered by=Karie,
+|Status=in development
+|LinkEnglish=GOVERNING ACTION.GOVERNING OBJECTIVE IS MOTION.GOAL
+|Investigated for=Spanish
+}}

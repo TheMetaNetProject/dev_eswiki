@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=touch
+|Family=Esquemas de Percepción
+|Type=Cog
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Percepción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tocarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rozar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=toque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tacto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acariciar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apapachar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caricia.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apapacho.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=roce.n
+}}
+|LinkEnglish=Touching
+|Applicability=Spanish
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=relationship romantic
+|FrameNet frame=Cognitive_connection
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=relación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=matrimonio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=boda.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=casamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=separación.n
+}}
+|LinkEnglish=Romantic relationship
+|Applicability=Spanish
+}}

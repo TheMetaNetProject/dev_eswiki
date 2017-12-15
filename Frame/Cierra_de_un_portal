@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=closing of a portal
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Portales
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cerradura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cerrojo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tornillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pestillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cerrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=candado.n
+}}
+|LinkEnglish=Closing a portal
+|Applicability=Spanish
+}}

@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=placing in a location protected
+|Family=Esquemas de proteger,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Proteger
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Esconder
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Estar en una ubicación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=refugio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=albergue.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=albergarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=albergar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=asilo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ampararse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=amparar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=refugiarse.v
+}}
+|LinkEnglish=Placing in a protected location
+|Applicability=Spanish
+}}

@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=process of light
+|Comments=this frame is meant to be distinct from light source, because we can't handle metonymy in the wiki
+|Family=Esquemas de Luz, 
+|Status=in development, proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alumbrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=brillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=lustre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=destello.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rayo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chispa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chispear.v
+}}
+|Applicability=Spanish
+}}

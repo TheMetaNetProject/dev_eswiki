@@ -1,0 +1,99 @@
+{{Frame
+|Name gloss=to.fit
+|Family=Esquemas de entidades, Esquemas de escala,
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Forma de objeto
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Entidad física
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Condición del objeto físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caber.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apretado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ajustado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tenso.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ceñido.
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ceñir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrecho.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apretarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apretar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrecharse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ajustar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=suelto.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=holgado.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=flojo.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aflojarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soltarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aflojar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahusar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ancho.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guango.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tirante.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ajustarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ceñirse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aferrarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ahusarse.v
+}}
+|LinkEnglish=Fit
+|Applicability=Spanish
+}}
+needs to be separated out... "be tight", "be loose", "become tight", "become loose"

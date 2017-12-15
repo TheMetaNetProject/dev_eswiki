@@ -1,0 +1,93 @@
+{{Frame
+|Name gloss=impact
+|Family=Esquemas de daño,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Daño físico
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aplicación-fuerza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impacto.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpe.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=golpear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abolladura.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=choque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=chocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colisionar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=colisión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrellarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estrellar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cachetear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=abofetear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bofetada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cachetada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bife.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tortazo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=torta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pegar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=martillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mazo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=martillar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aporrear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=apalear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=mazazo.n
+}}
+|LinkEnglish=Impact
+|Applicability=Spanish
+}}
+for English - dent.n dent.v

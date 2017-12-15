@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=stability
+|Family=Esquemas de escala, Esquemas de estabilidad, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Escala
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Condición del objeto físico
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estabilidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inestabilidad.n
+}}
+|LinkEnglish=Stability
+|Applicability=Spanish
+}}

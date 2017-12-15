@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=creature blood-sucking
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=vampiro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parásito.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=parasitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=zancudo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=palomita.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=paloma.n
+}}
+|LinkEnglish=Blood-sucking creature
+|Applicability=Spanish
+}}

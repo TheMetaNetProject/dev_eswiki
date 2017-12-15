@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=activities with purpose are movement towards a goal
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Movimiento
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=PROPÓSITOS SON DESTINOS
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+|Investigated for=Spanish
+}}

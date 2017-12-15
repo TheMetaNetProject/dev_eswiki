@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=corruption is a disease
+|Aliases=
+|Tags=tentative
+|Family=Gobernación
+|Metaphor Level=General
+|Source frame=Enfermedad
+|Target frame=Corrupción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=La corrupción y su correlato, la impunidad, hacen imposible el proyecto nacional y hunden al país de modo progresivo en una especie de enfermedad crónica e incurable.
+|Example.Gloss=the corruption and its correlate the impunity make impossible the project national and submerge the country of mode gradual in a kind of disease chronic and incurable
+|Example.English translation=Corruption, and its correlate, impunity, are making the national project impossible and gradually submerging the nation into a sort of chronic and incurable disease.
+|Example.Provenance=http://www.jornada.unam.mx/2013/02/24/opinion/014o1pol
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Cómo se contagia el crimen y la corrupción.
+|Example.Gloss=How refl spread the crime and the corruption
+|Example.English translation=How crime and corruption are transmitted [are contagious].
+|Example.Provenance=http://www.tlahuac.com.mx/noticias/como-se-contagia-el-crimen-y-la-corrupcion-captan-a-empleados-de-torreon-robando-rieles/
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=CORRUPTION IS A DISEASE
+|Investigated for=Spanish
+|Relevant LUs=
+}}

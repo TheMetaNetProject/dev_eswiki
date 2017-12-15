@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=plurality
+|Comments=multiple entities of a singular specified kind
+|Type=Cog
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=entidad_pluralidad
+|Role.Name gloss=plurality_entity
+|Role.Definition=la pluralidad como una entidad singular
+}}{{Role
+|Role.Name=entidad_individual
+|Role.Name gloss=individual_entity
+|Role.Definition=las entidades individuales que componen la pluralidad
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Plurality
+|Applicability=Spanish
+}}

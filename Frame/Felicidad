@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Happiness
+|Family=Esquemas de Emoción
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emoción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=feliz.adj
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=felicidad.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=alegre.adj
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ánimo.n
+}}
+|LinkEnglish=Happiness
+|Applicability=Spanish
+}}

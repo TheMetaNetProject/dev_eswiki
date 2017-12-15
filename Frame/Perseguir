@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=pursuing
+|Type=Frame
+|Cultural information=Created to house LUs needed for extraction (June 2014).
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento guiado
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=perseguir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acosar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cazar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=caza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=carrera.n
+}}
+|LinkEnglish=Pursue
+|Applicability=Spanish
+}}

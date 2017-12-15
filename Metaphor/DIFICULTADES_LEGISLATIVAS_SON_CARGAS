@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=difficulties legislative are burdens
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DIFICULTADES LEGISLATIVAS SON CARGAS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=DIFICULTADES SON CARGAS
+}}
+|Source frame=Carga
+|Target frame=Dificultades en la acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=DIFICULTADES SON CARGAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Claramente, el crecimiento ha sido decepcionante desde el año pasado, donde las dificultades de los legisladores para arribar a un acuerdo en materia presupuestaria, se han convertido en un lastre para la recuperación económica, aunque el ritmo de las contrataciones se mantuvo prácticamente inalterado.
+|Example.Gloss=clearly, the growth has been disappointing since the year past, where the difficulties of the legislators to arrive at an agreement on matter budgetary, itself has turned into a ballast to the recovery economic, although the rhythm of the hirings was kept practically unaltered
+|Example.English translation="Clearly, growth has been disappointing since last year, where the difficulties of legislators to arrive at an agreement on budgetary matters, has become a drag on the economic recovery, even though the pace of hiring remained virtually unchanged."
+|Example.Provenance=http://eleconomista.com.mx/adp/2013/08/01/que-mirando-fed
+|Example.Annotation="dificultades de los legisladores ... un lastre"
+}}
+|Entered by=Karie
+|Last reviewed by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

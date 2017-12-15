@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=movement toward back
+|Family=Esquemas de movimiento,
+|Type=Frame
+|Status=in development
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retiro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retirarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retirada.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retroceder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recular.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=involución.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quedarse.v atrás
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v quedarse.v atrás
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=quedar.v retrasado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rezagarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retrasarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=atrasarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estar.v quedar.v atrás
+}}
+|LinkEnglish=Moving backward
+|Applicability=Spanish
+}}

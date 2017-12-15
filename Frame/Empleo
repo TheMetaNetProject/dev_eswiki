@@ -1,0 +1,75 @@
+{{Frame
+|Name gloss=employment
+|Family=Esquemas de Riqueza y clase social
+|Type=Frame
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=empleador
+|Role.Name gloss=employee
+}}{{Role
+|Role.Name=empleador
+|Role.Name gloss=employer
+}}{{Role
+|Role.Name=relación_empleador-empleado
+|Role.Name gloss=employer-employee_relation
+}}{{Role
+|Role.Name=remuneración_de_empleado
+|Role.Name gloss=employee_compensation
+}}{{Role
+|Role.Name=deberes_de_empleado
+|Role.Name gloss=employee_duties
+}}{{Role
+|Role.Name=objetivos_de_empleador
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Desempleo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relación
+}}
+|Bindings={{Binding
+|Binding.Local role=empleador
+|Binding.Bound role=Control.entidad_que_controla
+}}{{Binding
+|Binding.Local role=empleado
+|Binding.Bound role=Control.entidad_dependente
+}}{{Binding
+|Binding.Local role=empleador
+|Binding.Bound role=Relación.entidad_1
+}}{{Binding
+|Binding.Local role=empleado
+|Binding.Bound role=Relación.entidad_2
+}}{{Binding
+|Binding.Local role=relación_empleador-empleado
+|Binding.Bound role=Relación.relación
+}}
+|Inferences={{Inference
+|Inference.Description=Un empleador emplea a un empleado. El empleado consiente en realizar ciertos deberes. El empleador compensa al empleado para cumplir con aquellos deberes.  El propósito del empleador contratar a un empleado es lograr ciertos objetivos, objetivos que se definen por el empleador.
+}}{{Inference
+|Inference.Description=El empleador tiene el control de las acciones del empleado.
+}}{{Inference
+|Inference.Description=Es la responsabilidad del empleador de pagar el empleado para cumplir con los deberes.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empleodor.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trabajador.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=patrón.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=jornal.n
+}}
+|LinkEnglish=Employment
+|Applicability=Spanish
+}}

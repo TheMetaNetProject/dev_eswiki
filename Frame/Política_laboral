@@ -1,0 +1,17 @@
+{{Frame
+|Name gloss=policy labor
+|Family=Esquemas de Gobierno, Esquemas económicos,
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Política
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=política laboral.n
+}}
+}}

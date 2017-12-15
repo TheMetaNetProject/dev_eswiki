@@ -1,0 +1,63 @@
+{{Metaphor
+|Name gloss=poverty is an enclosure environmental
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POBREZA ES UN ENCIERRO AMBIENTAL
+}}
+|Family=Metáforas de Pobreza,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Abismo
+|Target frame=Pobreza
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POBREZA ES UN LUGAR
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=LIBERTAD DE ACCIÓN ES LIBERTAD DE MOVIMIENTO
+|Related metaphor.Description=Un encierro quita la libertad de movimiento así como la pobreza quita la libertad de acción.
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=DIFICULTADES SON IMPEDIMENTOS AL MOVIMIENTO
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Todavía tenía un largo camino por delante para realizar el sueño de sacar a su familia del hoyo de la pobreza.
+|Example.Gloss=Still has a long path by forward to realize the dream of take-out to his family from-the hole of the poverty.
+|Example.English translation=He still has a long path ahead of him to realize his dream of getting his family out of the hole of poverty.
+|Example.Provenance=http://www.opusdei.org.mx/art.php?p=6186
+|Example.Comments=sacar a su familia del hoyo de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La crisis económica internacional provocará que seis millones de personas más caigan en el abismo de la pobreza en 2009 en Latinoamérica, dijo hoy un alto funcionario del Banco Mundial (BM).
+|Example.Gloss=the crisis economic international will-provoke that six millions of people more fall in the abyss of the poverty in 2009 in Latin-America said today a high functionary of-the Bank World (WB)
+|Example.English translation=The economic crisis will cause six million more people to fall into the abyss of poverty in 2009 in Latin America, a high-ranking official of the World Bank said today.
+|Example.Provenance=http://www.comunicacampeche.com.mx/Php/noticiacomlocal.php?id=17789
+|Example.Comments=caigan en el abismo de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Nos sumerge en el abismo de la pobreza que vive en el olvido, con los desgarradores contrastes entre el México de arriba y sus sueños de desarrollo y el México de abajo y su lucha cotidiana por sobrevivir.
+|Example.Gloss=Us submerge in the abyss of the poverty that lives in the forgetting with the heartbreaking contrasts between the Mexico of above and their dreams of development and the Mexico of below and their struggle daily to survive.
+|Example.English translation=We are submerged in the abyss of poverty that lives forgotten, with the heartbreaking contrasts between the Mexico on top and their dreams of development and the Mexico at the bottom and their daily struggle to survive.
+|Example.Provenance=http://ladobe.com.mx/2012/03/mexico-rebelde-de-john-gibler/
+|Example.Comments=Nos sumerge en el abismo de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=El aumento desmedido en los precios de los productos básicos no ha hecho más que hundir a más familias mexicanas en el abismo de la pobreza y la carencia de beneficios.
+|Example.Gloss=the augment disproportionate in the prices of the products basic not has done more than sink to more families Mexican in the abyss of the poverty and the lack of benefits
+|Example.English translation=The disproportionate increase in the prices of basic products has done nothing more than sink more Mexican families into the abyss of poverty and the lack of benefits.
+|Example.Provenance=http://www.ptdiputados.org.mx/intervencion.php?id=3
+|Example.Comments=el abismo de la pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La elección de un gobierno distinto tiende a detener esta avalancha contra los pueblos pobres, contra los y las trabajadoras, contra nosotros todos pues.
+|Example.Gloss=the election of a government different tends to detain this avalanche against the people poor against the-male and the-female workers against us all well
+|Example.English translation=The election of a different government tends to hold back this avalanche against the poor, against workers, and against us all, really.
+|Example.Provenance=http://www.elregional.com.mx/index.php?option=com_content&view=article&id=25168:las-izquierdas-proponen&catid=45:opinion&Itemid=65
+|Example.Comments=detener esta avalancha contra los pueblos pobres
+}}
+|Entered by=Joe
+|Status=in development
+|Investigated for=Spanish
+}}

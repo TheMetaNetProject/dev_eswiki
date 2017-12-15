@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=rights citizens are instruments
+|Aliases=
+|Family=Metáforas de Gobierno,
+|Metaphor Level=Specific
+|Source frame=Estructura física
+|Target frame=Derechos
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=DERECHOS CIUDADANOS SON ESTRUCTURAS FÍSICAS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=EL DERECHO FUNDAMENTAL AL AGUA EN MÉXICO; UN INSTRUMENTO DE PROTECCIÓN PARA LAS PERSONAS Y LOS ECOSISTEMAS
+|Example.Gloss=the right fundamental to.the water in Mexico an instrument of protection for the people and the ecosystems
+|Example.English translation="The fundamental right to water in Mexico; an instrument of protection for the people and the ecosystems"
+|Example.Provenance=http://www.juridicas.unam.mx/publica/rev/cconst/cont/18/ard/ard3.htm
+|Example.Annotation="derecho fundamental ... un instrumento"
+}}
+|Entered by=Karie,
+|Status=proposed
+|Investigated for=Spanish
+}}

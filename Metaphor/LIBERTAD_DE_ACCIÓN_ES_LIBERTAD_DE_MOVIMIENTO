@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=freedom of action is freedom of motion
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LIBERTAD DE ACCIÓN ES LIBERTAD DE MOVIMIENTO
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Movimiento
+|Target frame=Acción
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACCIÓN ES MOVIMIENTO
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT
+|Investigated for=Spanish
+}}

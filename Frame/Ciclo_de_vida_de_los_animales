@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=cycle of life of the animals
+|Comments=LUs to be added!
+|Type=Frame
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ciclo de vida
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Animal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nacimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=nacer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empollar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=enclocar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=eclosión.n
+}}
+|LinkEnglish=Animal life cycle
+|Applicability=Spanish
+}}

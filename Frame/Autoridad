@@ -1,0 +1,16 @@
+{{Frame
+|Name gloss=authority
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Confianza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Authority
+|Applicability=Spanish
+}}

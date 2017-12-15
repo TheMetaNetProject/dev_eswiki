@@ -1,0 +1,193 @@
+{{Frame
+|Name gloss=motion along a path
+|Family=Esquemas de movimiento,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=entidad_que_se_mueve
+|Role.Name gloss=mover
+|Role.Type=Entidad
+}}{{Role
+|Role.Name=manera
+|Role.Name gloss=manner (of motion)
+}}{{Role
+|Role.Name=lugar_de_evento_de_movimiento
+|Role.Name gloss=motion_event_place
+|Role.Type=relación_locativa
+|Role.Definition=el lugar donde se produce el evento de movimiento
+}}{{Role
+|Role.Name=movimiento_x-esquema
+|Role.Name gloss=motion_x-schema
+|Role.Type=Proceso
+}}{{Role
+|Role.Name=velocidad
+|Role.Name gloss=speed
+}}{{Role
+|Role.Name=dirección
+|Role.Name gloss=direction
+}}{{Role
+|Role.Name=ubicación_inicial
+|Role.Name gloss=starting_location
+|Role.Type=Ubicación
+}}{{Role
+|Role.Name=ruta_de_movimiento
+|Role.Name gloss=path_of_motion
+|Role.Type=Camino
+}}{{Role
+|Role.Name=ubicación_final
+|Role.Name gloss=endpoint_location
+|Role.Type=Ubicación
+}}{{Role
+|Role.Name=distancia
+|Role.Name gloss=distance
+|Role.Definition=medida de movimiento
+}}{{Role
+|Role.Name=duración_de_movimiento
+|Role.Name gloss=motion_duration
+|Role.Type=Proceso
+}}{{Role
+|Role.Name=tiempo_de_evento_de_movimiento
+|Role.Name gloss=moton_event_time
+|Role.Type=Tiempo
+|Role.Definition=cuando se produce el evento
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Partida-ruta-meta
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tiempo
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Medir
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Duración
+}}
+|Bindings={{Binding
+|Binding.Local role=ubicación_inicial
+|Binding.Bound role=Partida-ruta-meta.partida
+}}{{Binding
+|Binding.Local role=ruta_de_movimiento
+|Binding.Bound role=Partida-ruta-meta.ruta
+}}{{Binding
+|Binding.Local role=ubicación_final
+|Binding.Bound role=Partida-ruta-meta.meta
+}}{{Binding
+|Binding.Local role=entidad_que_se_mueve
+|Binding.Bound role=Movimiento.entidad_que_se_mueve
+}}{{Binding
+|Binding.Local role=movimiento_x-esquema
+|Binding.Bound role=Movimiento.movimiento_x-esquema
+}}{{Binding
+|Binding.Local role=velocidad
+|Binding.Bound role=Movimiento.velocidad
+}}{{Binding
+|Binding.Local role=dirección
+|Binding.Bound role=Movimiento.dirección
+}}{{Binding
+|Binding.Local role=tiempo_de_evento_de_movimiento
+|Binding.Bound role=Tiempo.unidad_de_tiempo
+}}{{Binding
+|Binding.Local role=distancia
+|Binding.Bound role=Medir.medición
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avanzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avance.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=delantero.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adelante.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avanzado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adelantar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=impulsar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=salir adelante
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retroceder.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rajarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pedalear.v en reversa
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=progreso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=progresión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sobrepasar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cruzar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=galopante
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=galopar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=galope.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=deslizar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=recorrer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=superar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avecinarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=avanzar hacia
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=precipitar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=retorno.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=aventajar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dejar.v atrás 
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dejar.v rezagado 
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ir.v delante de
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ir.v por delante de
+}}
+|LinkEnglish=Motion along a path
+|Applicability=Spanish
+}}

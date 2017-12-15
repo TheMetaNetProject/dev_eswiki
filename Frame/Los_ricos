@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=the rich
+|Family=Esquemas de los ricos,
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Riqueza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=superrico.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=millonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=el más rico
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=el uno por ciento
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acaudalado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=adinerado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=más adinerado
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pudiente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sobrado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=forrado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=persona pudiente
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=persona acomodada
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=privilegiado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=millonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=billonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=multimillonario.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los ricos
+}}
+|LinkEnglish=The rich
+|Applicability=Spanish
+}}

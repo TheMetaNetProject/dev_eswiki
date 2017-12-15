@@ -1,0 +1,97 @@
+{{Frame
+|Name gloss=the poor
+|Comments=We need to incorporate the LUs in here with Pobreza, and delete Los pobres.
+|Family=Esquemas de los pobres
+|Type=Frame
+|Status=in development
+|Entered by=Karie
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Pobreza
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pobre.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indigente.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=el más pobre
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gente pobre
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=familia pobre
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=99 por ciento
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los desfavorecidos
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sin hogar
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sin techo
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los marginados
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=personas marginadas
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subempleado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grupo vulnerable
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los vulnerables
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=gente vulnerable
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subocupado.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=subempleo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=empobrecido.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=población empobrecida
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sector empobrecido
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pobre.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=indigente.a
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los pobres
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los más pobres
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los pueblos pobres
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=los mendigos
+}}
+|LinkEnglish=The poor
+|Applicability=Spanish
+}}

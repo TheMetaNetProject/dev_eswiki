@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=analysis of problems social is diagnosis of a disease
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANÁLISIS DE PROBLEMAS SOCIALES ES DIAGNÓSTICO DE UNA ENFERMEDAD
+}}
+|Family=Gobernación,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Enfermedad
+|Target frame=Problemas sociales
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PROBLEMAS SOCIALES SON ENFERMEDADES
+}}
+|Entailments=
+|Examples=
+|Entered by=Joe
+|Status=in development
+|LinkEnglish=ANALYSIS OF SOCIAL PROBLEMS IS DIAGNOSIS OF AFFLICTION
+|Investigated for=Spanish
+}}

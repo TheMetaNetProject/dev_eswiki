@@ -1,0 +1,83 @@
+{{Frame
+|Name gloss=building
+|Family=Esquemas de entidades,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Estructura física
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Crear objetos
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=edificio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=inmueble.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=construcción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obra.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=rascacielos.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fortaleza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=casa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ventana.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=puerta.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=argamasa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ladrillo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=edificación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=levantamiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cimentación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=basamento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cimiento.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fabricá.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=palacio.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sótano.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fundación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fachada.n
+}}
+|LinkEnglish=Building
+|Applicability=Spanish
+}}

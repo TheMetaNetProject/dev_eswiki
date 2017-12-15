@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=consciousness
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=entidad_consciente
+|Role.Name gloss=conscious_entity
+}}{{Role
+|Role.Name=estado_de_consciencia
+|Role.Name gloss=state_of_consciousness
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=consciente
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=consciencia
+}}
+|LinkEnglish=Consciousness
+|Applicability=Spanish
+}}

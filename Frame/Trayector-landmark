@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=trajector-landmark
+|Family=Esquemas de ubicación
+|Type=Cog
+|Status=in development
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=trayector
+|Role.Name gloss=trajector
+}}{{Role
+|Role.Name=landmark
+|Role.Name gloss=landmark
+}}{{Role
+|Role.Name=región_perfilada
+|Role.Name gloss=profiled_region
+|Role.Definition=region in space within which trajector is located
+}}{{Role
+|Role.Name=el_fondo
+|Role.Name gloss=background
+|Role.Definition=the larger spatial extent within which trajector and landmark are located
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Región
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Trajector landmark
+|Applicability=Spanish
+}}

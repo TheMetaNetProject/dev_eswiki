@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=control is possession
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL ES POSESIÓN
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Posesión
+|Target frame=Control
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Tienen el país en sus manos.
+|Example.Gloss=they-have the country in their hands
+|Example.English translation=[The narcotraffickers] have the country in their hands.
+|Example.Provenance=http://www.eluniversal.com.mx/espectaculos/91360_old.html
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Muchos perderían el control que tienen sobre sus obras.
+|Example.Gloss=Many would-lose the control that have over their work
+|Example.English translation=Many would lose the control that they have over their work.
+|Example.Provenance=http://www.politicadigital.com.mx/?P=leernoticiaprint&Article=21452
+|Example.Comments="perder el control"
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=La operadora mexicana de restaurantes Alsea dijo el lunes que acordó con la estadunidense Starbucks Corp tomar el control del 100 por ciento de las operaciones de las populares cafeterías en México.
+|Example.Gloss=the operator Mexican of restaurants Alsea said the Monday that agreed with the U.S. Starbucks Corp. take the control of 100 percent of the operations of the popular cafes in Mexico
+|Example.English translation=Alsea restaurants Mexican operator said Monday it agreed with the U.S. Starbucks Corp. take control of 100 percent of the operations of the popular cafes in Mexico.
+|Example.Provenance=http://www.jornada.unam.mx/ultimas/2013/04/01/1758868-alsea-dice-obtiene-control-total-de-cafeterias-starbucks-en-mexico
+|Example.Comments="tomar el control"
+}}
+|Entered by=Oana, Joe, Karie, 
+|Status=in development
+|LinkEnglish=CONTROL IS POSSESSION
+|Investigated for=Spanish
+}}

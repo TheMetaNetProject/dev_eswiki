@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=increase in quantity is motion toward up
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AUMENTO DE CANTIDAD ES MOVIMIENTO HACIA ARRIBA
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Ayudas al movimiento hacia arriba
+|Target frame=Cantidad
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CANTIDAD ES VERTICALIDAD
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=MÁS ES ARRIBA
+}}{{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=REDUCCIÓN DE CANTIDAD ES MOVIMIENTO HACIA ABAJO
+}}
+|Entailments=
+|Examples=
+|Entered by=Karie,
+|Status=in development
+|Investigated for=Spanish
+}}

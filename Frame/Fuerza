@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=force
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie, 
+|Roles={{Role
+|Role.Name=fuerza
+|Role.Name gloss=force
+}}{{Role
+|Role.Name=cantidad_de_fuerza
+|Role.Name gloss=amount_of_force
+|Role.Type=Cantidad
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=fuerza.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=presión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poderío.n
+}}
+|LinkEnglish=Force
+|Applicability=Spanish
+}}

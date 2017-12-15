@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=degree of similarity is degree of proximity
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GRADO DE SIMILITUD ES GRADO DE PROXIMIDAD
+}}
+|Family=Gobernación
+|Source frame=Próximo lejano
+|Target frame=Similitud
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=SIMILITUD ES PROXIMIDAD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=A medida que los niveles impositivos está estrechamente relacionados a los ingresos del contribuyente la incidencia del impuesto está progresivamente ligada a su riqueza.
+|Example.Gloss=to extent that the levels tax are tightly related to the income of.the taxpayer the incidence of.the tax is progressively be.linked to his wealth
+|Example.English translation="To the extent that tax levels are closely related to the income of the taxpayer, the effect of the tax is progressively linked to his wealth."
+|Example.Provenance=http://portal.veracruz.gob.mx/pls/portal/docs/PAGE/COLVER/DIFUSION/REVISTA_CONCIENCIA/REVISTANO.4/02_REN%C9%20BLANCO%20GONZ%C1LEZ.PDF
+|Example.Annotation="niveles impositivos está estrechamente relacionados a los ingresos del contribuyente", 'incidencia del impuesto está progresivamente ligada a su riqueza"
+}}
+|Entered by=Oana, Karie
+|Status=in development
+|LinkEnglish=DEGREE OF SIMILARITY IS DEGREE OF PROXIMITY
+|Investigated for=Spanish
+}}

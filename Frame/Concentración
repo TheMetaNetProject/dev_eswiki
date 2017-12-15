@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=concentration
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Sustancia
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concentración.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=concentrar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=condensar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=condensación.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=consolidar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=espesar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=masa.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=cúmulo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=grueso.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=difusión.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=acumulación.n
+}}
+|LinkEnglish=Concentration
+|Applicability=Spanish
+}}

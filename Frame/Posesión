@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=possession
+|Family=Esquemas de posesión, Esquemas excluidos, 
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Karie,
+|Roles={{Role
+|Role.Name=poseedor
+|Role.Name gloss=possessor
+}}{{Role
+|Role.Name=posesión
+|Role.Name gloss=possession
+|Role.Type=object
+}}{{Role
+|Role.Name=poseer
+|Role.Name gloss=possessing
+|Role.Type=x-esquema
+|Role.Definition=comienzo, en curso, y el fin de relación de posesión
+}}{{Role
+|Role.Name=relación_de_posesión
+|Role.Name gloss=possess_relation
+|Role.Definition=relación entre poseedor y lo poseído
+}}{{Role
+|Role.Name=estado_de_posesión
+|Role.Name gloss=state_of_possession
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relación
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tener.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=poseer.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=guardar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=sostener.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=detentar.v
+}}
+|LinkEnglish=Possession
+|Applicability=Spanish
+}}
+erased 'haber' from LU list because it was creating false positives (KMM 14NOV2013)

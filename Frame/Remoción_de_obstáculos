@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=removal of obstacles
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ayudas al movimiento
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=liberar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=soltar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=descargar.v
+}}
+|LinkEnglish=Remove obstacles to motion
+|Applicability=Spanish
+}}

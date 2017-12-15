@@ -1,0 +1,116 @@
+{{Frame
+|Name gloss=barriers
+|Tags=Program sources
+|Status=auto imported
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=objeto_de_barrera
+|Role.Name gloss=barrier_object
+|Role.Type=entidad física
+}}{{Role
+|Role.Name=autor_de_la_moción
+|Role.Name gloss=mover
+}}{{Role
+|Role.Name=movimiento_afectado
+|Role.Name gloss=affected_motion
+}}{{Role
+|Role.Name=camino
+|Role.Name gloss=path
+|Role.Definition=camino potencial de movimiento
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impedimentos al movimiento
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Movimiento a lo largo de un camino
+}}
+|Bindings={{Binding
+|Binding.Local role=objeto_de_barrera
+|Binding.Bound role=Impedimento de movimiento.impedimento
+}}{{Binding
+|Binding.Local role=autor_de_la_moción
+|Binding.Bound role=Movimiento a lo largo de un camino.entidad_que_se_mueve
+}}{{Binding
+|Binding.Local role=movimiento_afectado
+|Binding.Bound role=Impedimento de movimiento.movimiento_afectado
+}}{{Binding
+|Binding.Local role=camino
+|Binding.Bound role=Movimiento a lo largo de un camino.ruta_de_movimiento
+}}{{Binding
+|Binding.Local role=movimiento_afectado
+|Binding.Bound role=Movimiento a lo largo de un camino.movimiento_x-esquema
+}}{{Binding
+|Binding.Local role=autor_de_la_moción
+|Binding.Bound role=Impedimento de movimiento.entidad_que_se_mueve
+}}
+|Inferences={{Inference
+|Inference.Description=The barrier_object's 'force-related' properties (e.g. its strength, porosity and/or fixedness)are such that a given type of mover cannot go through it.
+|Inference.Type=f-d relation
+}}{{Inference
+|Inference.Description=If the barrier is on the mover's intended path, it will prevent further motion along that path. This may result in mover ceasing to move, or in mover choosing an alternative path.
+|Inference.Type=causal
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstáculo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barrera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=estorbar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=obstrucción.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=muro.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=tope.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pared.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=valladar.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=dividir.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=división.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bloquear.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=frontera.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=pared.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=bloque.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=traba.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=trabarse.v
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=barricada.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=verja.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=escollo.n
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=valla.n
+}}
+|LinkEnglish=Barrier
+}}

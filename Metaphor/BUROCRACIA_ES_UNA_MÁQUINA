@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=bureaucracy is a machine
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BUROCRACIA ES UNA MÁQUINA
+}}
+|Tags=tentative
+|Family=Gobernación
+|Source frame=Máquina
+|Target frame=Gobierno
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Los partidos que integramos el frente no necesitamos ser una máquina burocrática para satisfacer intereses pequeños
+|Example.Gloss=the parties that integrate the front not we-need be a machine bureaucratic to satisfy interests small
+|Example.English translation=The parties making up the Front [Frente Amplio Progresista (FAP)] don't need to be a bureaucratic machine in order to satisfy small interests.
+|Example.Provenance=http://www.jornada.unam.mx/2007/12/26/index.php?section=politica&article=007n1pol
+}}
+|Entered by=Oana, Joe
+|Status=in development
+|LinkEnglish=BUREAUCRACY IS A MACHINE
+|Investigated for=Spanish
+|Relevant LUs=
+}}

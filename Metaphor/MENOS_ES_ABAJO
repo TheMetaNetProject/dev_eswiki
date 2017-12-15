@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=less is down
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MENOS ES ABAJO
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticalidad
+|Target frame=Cantidad
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Spanish
+|Example.Text=Cayó 1.1% la producción industrial de México en diciembre
+|Example.Gloss=Fell 1.1% the production industrial of Mexico in December
+|Example.English translation=Industrial production in Mexico fell 1.1% in December.
+|Example.Provenance=http://www.elperiodicodemexico.com/nota.php?id=657819&sec=Nacional-Economia
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=No cabe duda de que la principal causa que la pobreza no haya bajado es por la falta de crecimiento económico alto y sostenido.
+|Example.Gloss=no possible doubt of that the principal cause that the poverty no have lowered is by the lack of growth economic high and sustained
+|Example.English translation=There is no doubt that the main cause that poverty has not declined is due to the lack of high and sustained economic growth.
+|Example.Provenance=http://eleconomista.com.mx/foro-economico/2012/11/25/combate-pobreza
+}}{{Example
+|Example.Language=Spanish
+|Example.Text=Los precios en las 20 ciudades han caído un 3.3% en la medición interanual, en línea con las expectativas de analistas.
+|Example.Gloss=the prices in the 20 cities have fallen a 3.3% in the measurement annual, in line with the expectations of analysts
+|Example.English translation=Prices in the 20 cities fell by 3.3% in the measurement year, in line with analyst expectations.
+|Example.Provenance=http://eleconomista.com.mx/search/google/cayendo?query=cayendo&cx=015826339254480239602%3A4kd6mexdpz4&cof=FORID%3A11&sitesearch=
+}}
+|Entered by=Joe, Karie
+|Status=in development
+|LinkEnglish=LESS IS DOWN
+|Investigated for=Spanish
+}}

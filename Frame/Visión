@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=vision
+|Other aliases=Ver
+|Family=Esquemas de Percepción, Esquemas de visión,
+|Tags=Program sources
+|Type=Frame
+|Status=proposed, auto imported
+|Entered by=x
+|Last reviewed by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Percepción
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=visión
+}}{{LUs
+|LUs.Language=Spanish
+|LUs.Lemmas=ver
+}}
+|LinkEnglish=Seeing
+}}
